@@ -1,0 +1,9 @@
+<p>Search for a champ</p>
+<input ng-model='query' autofocus='autofocus'>
+
+<ul class="champs">
+	<li ng-repeat="champ in champs | filter:query">
+		<a href="#/{{champ.name}}"><img alt="{{champ.name}}" ng-src="{{champ.squareURL}}"></a>
+	</li>
+</ul>
+

@@ -3,10 +3,16 @@
 /* Controllers */
 
 
-function MyCtrl1() {}
-MyCtrl1.$inject = [];
-
-
-function MyCtrl2() {
+function ChampGridCtrl($scope, $http) {
+	$http.get('champs/champs.json').success(function(data) {
+		$scope.champs = data
+	});
 }
-MyCtrl2.$inject = [];
+ChampGridCtrl.$inject = ['$scope', '$http'];
+
+
+function ChampDetailCtrl($scope, $http, $routeParams) {
+	$scope.champName = $routeParams.champName;
+
+}
+ChampDetailCtrl.$inject = ['$scope', '$http', '$routeParams']; 
