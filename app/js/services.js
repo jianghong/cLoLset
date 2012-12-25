@@ -2,8 +2,14 @@
 
 /* Services */
 
+var servicesModule = angular.module('clolset.services', ['ngResource']);
 
-// Demonstrate how to register services
-// In this case it is a simple value service.
-angular.module('clolset.services', []).
-  value('version', '0.1');
+servicesModule.
+  factory('Champ', function($resource){
+  	return $resource('champs/champs.json')
+  });
+
+servicesModule.
+  factory('Square', function($resource){
+  	return $resource('champs/squares.json')
+  });

@@ -1,1 +1,8 @@
-<p>Detail page for {{champName}}.</p>
+<p>{{champName}}</p>
+
+<img class="mainImage" ng-src="{{mainImg}}">
+<ul>
+	<li ng-repeat="thumb in champs[champName].thumbs">
+		<img ng-src="{{thumb}}" ng-click="setImage(thumb)">
+	</li>
+</ul>
