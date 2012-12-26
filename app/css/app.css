@@ -3,3 +3,15 @@ li {
   display: inline-block;
   margin: 5px;
 }
+
+/* line 6, ../../compass/sass/app.scss */
+.info {
+  position: absolute;
+  background-color: blue;
+  color: white;
+}
+
+/* line 12, ../../compass/sass/app.scss */
+.preload {
+  display: none;
+}

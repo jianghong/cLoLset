@@ -1,6 +1,7 @@
 <p>Search for a champ</p>
-<input ng-model='query.name' autofocus='autofocus'>
-
+<form ng-submit="submit()">
+	<input ng-model='query.name' autofocus='autofocus'>
+</form>
 <ul>
 	<li ng-repeat="champ in squares | filter:query">
 		<a href="#/{{champ.name}}"><img alt="{{champ.name}}" ng-src="{{champ.squareUrl}}"></a>

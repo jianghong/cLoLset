@@ -340,7 +340,6 @@
         ],
         "thumbs": [
             "img/champ_thumbs/Fiddlesticks_0.jpg",
-            "img/champ_thumbs/Fiddlesticks_0.png",
             "img/champ_thumbs/Fiddlesticks_1.jpg",
             "img/champ_thumbs/Fiddlesticks_2.jpg",
             "img/champ_thumbs/Fiddlesticks_3.jpg",
@@ -1560,18 +1559,10 @@
     },
     "Vi": {
         "splashes": [
-            "img/champ_splash/Vi_Splash_0.jpg",
-            "img/champ_splash/Vi_Splash_1.jpg",
-            "img/champ_splash/Viktor_Splash_0.jpg",
-            "img/champ_splash/Viktor_Splash_1.jpg",
-            "img/champ_splash/Viktor_Splash_2.jpg"
+            "img/champ_splash/Vi_Splash_0.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Vi_0.jpg",
-            "img/champ_thumbs/Vi_1.jpg",
-            "img/champ_thumbs/Viktor_0.jpg",
-            "img/champ_thumbs/Viktor_1.jpg",
-            "img/champ_thumbs/Viktor_2.jpg"
+            "img/champ_thumbs/Vi_0.jpg"
         ]
     },
     "Viktor": {

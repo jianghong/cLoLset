@@ -1,8 +1,27 @@
-<p>{{champName}}</p>
-
-<img class="mainImage" ng-src="{{mainImg}}">
+<div class="infoAndSplash">
+	<p>Hide value is : {{hideValue}}</p>
+	<section ng-hide="hideValue" class="info">
+		<p>{{champName}}</p>
+		<p>Name of skin goes here</p>
+		<p>price of skin goes here: </p>
+		<p>likes/dislikes</p>
+		<ul>
+			<li>Q</li>
+			<li>W</li>
+			<li>E</li>
+			<li>R</li>
+		</ul>
+	</section>
+	<img ng-mouseleave="hideInfo()" ng-mouseenter="showInfo()" class="mainImage" ng-src="{{mainImg}}">
+</div>
 <ul>
 	<li ng-repeat="thumb in champs[champName].thumbs">
 		<img ng-src="{{thumb}}" ng-click="setImage(thumb)">
+	</li>
+</ul>
+
+<ul>
+	<li ng-repeat="splash in champs[champName].splashes">
+		<img class="preload" ng-src="{{splash}}" width="1" height="1" border="0">
 	</li>
 </ul>
