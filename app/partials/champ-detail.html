@@ -1,11 +1,15 @@
+<form ng-submit="submitChoice()">
+    <autocomplete autofocus='autofocus' list="availableTags" selection="name"/>
+</form>
+
+<p>Submitted: {{name}}</p>
+<p>{{choice}}</p>
 <div class="infoAndSplash">
-	<p>Hide value is : {{hideValue}}</p>
-	<section ng-hide="hideValue" class="info">
-		<p>{{champName}}</p>
-		<p>Name of skin goes here</p>
-		<p>price of skin goes here: </p>
+	<section ng-mouseenter="showInfo()" ng-mouseleave="hideInfo()" ng-hide="hideValue" class="info">
+		<p>Skin name goes here: {{mainSkin}}</p>
+		<p>price of skin goes here: IP / RP</p>
 		<p>likes/dislikes</p>
-		<ul>
+		<ul class="skillscreens">
 			<li>Q</li>
 			<li>W</li>
 			<li>E</li>
@@ -15,13 +19,13 @@
 	<img ng-mouseleave="hideInfo()" ng-mouseenter="showInfo()" class="mainImage" ng-src="{{mainImg}}">
 </div>
 <ul>
-	<li ng-repeat="thumb in champs[champName].thumbs">
+	<li class="grid" ng-repeat="thumb in champs[champName].thumbs">
 		<img ng-src="{{thumb}}" ng-click="setImage(thumb)">
 	</li>
 </ul>
 
 <ul>
-	<li ng-repeat="splash in champs[champName].splashes">
+	<li class="grid" ng-repeat="splash in champs[champName].splashes">
 		<img class="preload" ng-src="{{splash}}" width="1" height="1" border="0">
 	</li>
 </ul>

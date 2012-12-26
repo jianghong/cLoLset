@@ -1,8 +1,6 @@
 'use strict';
 
 /* Controllers */
-
-
 function ChampGridCtrl($scope, Square) {
 	$scope.squares = Square.query();
 	/*
@@ -15,8 +13,16 @@ function ChampGridCtrl($scope, Square) {
 ChampGridCtrl.$inject = ['$scope', 'Square'];
 
 
-function ChampDetailCtrl($scope, Champ, $routeParams) {
+function ChampDetailCtrl($scope, Champ, $window, $routeParams, autoCompleteDataService) {
 	$scope.champName = $routeParams.champName;
+
+	$scope.availableTags = autoCompleteDataService.getSource();
+	$scope.submitted = false;
+	$scope.name = "";
+	$scope.submitChoice = function() {
+		$window.location.assign("index.html#/"+$scope.name);
+	}
+
 	$scope.hideValue = true;
 	$scope.showInfo = function() {
 		$scope.hideValue = false;
@@ -26,6 +32,7 @@ function ChampDetailCtrl($scope, Champ, $routeParams) {
 	}
 	$scope.champs = Champ.get({}, function(champs){
 		$scope.mainImg = champs[$routeParams.champName].splashes[0];
+		$scope.mainSkin = $scope.mainImg.substring(17, ($scope.mainImg.length-4));
 		$scope.imageList = champs[$scope.champName].splashes;
 		$scope.setImage = function(imageUrl){
 			var indexLen = imageUrl.length - 6; 
@@ -36,10 +43,11 @@ function ChampDetailCtrl($scope, Champ, $routeParams) {
 			for (var i=0; i<splashArray.length; i++){
 				if (splashArray[i].indexOf(index) !== -1) {
 					$scope.mainImg = splashArray[i];
+					$scope.mainSkin = $scope.mainImg.substring(17, ($scope.mainImg.length-4));
 					break;
 				}
 			}
 		}
 	});
 }
-ChampDetailCtrl.$inject = ['$scope', 'Champ', '$routeParams']; 
+ChampDetailCtrl.$inject = ['$scope', 'Champ', '$window', '$routeParams', 'autoCompleteDataService']; 
