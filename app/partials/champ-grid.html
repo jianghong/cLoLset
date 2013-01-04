@@ -1,8 +1,10 @@
 <p>Search for a champ</p>
-<form submit="submit()">
+<form ng-submit="submit()">
 	<input ng-model='query.name' autofocus='autofocus'>
 </form>
-<ul>
+{{d}}
+{{query.name}}
+<ul id="main-grid">
 	<li class="grid" ng-repeat="champ in squares | filter:query">
 		<a href="#/{{champ.name}}"><img alt="{{champ.name}}" ng-src="{{champ.squareUrl}}"></a>
 	</li>

@@ -1,26 +1,32 @@
 'use strict';
 
 /* Controllers */
-function ChampGridCtrl($scope, Square) {
+function ChampGridCtrl($scope, Square, autoCompleteDataService, $location) {
 	$scope.squares = Square.query();
-	/*
+	$scope.champArray = autoCompleteDataService.getSourcelc();
 	$scope.submit = function () {
-		if (this.squares.length == 1) {
-
+		if ($scope.query.name !== ""){
+			$scope.convertCap = angular.uppercase($scope.query.name[0])+
+				$scope.query.name.substring(1);
+			if ($scope.champArray.indexOf($scope.query.name) !== -1) {
+				$location.path("/"+$scope.convertCap);
+			}
 		}
-	}*/
+	}
 }
-ChampGridCtrl.$inject = ['$scope', 'Square'];
+ChampGridCtrl.$inject = ['$scope', 'Square', "autoCompleteDataService", '$location'];
 
 
-function ChampDetailCtrl($scope, Champ, $window, $routeParams, autoCompleteDataService) {
+function ChampDetailCtrl($scope, Champ, $routeParams, autoCompleteDataService, $location) {
 	$scope.champName = $routeParams.champName;
 
 	$scope.availableTags = autoCompleteDataService.getSource();
 	$scope.submitted = false;
 	$scope.name = "";
 	$scope.submitChoice = function() {
-		$window.location.assign("index.html#/"+$scope.name);
+		if ($scope.name !== ""){
+			$location.path("/"+$scope.name);
+		}
 	}
 
 	$scope.hideValue = true;
@@ -50,4 +56,4 @@ function ChampDetailCtrl($scope, Champ, $window, $routeParams, autoCompleteDataS
 		}
 	});
 }
-ChampDetailCtrl.$inject = ['$scope', 'Champ', '$window', '$routeParams', 'autoCompleteDataService']; 
+ChampDetailCtrl.$inject = ['$scope', 'Champ', '$routeParams', 'autoCompleteDataService', '$location']; 
