@@ -64,10 +64,6 @@
         "squareUrl": "img/champ_squares/Draven_Square_0.png"
     },
     {
-        "name": "DrMundo",
-        "squareUrl": "img/champ_squares/DrMundo_Square_0.png"
-    },
-    {
         "name": "Elise",
         "squareUrl": "img/champ_squares/Elise_Square_0.png"
     },
@@ -128,8 +124,8 @@
         "squareUrl": "img/champ_squares/Janna_Square_0.png"
     },
     {
-        "name": "JarvanIV",
-        "squareUrl": "img/champ_squares/JarvanIV_Square_0.png"
+        "name": "Jarvan",
+        "squareUrl": "img/champ_squares/Jarvan_Square_0.png"
     },
     {
         "name": "Jax",
@@ -168,8 +164,8 @@
         "squareUrl": "img/champ_squares/Khazix_Square_0.png"
     },
     {
-        "name": "KogMaw",
-        "squareUrl": "img/champ_squares/KogMaw_Square_0.png"
+        "name": "Kogmaw",
+        "squareUrl": "img/champ_squares/Kogmaw_Square_0.png"
     },
     {
         "name": "Leblanc",
@@ -218,6 +214,10 @@
     {
         "name": "Morgana",
         "squareUrl": "img/champ_squares/Morgana_Square_0.png"
+    },
+    {
+        "name": "Mundo",
+        "squareUrl": "img/champ_squares/Mundo_Square_0.png"
     },
     {
         "name": "Nami",
@@ -384,8 +384,8 @@
         "squareUrl": "img/champ_squares/Veigar_Square_0.png"
     },
     {
-        "name": "Vi",
-        "squareUrl": "img/champ_squares/Vi_Square_0.png"
+        "name": "Vi ",
+        "squareUrl": "img/champ_squares/Vi _Square_0.png"
     },
     {
         "name": "Viktor",

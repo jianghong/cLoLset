@@ -14,7 +14,7 @@ function ChampGridCtrl($scope, Square, autoCompleteDataService, $location) {
 		}
 	}
 }
-ChampGridCtrl.$inject = ['$scope', 'Square', "autoCompleteDataService", '$location'];
+//ChampGridCtrl.$inject = ['$scope', 'Square', "autoCompleteDataService", '$location'];
 
 
 function ChampDetailCtrl($scope, Champ, $routeParams, autoCompleteDataService, $location) {
@@ -38,22 +38,22 @@ function ChampDetailCtrl($scope, Champ, $routeParams, autoCompleteDataService, $
 	}
 	$scope.champs = Champ.get({}, function(champs){
 		$scope.mainImg = champs[$routeParams.champName].splashes[0];
-		$scope.mainSkin = $scope.mainImg.substring(17, ($scope.mainImg.length-4));
+		$scope.mainSkin = $scope.mainImg.substring(17, ($scope.mainImg.length-11));
 		$scope.imageList = champs[$scope.champName].splashes;
 		$scope.setImage = function(imageUrl){
-			var indexLen = imageUrl.length - 6; 
+			var indexLen = imageUrl.length - 10; 
 			// index is the last 6 letters of imageUrl, i.e _0.jpg, _1.jpg
-			var index = imageUrl.substring(indexLen);
+			var index = imageUrl.substring(17, indexLen);
 			// find the corresponding splash image
 			var splashArray = champs[$routeParams.champName].splashes;
 			for (var i=0; i<splashArray.length; i++){
 				if (splashArray[i].indexOf(index) !== -1) {
 					$scope.mainImg = splashArray[i];
-					$scope.mainSkin = $scope.mainImg.substring(17, ($scope.mainImg.length-4));
+					$scope.mainSkin = $scope.mainImg.substring(17, ($scope.mainImg.length-11));
 					break;
 				}
 			}
 		}
 	});
 }
-ChampDetailCtrl.$inject = ['$scope', 'Champ', '$routeParams', 'autoCompleteDataService', '$location']; 
+//ChampDetailCtrl.$inject = ['$scope', 'Champ', '$routeParams', 'autoCompleteDataService', '$location']; 

@@ -1,1750 +1,1742 @@
 {
     "Ahri": {
         "splashes": [
-            "img/champ_splash/Ahri_Splash_0.jpg",
-            "img/champ_splash/Ahri_splash_1.jpg",
-            "img/champ_splash/Ahri_Splash_2.jpg",
-            "img/champ_splash/Ahri_Splash_3.jpg"
+            "img/champ_splash/0_Ahri_splash.jpg",
+            "img/champ_splash/1_DynastyAhri_splash.jpg",
+            "img/champ_splash/2_MidnightAhri_splash.jpg",
+            "img/champ_splash/3_FoxfireAhri_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Ahri_0.jpg",
-            "img/champ_thumbs/Ahri_1.jpg",
-            "img/champ_thumbs/Ahri_2.jpg",
-            "img/champ_thumbs/Ahri_3.jpg"
+            "img/champ_thumbs/0_Ahri_thumb.jpg",
+            "img/champ_thumbs/1_DynastyAhri_thumb.jpg",
+            "img/champ_thumbs/2_MidnightAhri_thumb.jpg",
+            "img/champ_thumbs/3_FoxfireAhri_thumb.jpg"
         ]
     },
     "Akali": {
         "splashes": [
-            "img/champ_splash/Akali_Splash_0.jpg",
-            "img/champ_splash/Akali_Splash_1.jpg",
-            "img/champ_splash/Akali_Splash_2.jpg",
-            "img/champ_splash/Akali_Splash_3.jpg",
-            "img/champ_splash/Akali_Splash_4.jpg",
-            "img/champ_splash/Akali_Splash_5.jpg",
-            "img/champ_splash/Akali_Splash_6.jpg"
+            "img/champ_splash/10_SilverfangAkali_splash.jpg",
+            "img/champ_splash/4_Akali_splash.jpg",
+            "img/champ_splash/5_CrimsonAkali_splash.jpg",
+            "img/champ_splash/6_StingerAkali_splash.jpg",
+            "img/champ_splash/7_AllStarAkali_splash.jpg",
+            "img/champ_splash/8_NurseAkali_splash.jpg",
+            "img/champ_splash/9_BloodMoonAkali_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Akali_0.jpg",
-            "img/champ_thumbs/Akali_1.jpg",
-            "img/champ_thumbs/Akali_2.jpg",
-            "img/champ_thumbs/Akali_3.jpg",
-            "img/champ_thumbs/Akali_4.jpg",
-            "img/champ_thumbs/Akali_5.jpg",
-            "img/champ_thumbs/Akali_6.jpg"
+            "img/champ_thumbs/10_SilverfangAkali_thumb.jpg",
+            "img/champ_thumbs/4_Akali_thumb.jpg",
+            "img/champ_thumbs/5_CrimsonAkali_thumb.jpg",
+            "img/champ_thumbs/6_StingerAkali_thumb.jpg",
+            "img/champ_thumbs/7_AllStarAkali_thumb.jpg",
+            "img/champ_thumbs/8_NurseAkali_thumb.jpg",
+            "img/champ_thumbs/9_BloodMoonAkali_thumb.jpg"
         ]
     },
     "Alistar": {
         "splashes": [
-            "img/champ_splash/Alistar_Splash_0.jpg",
-            "img/champ_splash/Alistar_Splash_1.jpg",
-            "img/champ_splash/Alistar_Splash_2.jpg",
-            "img/champ_splash/Alistar_Splash_3.jpg",
-            "img/champ_splash/Alistar_Splash_4.jpg",
-            "img/champ_splash/Alistar_Splash_5.jpg",
-            "img/champ_splash/Alistar_Splash_6.jpg"
+            "img/champ_splash/11_Alistar_splash.jpg",
+            "img/champ_splash/12_BlackMinotaurAlistar_splash.jpg",
+            "img/champ_splash/13_GoldenBullAlistar_splash.jpg",
+            "img/champ_splash/14_MatadorAlistar_splash.jpg",
+            "img/champ_splash/15_CowboyAlistar_splash.jpg",
+            "img/champ_splash/16_UnchainedAlistar_splash.jpg",
+            "img/champ_splash/17_InfernalAlistar_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Alistar_0.jpg",
-            "img/champ_thumbs/Alistar_1.jpg",
-            "img/champ_thumbs/Alistar_2.jpg",
-            "img/champ_thumbs/Alistar_3.jpg",
-            "img/champ_thumbs/Alistar_4.jpg",
-            "img/champ_thumbs/Alistar_5.jpg",
-            "img/champ_thumbs/Alistar_6.jpg"
+            "img/champ_thumbs/11_Alistar_thumb.jpg",
+            "img/champ_thumbs/12_BlackMinotaurAlistar_thumb.jpg",
+            "img/champ_thumbs/13_GoldenBullAlistar_thumb.jpg",
+            "img/champ_thumbs/14_MatadorAlistar_thumb.jpg",
+            "img/champ_thumbs/15_CowboyAlistar_thumb.jpg",
+            "img/champ_thumbs/16_UnchainedAlistar_thumb.jpg",
+            "img/champ_thumbs/17_InfernalAlistar_thumb.jpg"
         ]
     },
     "Amumu": {
         "splashes": [
-            "img/champ_splash/Amumu_Splash_0.jpg",
-            "img/champ_splash/Amumu_Splash_1.jpg",
-            "img/champ_splash/Amumu_Splash_2.jpg",
-            "img/champ_splash/Amumu_Splash_3.jpg",
-            "img/champ_splash/Amumu_Splash_4.jpg",
-            "img/champ_splash/Amumu_Splash_5.jpg",
-            "img/champ_splash/Amumu_Splash_6.jpg",
-            "img/champ_splash/Amumu_Splash_7.jpg"
+            "img/champ_splash/18_Amumu_splash.jpg",
+            "img/champ_splash/19_PharaohAmumu_splash.jpg",
+            "img/champ_splash/20_VancouverAmumu_splash.jpg",
+            "img/champ_splash/21_EmumuAmumu_splash.jpg",
+            "img/champ_splash/22_RegiftedAmumu_splash.jpg",
+            "img/champ_splash/23_AlmostPromKingAmumu_splash.jpg",
+            "img/champ_splash/24_LittleKnightAmumu_splash.jpg",
+            "img/champ_splash/25_SadRobotAmumu_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Amumu_0.jpg",
-            "img/champ_thumbs/Amumu_1.jpg",
-            "img/champ_thumbs/Amumu_2.jpg",
-            "img/champ_thumbs/Amumu_3.jpg",
-            "img/champ_thumbs/Amumu_4.jpg",
-            "img/champ_thumbs/Amumu_5.jpg",
-            "img/champ_thumbs/Amumu_6.jpg",
-            "img/champ_thumbs/Amumu_7.jpg"
+            "img/champ_thumbs/18_Amumu_thumb.jpg",
+            "img/champ_thumbs/19_PharaohAmumu_thumb.jpg",
+            "img/champ_thumbs/20_VancouverAmumu_thumb.jpg",
+            "img/champ_thumbs/21_EmumuAmumu_thumb.jpg",
+            "img/champ_thumbs/22_RegiftedAmumu_thumb.jpg",
+            "img/champ_thumbs/23_AlmostPromKingAmumu_thumb.jpg",
+            "img/champ_thumbs/24_LittleKnightAmumu_thumb.jpg",
+            "img/champ_thumbs/25_SadRobotAmumu_thumb.jpg"
         ]
     },
     "Anivia": {
         "splashes": [
-            "img/champ_splash/Anivia_Splash_0.jpg",
-            "img/champ_splash/Anivia_Splash_1.jpg",
-            "img/champ_splash/Anivia_Splash_2.jpg",
-            "img/champ_splash/Anivia_Splash_3.jpg",
-            "img/champ_splash/Anivia_Splash_4.jpg"
+            "img/champ_splash/26_Anivia_splash.jpg",
+            "img/champ_splash/27_TeamSpiritAnivia_splash.jpg",
+            "img/champ_splash/28_BirdofPreyAnivia_splash.jpg",
+            "img/champ_splash/29_NoxusHunterAnivia_splash.jpg",
+            "img/champ_splash/30_HextechAnivia_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Anivia_0.jpg",
-            "img/champ_thumbs/Anivia_1.jpg",
-            "img/champ_thumbs/Anivia_2.jpg",
-            "img/champ_thumbs/Anivia_3.jpg",
-            "img/champ_thumbs/Anivia_4.jpg"
+            "img/champ_thumbs/26_Anivia_thumb.jpg",
+            "img/champ_thumbs/27_TeamSpiritAnivia_thumb.jpg",
+            "img/champ_thumbs/28_BirdofPreyAnivia_thumb.jpg",
+            "img/champ_thumbs/29_NoxusHunterAnivia_thumb.jpg",
+            "img/champ_thumbs/30_HextechAnivia_thumb.jpg"
         ]
     },
     "Annie": {
         "splashes": [
-            "img/champ_splash/Annie_Splash_0.jpg",
-            "img/champ_splash/Annie_Splash_1.jpg",
-            "img/champ_splash/Annie_Splash_2.jpg",
-            "img/champ_splash/Annie_Splash_3.jpg",
-            "img/champ_splash/Annie_Splash_4.jpg",
-            "img/champ_splash/Annie_Splash_5.jpg",
-            "img/champ_splash/Annie_Splash_6.jpg",
-            "img/champ_splash/Annie_Splash_7.jpg"
+            "img/champ_splash/31_Annie_splash.jpg",
+            "img/champ_splash/32_GothAnnie_splash.jpg",
+            "img/champ_splash/33_RedRidingAnnie_splash.jpg",
+            "img/champ_splash/34_AnnieinWonderland_splash.jpg",
+            "img/champ_splash/35_PromQueenAnnie_splash.jpg",
+            "img/champ_splash/36_FrostFireAnnie_splash.jpg",
+            "img/champ_splash/37_ReverseAnnie_splash.jpg",
+            "img/champ_splash/38_FrankenTibbersAnnie_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Annie_0.jpg",
-            "img/champ_thumbs/Annie_1.jpg",
-            "img/champ_thumbs/Annie_2.jpg",
-            "img/champ_thumbs/Annie_3.jpg",
-            "img/champ_thumbs/Annie_4.jpg",
-            "img/champ_thumbs/Annie_5.jpg",
-            "img/champ_thumbs/Annie_6.jpg",
-            "img/champ_thumbs/Annie_7.jpg"
+            "img/champ_thumbs/31_Annie_thumb.jpg",
+            "img/champ_thumbs/32_GothAnnie_thumb.jpg",
+            "img/champ_thumbs/33_RedRidingAnnie_thumb.jpg",
+            "img/champ_thumbs/34_AnnieinWonderland_thumb.jpg",
+            "img/champ_thumbs/35_PromQueenAnnie_thumb.jpg",
+            "img/champ_thumbs/36_FrostFireAnnie_thumb.jpg",
+            "img/champ_thumbs/37_ReverseAnnie_thumb.jpg",
+            "img/champ_thumbs/38_FrankenTibbersAnnie_thumb.jpg"
         ]
     },
     "Ashe": {
         "splashes": [
-            "img/champ_splash/Ashe_Splash_0.jpg",
-            "img/champ_splash/Ashe_Splash_1.jpg",
-            "img/champ_splash/Ashe_Splash_2.jpg",
-            "img/champ_splash/Ashe_Splash_3.jpg",
-            "img/champ_splash/Ashe_Splash_4.jpg",
-            "img/champ_splash/Ashe_Splash_5.jpg"
+            "img/champ_splash/39_Ashe_splash.jpg",
+            "img/champ_splash/40_FreljordBowmasterAshe_splash.jpg",
+            "img/champ_splash/41_SherwoodAshe_splash.jpg",
+            "img/champ_splash/42_WoadAshe_splash.jpg",
+            "img/champ_splash/43_QueenAshe_splash.jpg",
+            "img/champ_splash/44_AmethystAshe_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Ashe_0.jpg",
-            "img/champ_thumbs/Ashe_1.jpg",
-            "img/champ_thumbs/Ashe_2.jpg",
-            "img/champ_thumbs/Ashe_3.jpg",
-            "img/champ_thumbs/Ashe_4.jpg",
-            "img/champ_thumbs/Ashe_5.jpg"
+            "img/champ_thumbs/39_Ashe_thumb.jpg",
+            "img/champ_thumbs/40_FreljordBowmasterAshe_thumb.jpg",
+            "img/champ_thumbs/41_SherwoodAshe_thumb.jpg",
+            "img/champ_thumbs/42_WoadAshe_thumb.jpg",
+            "img/champ_thumbs/43_QueenAshe_thumb.jpg",
+            "img/champ_thumbs/44_AmethystAshe_thumb.jpg"
         ]
     },
     "Blitzcrank": {
         "splashes": [
-            "img/champ_splash/Blitzcrank_Splash_0.jpg",
-            "img/champ_splash/Blitzcrank_Splash_1.jpg",
-            "img/champ_splash/Blitzcrank_Splash_2.jpg",
-            "img/champ_splash/Blitzcrank_Splash_3.jpg",
-            "img/champ_splash/Blitzcrank_Splash_4.jpg",
-            "img/champ_splash/Blitzcrank_Splash_5.jpg"
+            "img/champ_splash/45_Blitzcrank_splash.jpg",
+            "img/champ_splash/46_RustySteamGolemBlitzcrank_splash.jpg",
+            "img/champ_splash/47_GoalkeeperBlitzcrank_splash.jpg",
+            "img/champ_splash/48_BoomBoomBlitzcrank_splash.jpg",
+            "img/champ_splash/49_PiltoverCustomsBlitzcrank_splash.jpg",
+            "img/champ_splash/50_DefinitelyNotBlitzcrank_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Blitzcrank_0.jpg",
-            "img/champ_thumbs/Blitzcrank_1.jpg",
-            "img/champ_thumbs/Blitzcrank_2.jpg",
-            "img/champ_thumbs/Blitzcrank_3.jpg",
-            "img/champ_thumbs/Blitzcrank_4.jpg",
-            "img/champ_thumbs/Blitzcrank_5.jpg"
+            "img/champ_thumbs/45_Blitzcrank_thumb.jpg",
+            "img/champ_thumbs/46_RustySteamGolemBlitzcrank_thumb.jpg",
+            "img/champ_thumbs/47_GoalkeeperBlitzcrank_thumb.jpg",
+            "img/champ_thumbs/48_BoomBoomBlitzcrank_thumb.jpg",
+            "img/champ_thumbs/49_PiltoverCustomsBlitzcrank_thumb.jpg",
+            "img/champ_thumbs/50_DefinitelyNotBlitzcrank_thumb.jpg"
         ]
     },
     "Brand": {
         "splashes": [
-            "img/champ_splash/Brand_Splash_0.jpg",
-            "img/champ_splash/Brand_Splash_1.jpg",
-            "img/champ_splash/Brand_Splash_2.jpg",
-            "img/champ_splash/Brand_Splash_3.jpg",
-            "img/champ_splash/Brand_Splash_4.jpg"
+            "img/champ_splash/51_Brand_splash.jpg",
+            "img/champ_splash/52_ApocalypticBrand_splash.jpg",
+            "img/champ_splash/53_VandalBrand_splash.jpg",
+            "img/champ_splash/54_CryocoreBrand_splash.jpg",
+            "img/champ_splash/55_ZombieBrand_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Brand_0.jpg",
-            "img/champ_thumbs/Brand_1.jpg",
-            "img/champ_thumbs/Brand_2.jpg",
-            "img/champ_thumbs/Brand_3.jpg",
-            "img/champ_thumbs/Brand_4.jpg"
+            "img/champ_thumbs/51_Brand_thumb.jpg",
+            "img/champ_thumbs/52_ApocalypticBrand_thumb.jpg",
+            "img/champ_thumbs/53_VandalBrand_thumb.jpg",
+            "img/champ_thumbs/54_CryocoreBrand_thumb.jpg",
+            "img/champ_thumbs/55_ZombieBrand_thumb.jpg"
         ]
     },
     "Caitlyn": {
         "splashes": [
-            "img/champ_splash/Caitlyn_Splash_0.jpg",
-            "img/champ_splash/Caitlyn_Splash_1.jpg",
-            "img/champ_splash/Caitlyn_Splash_2.jpg",
-            "img/champ_splash/Caitlyn_Splash_3.jpg",
-            "img/champ_splash/Caitlyn_Splash_4.jpg",
-            "img/champ_splash/Caitlyn_Splash_5.jpg"
+            "img/champ_splash/56_Caitlyn_splash.jpg",
+            "img/champ_splash/57_ResistanceCaitlyn_splash.jpg",
+            "img/champ_splash/58_SheriffCaitlyn_splash.jpg",
+            "img/champ_splash/59_SafariCaitlyn_splash.jpg",
+            "img/champ_splash/60_ArcticWarfareCaitlyn_splash.jpg",
+            "img/champ_splash/61_OfficerCaitlyn_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Caitlyn_0.jpg",
-            "img/champ_thumbs/Caitlyn_1.jpg",
-            "img/champ_thumbs/Caitlyn_2.jpg",
-            "img/champ_thumbs/Caitlyn_3.jpg",
-            "img/champ_thumbs/Caitlyn_4.jpg",
-            "img/champ_thumbs/Caitlyn_5.jpg"
+            "img/champ_thumbs/56_Caitlyn_thumb.jpg",
+            "img/champ_thumbs/57_ResistanceCaitlyn_thumb.jpg",
+            "img/champ_thumbs/58_SheriffCaitlyn_thumb.jpg",
+            "img/champ_thumbs/59_SafariCaitlyn_thumb.jpg",
+            "img/champ_thumbs/60_ArcticWarfareCaitlyn_thumb.jpg",
+            "img/champ_thumbs/61_OfficerCaitlyn_thumb.jpg"
         ]
     },
     "Cassiopeia": {
         "splashes": [
-            "img/champ_splash/Cassiopeia_Splash_0.jpg",
-            "img/champ_splash/Cassiopeia_Splash_1.jpg",
-            "img/champ_splash/Cassiopeia_Splash_2.jpg",
-            "img/champ_splash/Cassiopeia_Splash_3.jpg"
+            "img/champ_splash/62_Cassiopeia_splash.jpg",
+            "img/champ_splash/63_DesperadaCassiopeia_splash.jpg",
+            "img/champ_splash/64_SirenCassiopeia_splash.jpg",
+            "img/champ_splash/65_MythicCassiopeia_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Cassiopeia_0.jpg",
-            "img/champ_thumbs/Cassiopeia_1.jpg",
-            "img/champ_thumbs/Cassiopeia_2.jpg",
-            "img/champ_thumbs/Cassiopeia_3.jpg"
+            "img/champ_thumbs/62_Cassiopeia_thumb.jpg",
+            "img/champ_thumbs/63_DesperadaCassiopeia_thumb.jpg",
+            "img/champ_thumbs/64_SirenCassiopeia_thumb.jpg",
+            "img/champ_thumbs/65_MythicCassiopeia_thumb.jpg"
         ]
     },
     "Chogath": {
         "splashes": [
-            "img/champ_splash/Chogath_Splash_0.jpg",
-            "img/champ_splash/Chogath_Splash_1.jpg",
-            "img/champ_splash/Chogath_Splash_2.jpg",
-            "img/champ_splash/Chogath_Splash_3.jpg",
-            "img/champ_splash/Chogath_Splash_4.jpg",
-            "img/champ_splash/Chogath_Splash_5.jpg"
+            "img/champ_splash/66_ChoGath_splash.jpg",
+            "img/champ_splash/67_NightmareChoGath_splash.jpg",
+            "img/champ_splash/68_GentlemanChogath_splash.jpg",
+            "img/champ_splash/69_LochNessChogath_splash.jpg",
+            "img/champ_splash/70_JurassicChogath_splash.jpg",
+            "img/champ_splash/71_BattlecastChogath_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Chogath_0.jpg",
-            "img/champ_thumbs/Chogath_1.jpg",
-            "img/champ_thumbs/Chogath_2.jpg",
-            "img/champ_thumbs/Chogath_3.jpg",
-            "img/champ_thumbs/Chogath_4.jpg",
-            "img/champ_thumbs/Chogath_5.jpg"
+            "img/champ_thumbs/66_ChoGath_thumb.jpg",
+            "img/champ_thumbs/67_NightmareChoGath_thumb.jpg",
+            "img/champ_thumbs/68_GentlemanChogath_thumb.jpg",
+            "img/champ_thumbs/69_LochNessChogath_thumb.jpg",
+            "img/champ_thumbs/70_JurassicChogath_thumb.jpg",
+            "img/champ_thumbs/71_BattlecastChogath_thumb.jpg"
         ]
     },
     "Corki": {
         "splashes": [
-            "img/champ_splash/Corki_Splash_0.jpg",
-            "img/champ_splash/Corki_Splash_1.jpg",
-            "img/champ_splash/Corki_Splash_2.jpg",
-            "img/champ_splash/Corki_Splash_3.jpg",
-            "img/champ_splash/Corki_Splash_4.jpg",
-            "img/champ_splash/Corki_Splash_5.jpg"
+            "img/champ_splash/72_Corki_splash.jpg",
+            "img/champ_splash/73_UFOCorki_splash.jpg",
+            "img/champ_splash/74_IceTobogganCorki_splash.jpg",
+            "img/champ_splash/75_RedBaronCorki_splash.jpg",
+            "img/champ_splash/76_HotRodCorki_splash.jpg",
+            "img/champ_splash/77_UrfRiderCorki_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Corki_0.jpg",
-            "img/champ_thumbs/Corki_1.jpg",
-            "img/champ_thumbs/Corki_2.jpg",
-            "img/champ_thumbs/Corki_3.jpg",
-            "img/champ_thumbs/Corki_4.jpg",
-            "img/champ_thumbs/Corki_5.jpg"
+            "img/champ_thumbs/72_Corki_thumb.jpg",
+            "img/champ_thumbs/73_UFOCorki_thumb.jpg",
+            "img/champ_thumbs/74_IceTobogganCorki_thumb.jpg",
+            "img/champ_thumbs/75_RedBaronCorki_thumb.jpg",
+            "img/champ_thumbs/76_HotRodCorki_thumb.jpg",
+            "img/champ_thumbs/77_UrfRiderCorki_thumb.jpg"
         ]
     },
     "Darius": {
         "splashes": [
-            "img/champ_splash/Darius_Splash_0.jpg",
-            "img/champ_splash/Darius_Splash_1.jpg",
-            "img/champ_splash/Darius_Splash_2.jpg"
+            "img/champ_splash/78_Darius_splash.jpg",
+            "img/champ_splash/79_LordDarius_splash.jpg",
+            "img/champ_splash/80_BioforgeDarius_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Darius_0.jpg",
-            "img/champ_thumbs/Darius_1.jpg",
-            "img/champ_thumbs/Darius_2.jpg"
+            "img/champ_thumbs/78_Darius_thumb.jpg",
+            "img/champ_thumbs/79_LordDarius_thumb.jpg",
+            "img/champ_thumbs/80_BioforgeDarius_thumb.jpg"
         ]
     },
     "Diana": {
         "splashes": [
-            "img/champ_splash/Diana_Splash_0.jpg",
-            "img/champ_splash/Diana_Splash_1.jpg"
+            "img/champ_splash/81_Diana_splash.jpg",
+            "img/champ_splash/82_DarkValkyrieDiana_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Diana_0.jpg",
-            "img/champ_thumbs/Diana_1.jpg"
-        ]
-    },
-    "DrMundo": {
-        "splashes": [
-            "img/champ_splash/DrMundo_Splash_0.jpg",
-            "img/champ_splash/DrMundo_Splash_1.jpg",
-            "img/champ_splash/DrMundo_Splash_2.jpg",
-            "img/champ_splash/DrMundo_Splash_3.jpg",
-            "img/champ_splash/DrMundo_Splash_4.jpg",
-            "img/champ_splash/DrMundo_Splash_5.jpg",
-            "img/champ_splash/DrMundo_Splash_6.jpg"
-        ],
-        "thumbs": [
-            "img/champ_thumbs/DrMundo_0.jpg",
-            "img/champ_thumbs/DrMundo_1.jpg",
-            "img/champ_thumbs/DrMundo_2.jpg",
-            "img/champ_thumbs/DrMundo_3.jpg",
-            "img/champ_thumbs/DrMundo_4.jpg",
-            "img/champ_thumbs/DrMundo_5.jpg",
-            "img/champ_thumbs/DrMundo_6.jpg"
+            "img/champ_thumbs/81_Diana_thumb.jpg",
+            "img/champ_thumbs/82_DarkValkyrieDiana_thumb.jpg"
         ]
     },
     "Draven": {
         "splashes": [
-            "img/champ_splash/Draven_Splash_0.jpg",
-            "img/champ_splash/Draven_Splash_1.jpg"
+            "img/champ_splash/83_Draven_splash.jpg",
+            "img/champ_splash/84_SoulReaverDraven_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Draven_0.jpg",
-            "img/champ_thumbs/Draven_1.jpg"
+            "img/champ_thumbs/83_Draven_thumb.jpg",
+            "img/champ_thumbs/84_SoulReaverDraven_thumb.jpg"
         ]
     },
     "Elise": {
         "splashes": [
-            "img/champ_splash/Elise_Splash_0.jpg",
-            "img/champ_splash/Elise_Splash_1.jpg"
+            "img/champ_splash/92_Elise_splash.jpg",
+            "img/champ_splash/93_DeathBlossomElise_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Elise_0.jpg",
-            "img/champ_thumbs/Elise_1.jpg"
+            "img/champ_thumbs/92_Elise_thumb.jpg",
+            "img/champ_thumbs/93_DeathBlossomElise_thumb.jpg"
         ]
     },
     "Evelynn": {
         "splashes": [
-            "img/champ_splash/Evelynn_Splash_0.jpg",
-            "img/champ_splash/Evelynn_Splash_1.jpg",
-            "img/champ_splash/Evelynn_Splash_2.jpg",
-            "img/champ_splash/Evelynn_Splash_3.jpg"
+            "img/champ_splash/94_Evelynn_splash.jpg",
+            "img/champ_splash/95_ShadowEvelynn_splash.jpg",
+            "img/champ_splash/96_MasqueradeEvelynn_splash.jpg",
+            "img/champ_splash/97_TangoEvelynn_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Evelynn_0.jpg",
-            "img/champ_thumbs/Evelynn_1.jpg",
-            "img/champ_thumbs/Evelynn_2.jpg",
-            "img/champ_thumbs/Evelynn_3.jpg"
+            "img/champ_thumbs/94_Evelynn_thumb.jpg",
+            "img/champ_thumbs/95_ShadowEvelynn_thumb.jpg",
+            "img/champ_thumbs/96_MasqueradeEvelynn_thumb.jpg",
+            "img/champ_thumbs/97_TangoEvelynn_thumb.jpg"
         ]
     },
     "Ezreal": {
         "splashes": [
-            "img/champ_splash/Ezreal_Splash_0.jpg",
-            "img/champ_splash/Ezreal_splash_1.jpg",
-            "img/champ_splash/Ezreal_Splash_2.jpg",
-            "img/champ_splash/Ezreal_Splash_3.jpg",
-            "img/champ_splash/Ezreal_Splash_4.jpg",
-            "img/champ_splash/Ezreal_Splash_5.jpg"
+            "img/champ_splash/100_StrikerEzreal_splash.jpg",
+            "img/champ_splash/101_FrostedEzreal_splash.jpg",
+            "img/champ_splash/102_ExplorerEzreal_splash.jpg",
+            "img/champ_splash/103_PulsefireEzreal_splash.jpg",
+            "img/champ_splash/98_Ezreal_splash.jpg",
+            "img/champ_splash/99_NottinghamEzreal_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Ezreal_0.jpg",
-            "img/champ_thumbs/Ezreal_1.jpg",
-            "img/champ_thumbs/Ezreal_2.jpg",
-            "img/champ_thumbs/Ezreal_3.jpg",
-            "img/champ_thumbs/Ezreal_4.jpg",
-            "img/champ_thumbs/Ezreal_5.jpg"
+            "img/champ_thumbs/100_StrikerEzreal_thumb.jpg",
+            "img/champ_thumbs/101_FrostedEzreal_thumb.jpg",
+            "img/champ_thumbs/102_ExplorerEzreal_thumb.jpg",
+            "img/champ_thumbs/103_PulsefireEzreal_thumb.jpg",
+            "img/champ_thumbs/98_Ezreal_thumb.jpg",
+            "img/champ_thumbs/99_NottinghamEzreal_thumb.jpg"
         ]
     },
     "Fiddlesticks": {
         "splashes": [
-            "img/champ_splash/Fiddlesticks_Splash_0.jpg",
-            "img/champ_splash/Fiddlesticks_Splash_1.jpg",
-            "img/champ_splash/Fiddlesticks_Splash_2.jpg",
-            "img/champ_splash/Fiddlesticks_Splash_3.jpg",
-            "img/champ_splash/Fiddlesticks_Splash_4.jpg",
-            "img/champ_splash/Fiddlesticks_Splash_5.jpg",
-            "img/champ_splash/Fiddlesticks_Splash_6.jpg",
-            "img/champ_splash/Fiddlesticks_Splash_7.jpg"
+            "img/champ_splash/104_Fiddlesticks_splash.jpg",
+            "img/champ_splash/105_Spectral(Ghost)Fiddlesticks_splash.jpg",
+            "img/champ_splash/106_UnionJackFiddlesticks_splash.jpg",
+            "img/champ_splash/107_BanditoFiddlesticks_splash.jpg",
+            "img/champ_splash/108_PumpkinheadFiddlesticks_splash.jpg",
+            "img/champ_splash/110_SurprisePartyFiddlesticks_splash.jpg",
+            "img/champ_splash/111_DarkCandyFiddlesticks_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Fiddlesticks_0.jpg",
-            "img/champ_thumbs/Fiddlesticks_0.png",
-            "img/champ_thumbs/Fiddlesticks_1.jpg",
-            "img/champ_thumbs/Fiddlesticks_2.jpg",
-            "img/champ_thumbs/Fiddlesticks_3.jpg",
-            "img/champ_thumbs/Fiddlesticks_4.jpg",
-            "img/champ_thumbs/Fiddlesticks_5.jpg",
-            "img/champ_thumbs/Fiddlesticks_6.jpg",
-            "img/champ_thumbs/Fiddlesticks_7.jpg"
+            "img/champ_thumbs/104_Fiddlesticks_thumb.jpg",
+            "img/champ_thumbs/105_Spectral(Ghost)Fiddlesticks_thumb.jpg",
+            "img/champ_thumbs/106_UnionJackFiddlesticks_thumb.jpg",
+            "img/champ_thumbs/107_BanditoFiddlesticks_thumb.jpg",
+            "img/champ_thumbs/108_PumpkinheadFiddlesticks_thumb.jpg",
+            "img/champ_thumbs/110_SurprisePartyFiddlesticks_thumb.jpg",
+            "img/champ_thumbs/111_DarkCandyFiddlesticks_thumb.jpg"
         ]
     },
     "Fiora": {
         "splashes": [
-            "img/champ_splash/Fiora_Splash_0.jpg",
-            "img/champ_splash/Fiora_Splash_1.jpg",
-            "img/champ_splash/Fiora_Splash_2.jpg",
-            "img/champ_splash/Fiora_Splash_3.jpg"
+            "img/champ_splash/112_Fiora_splash.jpg",
+            "img/champ_splash/113_NightravenFiora_splash.jpg",
+            "img/champ_splash/114_RoyalGuardFiora_splash.jpg",
+            "img/champ_splash/115_HeadmistressFiora_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Fiora_0.jpg",
-            "img/champ_thumbs/Fiora_1.jpg",
-            "img/champ_thumbs/Fiora_2.jpg",
-            "img/champ_thumbs/Fiora_3.jpg"
+            "img/champ_thumbs/112_Fiora_thumb.jpg",
+            "img/champ_thumbs/113_NightravenFiora_thumb.jpg",
+            "img/champ_thumbs/114_RoyalGuardFiora_thumb.jpg",
+            "img/champ_thumbs/115_HeadmistressFiora_thumb.jpg"
         ]
     },
     "Fizz": {
         "splashes": [
-            "img/champ_splash/Fizz_splash_0.jpg",
-            "img/champ_splash/Fizz_Splash_1.jpg",
-            "img/champ_splash/Fizz_Splash_2.jpg",
-            "img/champ_splash/Fizz_Splash_3.jpg"
+            "img/champ_splash/116_Fizz_splash.jpg",
+            "img/champ_splash/117_AtlanteanFizz_splash.jpg",
+            "img/champ_splash/118_TundraFizz_splash.jpg",
+            "img/champ_splash/119_FishermanFizz_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Fizz_0.jpg",
-            "img/champ_thumbs/Fizz_1.jpg",
-            "img/champ_thumbs/Fizz_2.jpg",
-            "img/champ_thumbs/Fizz_3.jpg"
+            "img/champ_thumbs/116_Fizz_thumb.jpg",
+            "img/champ_thumbs/117_AtlanteanFizz_thumb.jpg",
+            "img/champ_thumbs/118_TundraFizz_thumb.jpg",
+            "img/champ_thumbs/119_FishermanFizz_thumb.jpg"
         ]
     },
     "Galio": {
         "splashes": [
-            "img/champ_splash/Galio_Splash_0.jpg",
-            "img/champ_splash/Galio_Splash_1.jpg",
-            "img/champ_splash/Galio_Splash_2.jpg",
-            "img/champ_splash/Galio_Splash_3.jpg",
-            "img/champ_splash/Galio_Splash_4.jpg"
+            "img/champ_splash/120_Galio_splash.jpg",
+            "img/champ_splash/121_HextechGalio_splash.jpg",
+            "img/champ_splash/122_EnchantedGalio_splash.jpg",
+            "img/champ_splash/123_CommandoGalio_splash.jpg",
+            "img/champ_splash/124_GatekeeperGalio_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Galio_0.jpg",
-            "img/champ_thumbs/Galio_1.jpg",
-            "img/champ_thumbs/Galio_2.jpg",
-            "img/champ_thumbs/Galio_3.jpg",
-            "img/champ_thumbs/Galio_4.jpg"
+            "img/champ_thumbs/120_Galio_thumb.jpg",
+            "img/champ_thumbs/121_HextechGalio_thumb.jpg",
+            "img/champ_thumbs/122_EnchantedGalio_thumb.jpg",
+            "img/champ_thumbs/123_CommandoGalio_thumb.jpg",
+            "img/champ_thumbs/124_GatekeeperGalio_thumb.jpg"
         ]
     },
     "Gangplank": {
         "splashes": [
-            "img/champ_splash/Gangplank_Splash_0.jpg",
-            "img/champ_splash/Gangplank_Splash_1.jpg",
-            "img/champ_splash/Gangplank_Splash_2.jpg",
-            "img/champ_splash/Gangplank_Splash_3.jpg",
-            "img/champ_splash/Gangplank_Splash_4.jpg",
-            "img/champ_splash/Gangplank_Splash_5.jpg"
+            "img/champ_splash/125_Gangplank_splash.jpg",
+            "img/champ_splash/126_Spooky(Ghost)Gangplank_splash.jpg",
+            "img/champ_splash/127_MinutemanGangplank_splash.jpg",
+            "img/champ_splash/128_SailorGangplank_splash.jpg",
+            "img/champ_splash/129_ToySoldierGangplank_splash.jpg",
+            "img/champ_splash/130_SpecialForcesGangplank_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Gangplank_0.jpg",
-            "img/champ_thumbs/Gangplank_1.jpg",
-            "img/champ_thumbs/Gangplank_2.jpg",
-            "img/champ_thumbs/Gangplank_3.jpg",
-            "img/champ_thumbs/Gangplank_4.jpg",
-            "img/champ_thumbs/Gangplank_5.jpg"
+            "img/champ_thumbs/125_Gangplank_thumb.jpg",
+            "img/champ_thumbs/126_Spooky(Ghost)Gangplank_thumb.jpg",
+            "img/champ_thumbs/127_MinutemanGangplank_thumb.jpg",
+            "img/champ_thumbs/128_SailorGangplank_thumb.jpg",
+            "img/champ_thumbs/129_ToySoldierGangplank_thumb.jpg",
+            "img/champ_thumbs/130_SpecialForcesGangplank_thumb.jpg"
         ]
     },
     "Garen": {
         "splashes": [
-            "img/champ_splash/Garen_Splash_0.jpg",
-            "img/champ_splash/Garen_Splash_1.jpg",
-            "img/champ_splash/Garen_Splash_2.jpg",
-            "img/champ_splash/Garen_Splash_3.jpg",
-            "img/champ_splash/Garen_Splash_4.jpg",
-            "img/champ_splash/Garen_Splash_5.jpg"
+            "img/champ_splash/131_Garen_splash.jpg",
+            "img/champ_splash/132_SanguineGaren_splash.jpg",
+            "img/champ_splash/133_DesertGaren_splash.jpg",
+            "img/champ_splash/134_CommandoGaren_splash.jpg",
+            "img/champ_splash/135_DreadknightGaren_splash.jpg",
+            "img/champ_splash/136_RuggedGaren_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Garen_0.jpg",
-            "img/champ_thumbs/Garen_1.jpg",
-            "img/champ_thumbs/Garen_2.jpg",
-            "img/champ_thumbs/Garen_3.jpg",
-            "img/champ_thumbs/Garen_4.jpg",
-            "img/champ_thumbs/Garen_5.jpg"
+            "img/champ_thumbs/131_Garen_thumb.jpg",
+            "img/champ_thumbs/132_SanguineGaren_thumb.jpg",
+            "img/champ_thumbs/133_DesertGaren_thumb.jpg",
+            "img/champ_thumbs/134_CommandoGaren_thumb.jpg",
+            "img/champ_thumbs/135_DreadknightGaren_thumb.jpg",
+            "img/champ_thumbs/136_RuggedGaren_thumb.jpg"
         ]
     },
     "Gragas": {
         "splashes": [
-            "img/champ_splash/Gragas_Splash_0.jpg",
-            "img/champ_splash/Gragas_Splash_1.jpg",
-            "img/champ_splash/Gragas_Splash_2.jpg",
-            "img/champ_splash/Gragas_Splash_3.jpg",
-            "img/champ_splash/Gragas_Splash_4.jpg",
-            "img/champ_splash/Gragas_Splash_5.jpg",
-            "img/champ_splash/Gragas_Splash_6.jpg"
+            "img/champ_splash/137_Gragas_splash.jpg",
+            "img/champ_splash/138_ScubaGragas_splash.jpg",
+            "img/champ_splash/139_HillbillyGragas_splash.jpg",
+            "img/champ_splash/140_SantaGragas_splash.jpg",
+            "img/champ_splash/141_GragasEsq_splash.jpg",
+            "img/champ_splash/142_VandalGragas_splash.jpg",
+            "img/champ_splash/143_OctoberfestGragas_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Gragas_0.jpg",
-            "img/champ_thumbs/Gragas_1.jpg",
-            "img/champ_thumbs/Gragas_2.jpg",
-            "img/champ_thumbs/Gragas_3.jpg",
-            "img/champ_thumbs/Gragas_4.jpg",
-            "img/champ_thumbs/Gragas_5.jpg",
-            "img/champ_thumbs/Gragas_6.jpg"
+            "img/champ_thumbs/137_Gragas_thumb.jpg",
+            "img/champ_thumbs/138_ScubaGragas_thumb.jpg",
+            "img/champ_thumbs/139_HillbillyGragas_thumb.jpg",
+            "img/champ_thumbs/140_SantaGragas_thumb.jpg",
+            "img/champ_thumbs/141_GragasEsq_thumb.jpg",
+            "img/champ_thumbs/142_VandalGragas_thumb.jpg",
+            "img/champ_thumbs/143_OctoberfestGragas_thumb.jpg"
         ]
     },
     "Graves": {
         "splashes": [
-            "img/champ_splash/Graves_Splash_0.jpg",
-            "img/champ_splash/Graves_Splash_1.jpg",
-            "img/champ_splash/Graves_Splash_2.jpg",
-            "img/champ_splash/Graves_Splash_3.jpg",
-            "img/champ_splash/Graves_Splash_4.jpg"
+            "img/champ_splash/144_Graves_splash.jpg",
+            "img/champ_splash/145_JailbreakGraves_splash.jpg",
+            "img/champ_splash/146_HiredGunGraves_splash.jpg",
+            "img/champ_splash/147_MafiaGraves_splash.jpg",
+            "img/champ_splash/148_RiotGraves_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Graves_0.jpg",
-            "img/champ_thumbs/Graves_1.jpg",
-            "img/champ_thumbs/Graves_2.jpg",
-            "img/champ_thumbs/Graves_3.jpg",
-            "img/champ_thumbs/Graves_4.jpg"
+            "img/champ_thumbs/144_Graves_thumb.jpg",
+            "img/champ_thumbs/145_JailbreakGraves_thumb.jpg",
+            "img/champ_thumbs/146_HiredGunGraves_thumb.jpg",
+            "img/champ_thumbs/147_MafiaGraves_thumb.jpg",
+            "img/champ_thumbs/148_RiotGraves_thumb.jpg"
         ]
     },
     "Hecarim": {
         "splashes": [
-            "img/champ_splash/Hecarim_Splash_0.jpg",
-            "img/champ_splash/Hecarim_Splash_1.jpg",
-            "img/champ_splash/Hecarim_Splash_2.jpg",
-            "img/champ_splash/Hecarim_Splash_3.jpg"
+            "img/champ_splash/149_Hecarim_splash.jpg",
+            "img/champ_splash/150_BloodknightHecarim_splash.jpg",
+            "img/champ_splash/151_ReaperHecarim_splash.jpg",
+            "img/champ_splash/152_HeadlessHecarim_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Hecarim_0.jpg",
-            "img/champ_thumbs/Hecarim_1.jpg",
-            "img/champ_thumbs/Hecarim_2.jpg",
-            "img/champ_thumbs/Hecarim_3.jpg"
+            "img/champ_thumbs/149_Hecarim_thumb.jpg",
+            "img/champ_thumbs/150_BloodknightHecarim_thumb.jpg",
+            "img/champ_thumbs/151_ReaperHecarim_thumb.jpg",
+            "img/champ_thumbs/152_HeadlessHecarim_thumb.jpg"
         ]
     },
     "Heimerdinger": {
         "splashes": [
-            "img/champ_splash/Heimerdinger_Splash_0.jpg",
-            "img/champ_splash/Heimerdinger_Splash_1.jpg",
-            "img/champ_splash/Heimerdinger_Splash_2.jpg",
-            "img/champ_splash/Heimerdinger_Splash_3.jpg",
-            "img/champ_splash/Heimerdinger_Splash_4.jpg"
+            "img/champ_splash/153_Heimerdinger_splash.jpg",
+            "img/champ_splash/154_AlienInvaderHeimerdinger_splash.jpg",
+            "img/champ_splash/155_BlastZoHeimerdinger_splash.jpg",
+            "img/champ_splash/156_PiltoverCustomsHeimerdinger_splash.jpg",
+            "img/champ_splash/157_SnowHeimerdinger_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Heimerdinger_0.jpg",
-            "img/champ_thumbs/Heimerdinger_1.jpg",
-            "img/champ_thumbs/Heimerdinger_2.jpg",
-            "img/champ_thumbs/Heimerdinger_3.jpg",
-            "img/champ_thumbs/Heimerdinger_4.jpg"
+            "img/champ_thumbs/153_Heimerdinger_thumb.jpg",
+            "img/champ_thumbs/154_AlienInvaderHeimerdinger_thumb.jpg",
+            "img/champ_thumbs/155_BlastZoHeimerdinger_thumb.jpg",
+            "img/champ_thumbs/156_PiltoverCustomsHeimerdinger_thumb.jpg",
+            "img/champ_thumbs/157_SnowHeimerdinger_thumb.jpg"
         ]
     },
     "Irelia": {
         "splashes": [
-            "img/champ_splash/Irelia_Splash_0.jpg",
-            "img/champ_splash/Irelia_Splash_1.jpg",
-            "img/champ_splash/Irelia_Splash_2.jpg",
-            "img/champ_splash/Irelia_Splash_3.jpg",
-            "img/champ_splash/Irelia_Splash_4.jpg"
+            "img/champ_splash/158_Irelia_splash.jpg",
+            "img/champ_splash/159_AviatorIrelia_splash.jpg",
+            "img/champ_splash/160_NightbladeIrelia_splash.jpg",
+            "img/champ_splash/161_InfiltratorIrelia_splash.jpg",
+            "img/champ_splash/162_FrostbladeIrelia_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Irelia_0.jpg",
-            "img/champ_thumbs/Irelia_1.jpg",
-            "img/champ_thumbs/Irelia_2.jpg",
-            "img/champ_thumbs/Irelia_3.jpg",
-            "img/champ_thumbs/Irelia_4.jpg"
+            "img/champ_thumbs/158_Irelia_thumb.jpg",
+            "img/champ_thumbs/159_AviatorIrelia_thumb.jpg",
+            "img/champ_thumbs/160_NightbladeIrelia_thumb.jpg",
+            "img/champ_thumbs/161_InfiltratorIrelia_thumb.jpg",
+            "img/champ_thumbs/162_FrostbladeIrelia_thumb.jpg"
         ]
     },
     "Janna": {
         "splashes": [
-            "img/champ_splash/Janna_Splash_0.jpg",
-            "img/champ_splash/Janna_Splash_1.jpg",
-            "img/champ_splash/Janna_Splash_2.jpg",
-            "img/champ_splash/Janna_Splash_3.jpg",
-            "img/champ_splash/Janna_Splash_4.jpg"
+            "img/champ_splash/163_Janna_splash.jpg",
+            "img/champ_splash/164_TempestJanna_splash.jpg",
+            "img/champ_splash/165_HextechJanna_splash.jpg",
+            "img/champ_splash/166_FrostQueenJanna_splash.jpg",
+            "img/champ_splash/167_VictoriousJanna_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Janna_0.jpg",
-            "img/champ_thumbs/Janna_1.jpg",
-            "img/champ_thumbs/Janna_2.jpg",
-            "img/champ_thumbs/Janna_3.jpg",
-            "img/champ_thumbs/Janna_4.jpg"
+            "img/champ_thumbs/163_Janna_thumb.jpg",
+            "img/champ_thumbs/164_TempestJanna_thumb.jpg",
+            "img/champ_thumbs/165_HextechJanna_thumb.jpg",
+            "img/champ_thumbs/166_FrostQueenJanna_thumb.jpg",
+            "img/champ_thumbs/167_VictoriousJanna_thumb.jpg"
         ]
     },
-    "JarvanIV": {
+    "Jarvan": {
         "splashes": [
-            "img/champ_splash/JarvanIV_Splash_0.jpg",
-            "img/champ_splash/JarvanIV_Splash_1.jpg",
-            "img/champ_splash/JarvanIV_Splash_2.jpg",
-            "img/champ_splash/JarvanIV_Splash_3.jpg",
-            "img/champ_splash/JarvanIV_Splash_4.jpg"
+            "img/champ_splash/168_Jarvan_splash.jpg",
+            "img/champ_splash/169_CommandoJarvan_splash.jpg",
+            "img/champ_splash/170_DragonslayerJarvan_splash.jpg",
+            "img/champ_splash/171_DarkforgeJarvan_splash.jpg",
+            "img/champ_splash/172_VictoriousJarvan_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/JarvanIV_0.jpg",
-            "img/champ_thumbs/JarvanIV_1.jpg",
-            "img/champ_thumbs/JarvanIV_2.jpg",
-            "img/champ_thumbs/JarvanIV_3.jpg",
-            "img/champ_thumbs/JarvanIV_4.jpg"
+            "img/champ_thumbs/168_Jarvan_thumb.jpg",
+            "img/champ_thumbs/169_CommandoJarvan_thumb.jpg",
+            "img/champ_thumbs/170_DragonslayerJarvan_thumb.jpg",
+            "img/champ_thumbs/171_DarkforgeJarvan_thumb.jpg",
+            "img/champ_thumbs/172_VictoriousJarvan_thumb.jpg"
         ]
     },
     "Jax": {
         "splashes": [
-            "img/champ_splash/Jax_Splash_0.jpg",
-            "img/champ_splash/Jax_Splash_1.jpg",
-            "img/champ_splash/Jax_Splash_2.jpg",
-            "img/champ_splash/Jax_Splash_3.jpg",
-            "img/champ_splash/Jax_Splash_4.jpg",
-            "img/champ_splash/Jax_Splash_5.jpg",
-            "img/champ_splash/Jax_splash_6.jpg",
-            "img/champ_splash/Jax_Splash_7.jpg"
+            "img/champ_splash/173_Jax_splash.jpg",
+            "img/champ_splash/174_AnglerJax_splash.jpg",
+            "img/champ_splash/175_TheMightyJax_splash.jpg",
+            "img/champ_splash/176_VandalJax_splash.jpg",
+            "img/champ_splash/177_PaxJax_splash.jpg",
+            "img/champ_splash/178_Jaximus_splash.jpg",
+            "img/champ_splash/179_TempleJax_splash.jpg",
+            "img/champ_splash/180_NemesisJax_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Jax_0.jpg",
-            "img/champ_thumbs/Jax_1.jpg",
-            "img/champ_thumbs/Jax_2.jpg",
-            "img/champ_thumbs/Jax_3.jpg",
-            "img/champ_thumbs/Jax_4.jpg",
-            "img/champ_thumbs/Jax_5.jpg",
-            "img/champ_thumbs/Jax_6.jpg",
-            "img/champ_thumbs/Jax_7.jpg"
+            "img/champ_thumbs/173_Jax_thumb.jpg",
+            "img/champ_thumbs/174_AnglerJax_thumb.jpg",
+            "img/champ_thumbs/175_TheMightyJax_thumb.jpg",
+            "img/champ_thumbs/176_VandalJax_thumb.jpg",
+            "img/champ_thumbs/177_PaxJax_thumb.jpg",
+            "img/champ_thumbs/178_Jaximus_thumb.jpg",
+            "img/champ_thumbs/179_TempleJax_thumb.jpg",
+            "img/champ_thumbs/180_NemesisJax_thumb.jpg"
         ]
     },
     "Jayce": {
         "splashes": [
-            "img/champ_splash/Jayce_Splash_0.jpg",
-            "img/champ_splash/Jayce_Splash_1.jpg"
+            "img/champ_splash/181_Jayce_splash.jpg",
+            "img/champ_splash/182_FullMetalJayce_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Jayce_0.jpg",
-            "img/champ_thumbs/Jayce_1.jpg"
+            "img/champ_thumbs/181_Jayce_thumb.jpg",
+            "img/champ_thumbs/182_FullMetalJayce_thumb.jpg"
         ]
     },
     "Karma": {
         "splashes": [
-            "img/champ_splash/Karma_Splash_0.jpg",
-            "img/champ_splash/Karma_Splash_1.jpg",
-            "img/champ_splash/Karma_Splash_2.jpg"
+            "img/champ_splash/183_Karma_splash.jpg",
+            "img/champ_splash/184_SakuraKarma_splash.jpg",
+            "img/champ_splash/185_SunGoddessKarma_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Karma_0.jpg",
-            "img/champ_thumbs/Karma_1.jpg",
-            "img/champ_thumbs/Karma_2.jpg"
+            "img/champ_thumbs/183_Karma_thumb.jpg",
+            "img/champ_thumbs/184_SakuraKarma_thumb.jpg",
+            "img/champ_thumbs/185_SunGoddessKarma_thumb.jpg"
         ]
     },
     "Karthus": {
         "splashes": [
-            "img/champ_splash/Karthus_Splash_0.jpg",
-            "img/champ_splash/Karthus_Splash_1.jpg",
-            "img/champ_splash/Karthus_Splash_2.jpg",
-            "img/champ_splash/Karthus_Splash_3.jpg",
-            "img/champ_splash/Karthus_Splash_4.jpg"
+            "img/champ_splash/186_Karthus_splash.jpg",
+            "img/champ_splash/187_PhantomLichKarthus_splash.jpg",
+            "img/champ_splash/188_StatueofKarthus_splash.jpg",
+            "img/champ_splash/189_GrimReaperKarthus_splash.jpg",
+            "img/champ_splash/190_PentakillKarthus_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Karthus_0.jpg",
-            "img/champ_thumbs/Karthus_1.jpg",
-            "img/champ_thumbs/Karthus_2.jpg",
-            "img/champ_thumbs/Karthus_3.jpg",
-            "img/champ_thumbs/Karthus_4.jpg"
+            "img/champ_thumbs/186_Karthus_thumb.jpg",
+            "img/champ_thumbs/187_PhantomLichKarthus_thumb.jpg",
+            "img/champ_thumbs/188_StatueofKarthus_thumb.jpg",
+            "img/champ_thumbs/189_GrimReaperKarthus_thumb.jpg",
+            "img/champ_thumbs/190_PentakillKarthus_thumb.jpg"
         ]
     },
     "Kassadin": {
         "splashes": [
-            "img/champ_splash/Kassadin_Splash_0.jpg",
-            "img/champ_splash/Kassadin_Splash_1.jpg",
-            "img/champ_splash/Kassadin_Splash_2.jpg",
-            "img/champ_splash/Kassadin_Splash_3.jpg",
-            "img/champ_splash/Kassadin_Splash_4.jpg"
+            "img/champ_splash/191_Kassadin_splash.jpg",
+            "img/champ_splash/192_FestivalKassadin_splash.jpg",
+            "img/champ_splash/193_DeepOneKassadin_splash.jpg",
+            "img/champ_splash/194_PrevoidKassadin_splash.jpg",
+            "img/champ_splash/195_HarbingerKassadin_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Kassadin_0.jpg",
-            "img/champ_thumbs/Kassadin_1.jpg",
-            "img/champ_thumbs/Kassadin_2.jpg",
-            "img/champ_thumbs/Kassadin_3.jpg",
-            "img/champ_thumbs/Kassadin_4.jpg"
+            "img/champ_thumbs/191_Kassadin_thumb.jpg",
+            "img/champ_thumbs/192_FestivalKassadin_thumb.jpg",
+            "img/champ_thumbs/193_DeepOneKassadin_thumb.jpg",
+            "img/champ_thumbs/194_PrevoidKassadin_thumb.jpg",
+            "img/champ_thumbs/195_HarbingerKassadin_thumb.jpg"
         ]
     },
     "Katarina": {
         "splashes": [
-            "img/champ_splash/Katarina_Splash_1.jpg",
-            "img/champ_splash/Katarina_Splash_2.jpg",
-            "img/champ_splash/Katarina_Splash_3.jpg",
-            "img/champ_splash/Katarina_Splash_4.jpg",
-            "img/champ_splash/Katarina_Splash_5.jpg",
-            "img/champ_splash/Katarina_Splash_6.jpg",
-            "img/champ_splash/Katarina_Splash_7.jpg"
+            "img/champ_splash/196_Katarina_splash.jpg",
+            "img/champ_splash/197_MercenaryKatarina_splash.jpg",
+            "img/champ_splash/198_RedCardKatarina_splash.jpg",
+            "img/champ_splash/199_BilgewaterKatarina_splash.jpg",
+            "img/champ_splash/201_HighCommandKatarina_splash.jpg",
+            "img/champ_splash/202_SandstormKatarina_splash.jpg",
+            "img/champ_splash/203_SlayBelleKatarina_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Katarina_0.jpg",
-            "img/champ_thumbs/Katarina_1.jpg",
-            "img/champ_thumbs/Katarina_2.jpg",
-            "img/champ_thumbs/Katarina_3.jpg",
-            "img/champ_thumbs/Katarina_4.jpg",
-            "img/champ_thumbs/Katarina_5.jpg",
-            "img/champ_thumbs/Katarina_6.jpg",
-            "img/champ_thumbs/Katarina_7.jpg"
+            "img/champ_thumbs/196_Katarina_thumb.jpg",
+            "img/champ_thumbs/197_MercenaryKatarina_thumb.jpg",
+            "img/champ_thumbs/198_RedCardKatarina_thumb.jpg",
+            "img/champ_thumbs/199_BilgewaterKatarina_thumb.jpg",
+            "img/champ_thumbs/201_HighCommandKatarina_thumb.jpg",
+            "img/champ_thumbs/202_SandstormKatarina_thumb.jpg",
+            "img/champ_thumbs/203_SlayBelleKatarina_thumb.jpg"
         ]
     },
     "Kayle": {
         "splashes": [
-            "img/champ_splash/Kayle_Splash_0.jpg",
-            "img/champ_splash/Kayle_Splash_1.jpg",
-            "img/champ_splash/Kayle_Splash_2.jpg",
-            "img/champ_splash/Kayle_Splash_3.jpg",
-            "img/champ_splash/Kayle_Splash_4.jpg",
-            "img/champ_splash/Kayle_Splash_5.jpg"
+            "img/champ_splash/204_Kayle_splash.jpg",
+            "img/champ_splash/205_SilverJudicatorKayle_splash.jpg",
+            "img/champ_splash/206_ViridianKayle_splash.jpg",
+            "img/champ_splash/207_UnmaskedKayle_splash.jpg",
+            "img/champ_splash/208_BattleBornKayle_splash.jpg",
+            "img/champ_splash/209_JudgementKayle_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Kayle_0.jpg",
-            "img/champ_thumbs/Kayle_1.jpg",
-            "img/champ_thumbs/Kayle_2.jpg",
-            "img/champ_thumbs/Kayle_3.jpg",
-            "img/champ_thumbs/Kayle_4.jpg",
-            "img/champ_thumbs/Kayle_5.jpg"
+            "img/champ_thumbs/204_Kayle_thumb.jpg",
+            "img/champ_thumbs/205_SilverJudicatorKayle_thumb.jpg",
+            "img/champ_thumbs/206_ViridianKayle_thumb.jpg",
+            "img/champ_thumbs/207_UnmaskedKayle_thumb.jpg",
+            "img/champ_thumbs/208_BattleBornKayle_thumb.jpg",
+            "img/champ_thumbs/209_JudgementKayle_thumb.jpg"
         ]
     },
     "Kennen": {
         "splashes": [
-            "img/champ_splash/Kennen_Splash_0.jpg",
-            "img/champ_splash/Kennen_Splash_1.jpg",
-            "img/champ_splash/Kennen_Splash_2.jpg",
-            "img/champ_splash/Kennen_Splash_3.jpg",
-            "img/champ_splash/Kennen_Splash_4.jpg",
-            "img/champ_splash/Kennen_Splash_5.jpg"
+            "img/champ_splash/212_Kennen_splash.jpg",
+            "img/champ_splash/213_DeadlyKennen_splash.jpg",
+            "img/champ_splash/214_SwampMasterKennen_splash.jpg",
+            "img/champ_splash/215_KarateKennen_splash.jpg",
+            "img/champ_splash/216_KennenMD_splash.jpg",
+            "img/champ_splash/217_ArcticWarfareKennen_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Kennen_0.jpg",
-            "img/champ_thumbs/Kennen_1.jpg",
-            "img/champ_thumbs/Kennen_2.jpg",
-            "img/champ_thumbs/Kennen_3.jpg",
-            "img/champ_thumbs/Kennen_4.jpg",
-            "img/champ_thumbs/Kennen_5.jpg"
+            "img/champ_thumbs/212_Kennen_thumb.jpg",
+            "img/champ_thumbs/213_DeadlyKennen_thumb.jpg",
+            "img/champ_thumbs/214_SwampMasterKennen_thumb.jpg",
+            "img/champ_thumbs/215_KarateKennen_thumb.jpg",
+            "img/champ_thumbs/216_KennenMD_thumb.jpg",
+            "img/champ_thumbs/217_ArcticWarfareKennen_thumb.jpg"
         ]
     },
     "Khazix": {
         "splashes": [
-            "img/champ_splash/Khazix_Splash_0.jpg",
-            "img/champ_splash/Khazix_Splash_1.jpg"
+            "img/champ_splash/210_Khazix_splash.jpg",
+            "img/champ_splash/211_MechaKhazix_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Khazix_0.jpg",
-            "img/champ_thumbs/Khazix_1.jpg"
+            "img/champ_thumbs/210_Khazix_thumb.jpg",
+            "img/champ_thumbs/211_MechaKhazix_thumb.jpg"
         ]
     },
-    "KogMaw": {
+    "Kogmaw": {
         "splashes": [
-            "img/champ_splash/KogMaw_Splash_0.jpg",
-            "img/champ_splash/KogMaw_Splash_1.jpg",
-            "img/champ_splash/KogMaw_Splash_2.jpg",
-            "img/champ_splash/KogMaw_Splash_3.jpg",
-            "img/champ_splash/KogMaw_Splash_4.jpg",
-            "img/champ_splash/KogMaw_Splash_5.jpg",
-            "img/champ_splash/KogMaw_Splash_6.jpg",
-            "img/champ_splash/KogMaw_Splash_7.jpg"
+            "img/champ_splash/218_Kogmaw_splash.jpg",
+            "img/champ_splash/219_CaterpillarKogmaw_splash.jpg",
+            "img/champ_splash/220_SonoranKogmaw_splash.jpg",
+            "img/champ_splash/221_MonarchKogmaw_splash.jpg",
+            "img/champ_splash/222_ReindeerKogmaw_splash.jpg",
+            "img/champ_splash/223_LionDanceKogmaw_splash.jpg",
+            "img/champ_splash/224_DeepSeaKogmaw_splash.jpg",
+            "img/champ_splash/225_JurassicKogmaw_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/KogMaw_0.jpg",
-            "img/champ_thumbs/KogMaw_1.jpg",
-            "img/champ_thumbs/KogMaw_2.jpg",
-            "img/champ_thumbs/KogMaw_3.jpg",
-            "img/champ_thumbs/KogMaw_4.jpg",
-            "img/champ_thumbs/KogMaw_5.jpg",
-            "img/champ_thumbs/KogMaw_6.jpg",
-            "img/champ_thumbs/KogMaw_7.jpg"
+            "img/champ_thumbs/218_Kogmaw_thumb.jpg",
+            "img/champ_thumbs/219_CaterpillarKogmaw_thumb.jpg",
+            "img/champ_thumbs/220_SonoranKogmaw_thumb.jpg",
+            "img/champ_thumbs/221_MonarchKogmaw_thumb.jpg",
+            "img/champ_thumbs/222_ReindeerKogmaw_thumb.jpg",
+            "img/champ_thumbs/223_LionDanceKogmaw_thumb.jpg",
+            "img/champ_thumbs/224_DeepSeaKogmaw_thumb.jpg",
+            "img/champ_thumbs/225_JurassicKogmaw_thumb.jpg"
         ]
     },
     "Leblanc": {
         "splashes": [
-            "img/champ_splash/Leblanc_Splash_0.jpg",
-            "img/champ_splash/Leblanc_Splash_1.jpg",
-            "img/champ_splash/Leblanc_Splash_2.jpg",
-            "img/champ_splash/Leblanc_Splash_3.jpg"
+            "img/champ_splash/226_LeBlanc_splash.jpg",
+            "img/champ_splash/227_PrestigiousLeBlanc_splash.jpg",
+            "img/champ_splash/228_WickedLeBlanc_splash.jpg",
+            "img/champ_splash/229_MistletoeLeblanc_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Leblanc_0.jpg",
-            "img/champ_thumbs/Leblanc_1.jpg",
-            "img/champ_thumbs/Leblanc_2.jpg",
-            "img/champ_thumbs/Leblanc_3.jpg"
+            "img/champ_thumbs/226_LeBlanc_thumb.jpg",
+            "img/champ_thumbs/227_PrestigiousLeBlanc_thumb.jpg",
+            "img/champ_thumbs/228_WickedLeBlanc_thumb.jpg",
+            "img/champ_thumbs/229_MistletoeLeblanc_thumb.jpg"
         ]
     },
     "LeeSin": {
         "splashes": [
-            "img/champ_splash/LeeSin_Splash_0.jpg",
-            "img/champ_splash/LeeSin_Splash_1.jpg",
-            "img/champ_splash/LeeSin_Splash_2.jpg",
-            "img/champ_splash/LeeSin_Splash_3.jpg",
-            "img/champ_splash/LeeSin_Splash_4.jpg"
+            "img/champ_splash/230_LeeSin_splash.jpg",
+            "img/champ_splash/231_TraditionalLeeSin_splash.jpg",
+            "img/champ_splash/232_AcolyteLeeSin_splash.jpg",
+            "img/champ_splash/233_DragonFistLeeSin_splash.jpg",
+            "img/champ_splash/234_MuayThaiLeeSin_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/LeeSin_0.jpg",
-            "img/champ_thumbs/LeeSin_1.jpg",
-            "img/champ_thumbs/LeeSin_2.jpg",
-            "img/champ_thumbs/LeeSin_3.jpg",
-            "img/champ_thumbs/LeeSin_4.jpg"
+            "img/champ_thumbs/230_LeeSin_thumb.jpg",
+            "img/champ_thumbs/231_TraditionalLeeSin_thumb.jpg",
+            "img/champ_thumbs/232_AcolyteLeeSin_thumb.jpg",
+            "img/champ_thumbs/233_DragonFistLeeSin_thumb.jpg",
+            "img/champ_thumbs/234_MuayThaiLeeSin_thumb.jpg"
         ]
     },
     "Leona": {
         "splashes": [
-            "img/champ_splash/Leona_Splash_0.jpg",
-            "img/champ_splash/Leona_Splash_1.jpg",
-            "img/champ_splash/Leona_Splash_2.jpg",
-            "img/champ_splash/Leona_Splash_3.jpg"
+            "img/champ_splash/235_Leona_splash.jpg",
+            "img/champ_splash/236_DefenderLeona_splash.jpg",
+            "img/champ_splash/237_ValkyrieLeona_splash.jpg",
+            "img/champ_splash/238_IronSolariLeona_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Leona_0.jpg",
-            "img/champ_thumbs/Leona_1.jpg",
-            "img/champ_thumbs/Leona_2.jpg",
-            "img/champ_thumbs/Leona_3.jpg"
+            "img/champ_thumbs/235_Leona_thumb.jpg",
+            "img/champ_thumbs/236_DefenderLeona_thumb.jpg",
+            "img/champ_thumbs/237_ValkyrieLeona_thumb.jpg",
+            "img/champ_thumbs/238_IronSolariLeona_thumb.jpg"
         ]
     },
     "Lulu": {
         "splashes": [
-            "img/champ_splash/Lulu_Splash_0.jpg",
-            "img/champ_splash/Lulu_Splash_1.jpg",
-            "img/champ_splash/Lulu_Splash_2.jpg",
-            "img/champ_splash/Lulu_Splash_3.jpg"
+            "img/champ_splash/239_Lulu_splash.jpg",
+            "img/champ_splash/240_BittersweetLulu_splash.jpg",
+            "img/champ_splash/241_WickedLulu_splash.jpg",
+            "img/champ_splash/242_DragonTrainerLulu_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Lulu_0.jpg",
-            "img/champ_thumbs/Lulu_1.jpg",
-            "img/champ_thumbs/Lulu_2.jpg",
-            "img/champ_thumbs/Lulu_3.jpg"
+            "img/champ_thumbs/239_Lulu_thumb.jpg",
+            "img/champ_thumbs/240_BittersweetLulu_thumb.jpg",
+            "img/champ_thumbs/241_WickedLulu_thumb.jpg",
+            "img/champ_thumbs/242_DragonTrainerLulu_thumb.jpg"
         ]
     },
     "Lux": {
         "splashes": [
-            "img/champ_splash/Lux_Splash_0.jpg",
-            "img/champ_splash/Lux_Splash_1.jpg",
-            "img/champ_splash/Lux_Splash_2.jpg",
-            "img/champ_splash/Lux_Splash_3.jpg",
-            "img/champ_splash/Lux_Splash_4.jpg",
-            "img/champ_splash/Lux_Splash_5.jpg"
+            "img/champ_splash/243_Lux_splash.jpg",
+            "img/champ_splash/244_SorceressLux_splash.jpg",
+            "img/champ_splash/245_SpellThiefLux_splash.jpg",
+            "img/champ_splash/246_CommandoLux_splash.jpg",
+            "img/champ_splash/247_ImperialLux_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Lux_0.jpg",
-            "img/champ_thumbs/Lux_1.jpg",
-            "img/champ_thumbs/Lux_2.jpg",
-            "img/champ_thumbs/Lux_3.jpg",
-            "img/champ_thumbs/Lux_4.jpg",
-            "img/champ_thumbs/Lux_5.jpg"
+            "img/champ_thumbs/243_Lux_thumb.jpg",
+            "img/champ_thumbs/244_SorceressLux_thumb.jpg",
+            "img/champ_thumbs/245_SpellThiefLux_thumb.jpg",
+            "img/champ_thumbs/246_CommandoLux_thumb.jpg",
+            "img/champ_thumbs/247_ImperialLux_thumb.jpg"
         ]
     },
     "Malphite": {
         "splashes": [
-            "img/champ_splash/Malphite_Splash_0.jpg",
-            "img/champ_splash/Malphite_Splash_1.jpg",
-            "img/champ_splash/Malphite_Splash_2.jpg",
-            "img/champ_splash/Malphite_Splash_3.jpg",
-            "img/champ_splash/Malphite_Splash_4.jpg",
-            "img/champ_splash/Malphite_Splash_5.jpg"
+            "img/champ_splash/248_Malphite_splash.jpg",
+            "img/champ_splash/249_ShamrockMalphite_splash.jpg",
+            "img/champ_splash/250_CoralReefMalphite_splash.jpg",
+            "img/champ_splash/251_MarbleMalphite_splash.jpg",
+            "img/champ_splash/252_ObsidianMalphite_splash.jpg",
+            "img/champ_splash/253_GlacialMalphite_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Malphite_0.jpg",
-            "img/champ_thumbs/Malphite_1.jpg",
-            "img/champ_thumbs/Malphite_2.jpg",
-            "img/champ_thumbs/Malphite_3.jpg",
-            "img/champ_thumbs/Malphite_4.jpg",
-            "img/champ_thumbs/Malphite_5.jpg"
+            "img/champ_thumbs/248_Malphite_thumb.jpg",
+            "img/champ_thumbs/249_ShamrockMalphite_thumb.jpg",
+            "img/champ_thumbs/250_CoralReefMalphite_thumb.jpg",
+            "img/champ_thumbs/251_MarbleMalphite_thumb.jpg",
+            "img/champ_thumbs/252_ObsidianMalphite_thumb.jpg",
+            "img/champ_thumbs/253_GlacialMalphite_thumb.jpg"
         ]
     },
     "Malzahar": {
         "splashes": [
-            "img/champ_splash/Malzahar_Splash_0.jpg",
-            "img/champ_splash/Malzahar_Splash_1.jpg",
-            "img/champ_splash/Malzahar_Splash_2.jpg",
-            "img/champ_splash/Malzahar_Splash_3.jpg",
-            "img/champ_splash/Malzahar_Splash_4.jpg"
+            "img/champ_splash/254_Malzahar_splash.jpg",
+            "img/champ_splash/255_ShadowPrinceMalzahar_splash.jpg",
+            "img/champ_splash/256_VizierMalzahar_splash.jpg",
+            "img/champ_splash/257_DjinnMalzahar_splash.jpg",
+            "img/champ_splash/258_OverlordMalzahar_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Malzahar_0.jpg",
-            "img/champ_thumbs/Malzahar_1.jpg",
-            "img/champ_thumbs/Malzahar_2.jpg",
-            "img/champ_thumbs/Malzahar_3.jpg",
-            "img/champ_thumbs/Malzahar_4.jpg"
+            "img/champ_thumbs/254_Malzahar_thumb.jpg",
+            "img/champ_thumbs/255_ShadowPrinceMalzahar_thumb.jpg",
+            "img/champ_thumbs/256_VizierMalzahar_thumb.jpg",
+            "img/champ_thumbs/257_DjinnMalzahar_thumb.jpg",
+            "img/champ_thumbs/258_OverlordMalzahar_thumb.jpg"
         ]
     },
     "Maokai": {
         "splashes": [
-            "img/champ_splash/Maokai_Splash_0.jpg",
-            "img/champ_splash/Maokai_Splash_1.jpg",
-            "img/champ_splash/Maokai_Splash_2.jpg",
-            "img/champ_splash/Maokai_Splash_3.jpg",
-            "img/champ_splash/Maokai_Splash_4.jpg"
+            "img/champ_splash/259_Maokai_splash.jpg",
+            "img/champ_splash/260_TotemicMaokai_splash.jpg",
+            "img/champ_splash/261_CharredMaokai_splash.jpg",
+            "img/champ_splash/262_FestiveMaokai_splash.jpg",
+            "img/champ_splash/263_HauntedMaokai_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Maokai_0.jpg",
-            "img/champ_thumbs/Maokai_1.jpg",
-            "img/champ_thumbs/Maokai_2.jpg",
-            "img/champ_thumbs/Maokai_3.jpg",
-            "img/champ_thumbs/Maokai_4.jpg"
+            "img/champ_thumbs/259_Maokai_thumb.jpg",
+            "img/champ_thumbs/260_TotemicMaokai_thumb.jpg",
+            "img/champ_thumbs/261_CharredMaokai_thumb.jpg",
+            "img/champ_thumbs/262_FestiveMaokai_thumb.jpg",
+            "img/champ_thumbs/263_HauntedMaokai_thumb.jpg"
         ]
     },
     "MasterYi": {
         "splashes": [
-            "img/champ_splash/MasterYi_Splash_4.jpg",
-            "img/champ_splash/MasterYi_Splash_5.jpg"
+            "img/champ_splash/264_MasterYi_splash.jpg",
+            "img/champ_splash/265_AssassinMasterYi_splash.jpg",
+            "img/champ_splash/266_ChosenMasterYi_splash.jpg",
+            "img/champ_splash/267_IoniaMasterYi_splash.jpg",
+            "img/champ_splash/268_SamuraiMasterYi_splash.jpg",
+            "img/champ_splash/269_HeadhunterMasterYi_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/MasterYi_1.jpg",
-            "img/champ_thumbs/MasterYi_4.jpg",
-            "img/champ_thumbs/MasterYi_5.jpg"
+            "img/champ_thumbs/264_MasterYi_thumb.jpg",
+            "img/champ_thumbs/265_AssassinMasterYi_thumb.jpg",
+            "img/champ_thumbs/266_ChosenMasterYi_thumb.jpg",
+            "img/champ_thumbs/267_IoniaMasterYi_thumb.jpg",
+            "img/champ_thumbs/268_SamuraiMasterYi_thumb.jpg",
+            "img/champ_thumbs/269_HeadhunterMasterYi_thumb.jpg"
         ]
     },
     "MissFortune": {
         "splashes": [
-            "img/champ_splash/MissFortune_Splash_0.jpg",
-            "img/champ_splash/MissFortune_Splash_1.jpg",
-            "img/champ_splash/MissFortune_Splash_2.jpg",
-            "img/champ_splash/MissFortune_Splash_3.jpg",
-            "img/champ_splash/MissFortune_Splash_4.jpg",
-            "img/champ_splash/MissFortune_Splash_5.jpg",
-            "img/champ_splash/MissFortune_Splash_6.jpg"
+            "img/champ_splash/270_MissFortune_splash.jpg",
+            "img/champ_splash/271_WaterlooMissFortune_splash.jpg",
+            "img/champ_splash/272_CowgirlMissFortune_splash.jpg",
+            "img/champ_splash/273_SecretAgentMissFortune_splash.jpg",
+            "img/champ_splash/274_CandyCaneMissFortune_splash.jpg",
+            "img/champ_splash/275_RoadWarriorMissFortune_splash.jpg",
+            "img/champ_splash/276_MafiaMissFortune_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/MissFortune_0.jpg",
-            "img/champ_thumbs/MissFortune_1.jpg",
-            "img/champ_thumbs/MissFortune_2.jpg",
-            "img/champ_thumbs/MissFortune_3.jpg",
-            "img/champ_thumbs/MissFortune_4.jpg",
-            "img/champ_thumbs/MissFortune_5.jpg",
-            "img/champ_thumbs/MissFortune_6.jpg"
+            "img/champ_thumbs/270_MissFortune_thumb.jpg",
+            "img/champ_thumbs/271_WaterlooMissFortune_thumb.jpg",
+            "img/champ_thumbs/272_CowgirlMissFortune_thumb.jpg",
+            "img/champ_thumbs/273_SecretAgentMissFortune_thumb.jpg",
+            "img/champ_thumbs/274_CandyCaneMissFortune_thumb.jpg",
+            "img/champ_thumbs/275_RoadWarriorMissFortune_thumb.jpg",
+            "img/champ_thumbs/276_MafiaMissFortune_thumb.jpg"
         ]
     },
     "Mordekaiser": {
         "splashes": [
-            "img/champ_splash/Mordekaiser_Splash_0.jpg",
-            "img/champ_splash/Mordekaiser_Splash_1.jpg",
-            "img/champ_splash/Mordekaiser_Splash_2.jpg",
-            "img/champ_splash/Mordekaiser_Splash_3.jpg",
-            "img/champ_splash/Mordekaiser_Splash_4.jpg"
+            "img/champ_splash/277_Mordekaiser_splash.jpg",
+            "img/champ_splash/278_InfernalMordekaiser_splash.jpg",
+            "img/champ_splash/279_DragonKnightMordekaiser_splash.jpg",
+            "img/champ_splash/280_PentakillMordekaiser_splash.jpg",
+            "img/champ_splash/281_LordMordekaiser_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Mordekaiser_0.jpg",
-            "img/champ_thumbs/Mordekaiser_1.jpg",
-            "img/champ_thumbs/Mordekaiser_2.jpg",
-            "img/champ_thumbs/Mordekaiser_3.jpg",
-            "img/champ_thumbs/Mordekaiser_4.jpg"
+            "img/champ_thumbs/277_Mordekaiser_thumb.jpg",
+            "img/champ_thumbs/278_InfernalMordekaiser_thumb.jpg",
+            "img/champ_thumbs/279_DragonKnightMordekaiser_thumb.jpg",
+            "img/champ_thumbs/280_PentakillMordekaiser_thumb.jpg",
+            "img/champ_thumbs/281_LordMordekaiser_thumb.jpg"
         ]
     },
     "Morgana": {
         "splashes": [
-            "img/champ_splash/Morgana_Splash_0.jpg",
-            "img/champ_splash/Morgana_Splash_1.jpg",
-            "img/champ_splash/Morgana_Splash_2.jpg",
-            "img/champ_splash/Morgana_Splash_3.jpg",
-            "img/champ_splash/Morgana_Splash_4.jpg"
+            "img/champ_splash/282_Morgana_splash.jpg",
+            "img/champ_splash/283_ExiledMorgana_splash.jpg",
+            "img/champ_splash/284_SinfulSucculenceMorgana_splash.jpg",
+            "img/champ_splash/285_BladeMistressMorgana_splash.jpg",
+            "img/champ_splash/286_BlackthornMorgana_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Morgana_0.jpg",
-            "img/champ_thumbs/Morgana_1.jpg",
-            "img/champ_thumbs/Morgana_2.jpg",
-            "img/champ_thumbs/Morgana_3.jpg",
-            "img/champ_thumbs/Morgana_4.jpg"
+            "img/champ_thumbs/282_Morgana_thumb.jpg",
+            "img/champ_thumbs/283_ExiledMorgana_thumb.jpg",
+            "img/champ_thumbs/284_SinfulSucculenceMorgana_thumb.jpg",
+            "img/champ_thumbs/285_BladeMistressMorgana_thumb.jpg",
+            "img/champ_thumbs/286_BlackthornMorgana_thumb.jpg"
+        ]
+    },
+    "Mundo": {
+        "splashes": [
+            "img/champ_splash/85_DrMundo_splash.jpg",
+            "img/champ_splash/86_ToxicDrMundo_splash.jpg",
+            "img/champ_splash/87_MrMundoverse_splash.jpg",
+            "img/champ_splash/88_CorporateMundo_splash.jpg",
+            "img/champ_splash/89_MundoMundo_splash.jpg",
+            "img/champ_splash/90_ExecutionerMundo_splash.jpg",
+            "img/champ_splash/91_RagebornMundo_splash.jpg"
+        ],
+        "thumbs": [
+            "img/champ_thumbs/85_DrMundo_thumb.jpg",
+            "img/champ_thumbs/86_ToxicDrMundo_thumb.jpg",
+            "img/champ_thumbs/87_MrMundoverse_thumb.jpg",
+            "img/champ_thumbs/88_CorporateMundo_thumb.jpg",
+            "img/champ_thumbs/89_MundoMundo_thumb.jpg",
+            "img/champ_thumbs/90_ExecutionerMundo_thumb.jpg",
+            "img/champ_thumbs/91_RagebornMundo_thumb.jpg"
         ]
     },
     "Nami": {
         "splashes": [
-            "img/champ_splash/Nami_Splash_0.jpg",
-            "img/champ_splash/Nami_Splash_1.jpg"
+            "img/champ_splash/287_Nami_splash.jpg",
+            "img/champ_splash/288_KoiNami_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Nami_0.jpg",
-            "img/champ_thumbs/Nami_1.jpg"
+            "img/champ_thumbs/287_Nami_thumb.jpg",
+            "img/champ_thumbs/288_KoiNami_thumb.jpg"
         ]
     },
     "Nasus": {
         "splashes": [
-            "img/champ_splash/Nasus_Splash_0.jpg",
-            "img/champ_splash/Nasus_Splash_1.jpg",
-            "img/champ_splash/Nasus_Splash_2.jpg",
-            "img/champ_splash/Nasus_Splash_3.jpg",
-            "img/champ_splash/Nasus_Splash_4.jpg"
+            "img/champ_splash/289_Nasus_splash.jpg",
+            "img/champ_splash/290_GalacticNasus_splash.jpg",
+            "img/champ_splash/291_PharaohNasus_splash.jpg",
+            "img/champ_splash/292_DreadknightNasus_splash.jpg",
+            "img/champ_splash/293_K9RiotNasus_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Nasus_0.jpg",
-            "img/champ_thumbs/Nasus_1.jpg",
-            "img/champ_thumbs/Nasus_2.jpg",
-            "img/champ_thumbs/Nasus_3.jpg",
-            "img/champ_thumbs/Nasus_4.jpg"
+            "img/champ_thumbs/289_Nasus_thumb.jpg",
+            "img/champ_thumbs/290_GalacticNasus_thumb.jpg",
+            "img/champ_thumbs/291_PharaohNasus_thumb.jpg",
+            "img/champ_thumbs/292_DreadknightNasus_thumb.jpg",
+            "img/champ_thumbs/293_K9RiotNasus_thumb.jpg"
         ]
     },
     "Nautilus": {
         "splashes": [
-            "img/champ_splash/Nautilus_Splash_0.jpg",
-            "img/champ_splash/Nautilus_Splash_1.jpg",
-            "img/champ_splash/Nautilus_Splash_2.jpg",
-            "img/champ_splash/Nautilus_Splash_3.jpg"
+            "img/champ_splash/294_Nautilus_splash.jpg",
+            "img/champ_splash/295_AbyssalNautilus_splash.jpg",
+            "img/champ_splash/296_SubterraneanNautilus_splash.jpg",
+            "img/champ_splash/297_AstroNautilus_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Nautilus_0.jpg",
-            "img/champ_thumbs/Nautilus_1.jpg",
-            "img/champ_thumbs/Nautilus_2.jpg",
-            "img/champ_thumbs/Nautilus_3.jpg"
+            "img/champ_thumbs/294_Nautilus_thumb.jpg",
+            "img/champ_thumbs/295_AbyssalNautilus_thumb.jpg",
+            "img/champ_thumbs/296_SubterraneanNautilus_thumb.jpg",
+            "img/champ_thumbs/297_AstroNautilus_thumb.jpg"
         ]
     },
     "Nidalee": {
         "splashes": [
-            "img/champ_splash/Nidalee_Splash_0.jpg",
-            "img/champ_splash/Nidalee_Splash_1.jpg",
-            "img/champ_splash/Nidalee_Splash_2.jpg",
-            "img/champ_splash/Nidalee_Splash_3.jpg",
-            "img/champ_splash/Nidalee_Splash_4.jpg",
-            "img/champ_splash/Nidalee_Splash_5.jpg"
+            "img/champ_splash/298_Nidalee_splash.jpg",
+            "img/champ_splash/299_SnowBunnyNidalee_splash.jpg",
+            "img/champ_splash/300_LeopardNidalee_splash.jpg",
+            "img/champ_splash/301_FrenchMaidNidalee_splash.jpg",
+            "img/champ_splash/302_PharaohNidalee_splash.jpg",
+            "img/champ_splash/303_WitchNidalee_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Nidalee_0.jpg",
-            "img/champ_thumbs/Nidalee_1.jpg",
-            "img/champ_thumbs/Nidalee_2.jpg",
-            "img/champ_thumbs/Nidalee_3.jpg",
-            "img/champ_thumbs/Nidalee_4.jpg",
-            "img/champ_thumbs/Nidalee_5.jpg"
+            "img/champ_thumbs/298_Nidalee_thumb.jpg",
+            "img/champ_thumbs/299_SnowBunnyNidalee_thumb.jpg",
+            "img/champ_thumbs/300_LeopardNidalee_thumb.jpg",
+            "img/champ_thumbs/301_FrenchMaidNidalee_thumb.jpg",
+            "img/champ_thumbs/302_PharaohNidalee_thumb.jpg",
+            "img/champ_thumbs/303_WitchNidalee_thumb.jpg"
         ]
     },
     "Nocturne": {
         "splashes": [
-            "img/champ_splash/Nocturne_Splash_0.jpg",
-            "img/champ_splash/Nocturne_Splash_1.jpg",
-            "img/champ_splash/Nocturne_Splash_2.jpg",
-            "img/champ_splash/Nocturne_Splash_3.jpg",
-            "img/champ_splash/Nocturne_Splash_4.jpg",
-            "img/champ_splash/Nocturne_Splash_5.jpg"
+            "img/champ_splash/304_Nocturne_splash.jpg",
+            "img/champ_splash/305_VoidNocturne_splash.jpg",
+            "img/champ_splash/306_FrozenTerrorNocturne_splash.jpg",
+            "img/champ_splash/307_RavagerNocturne_splash.jpg",
+            "img/champ_splash/308_HauntingNocturne_splash.jpg",
+            "img/champ_splash/309_EternumNocturne_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Nocturne_0.jpg",
-            "img/champ_thumbs/Nocturne_1.jpg",
-            "img/champ_thumbs/Nocturne_2.jpg",
-            "img/champ_thumbs/Nocturne_3.jpg",
-            "img/champ_thumbs/Nocturne_4.jpg",
-            "img/champ_thumbs/Nocturne_5.jpg"
+            "img/champ_thumbs/304_Nocturne_thumb.jpg",
+            "img/champ_thumbs/305_VoidNocturne_thumb.jpg",
+            "img/champ_thumbs/306_FrozenTerrorNocturne_thumb.jpg",
+            "img/champ_thumbs/307_RavagerNocturne_thumb.jpg",
+            "img/champ_thumbs/308_HauntingNocturne_thumb.jpg",
+            "img/champ_thumbs/309_EternumNocturne_thumb.jpg"
         ]
     },
     "Nunu": {
         "splashes": [
-            "img/champ_splash/Nunu_Splash_0.jpg",
-            "img/champ_splash/Nunu_Splash_1.jpg",
-            "img/champ_splash/Nunu_Splash_2.jpg",
-            "img/champ_splash/Nunu_Splash_3.jpg",
-            "img/champ_splash/Nunu_Splash_4.jpg",
-            "img/champ_splash/Nunu_Splash_5.jpg"
+            "img/champ_splash/310_Nunu_splash.jpg",
+            "img/champ_splash/311_SasquatchNunu_splash.jpg",
+            "img/champ_splash/312_WorkshopNunu_splash.jpg",
+            "img/champ_splash/313_GrungyNunu_splash.jpg",
+            "img/champ_splash/314_NunuBot_splash.jpg",
+            "img/champ_splash/315_DemolisherNunu_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Nunu_0.jpg",
-            "img/champ_thumbs/Nunu_1.jpg",
-            "img/champ_thumbs/Nunu_2.jpg",
-            "img/champ_thumbs/Nunu_3.jpg",
-            "img/champ_thumbs/Nunu_4.jpg",
-            "img/champ_thumbs/Nunu_5.jpg"
+            "img/champ_thumbs/310_Nunu_thumb.jpg",
+            "img/champ_thumbs/311_SasquatchNunu_thumb.jpg",
+            "img/champ_thumbs/312_WorkshopNunu_thumb.jpg",
+            "img/champ_thumbs/313_GrungyNunu_thumb.jpg",
+            "img/champ_thumbs/314_NunuBot_thumb.jpg",
+            "img/champ_thumbs/315_DemolisherNunu_thumb.jpg"
         ]
     },
     "Olaf": {
         "splashes": [
-            "img/champ_splash/Olaf_Splash_0.jpg",
-            "img/champ_splash/Olaf_Splash_1.jpg",
-            "img/champ_splash/Olaf_Splash_2.jpg",
-            "img/champ_splash/Olaf_Splash_3.jpg",
-            "img/champ_splash/Olaf_Splash_4.jpg"
+            "img/champ_splash/316_Olaf_splash.jpg",
+            "img/champ_splash/317_ForsakenOlaf_splash.jpg",
+            "img/champ_splash/318_GlacialOlaf_splash.jpg",
+            "img/champ_splash/319_Brolaf_splash.jpg",
+            "img/champ_splash/320_PentaKillOlaf_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Olaf_0.jpg",
-            "img/champ_thumbs/Olaf_1.jpg",
-            "img/champ_thumbs/Olaf_2.jpg",
-            "img/champ_thumbs/Olaf_3.jpg",
-            "img/champ_thumbs/Olaf_4.jpg"
+            "img/champ_thumbs/316_Olaf_thumb.jpg",
+            "img/champ_thumbs/317_ForsakenOlaf_thumb.jpg",
+            "img/champ_thumbs/318_GlacialOlaf_thumb.jpg",
+            "img/champ_thumbs/319_Brolaf_thumb.jpg",
+            "img/champ_thumbs/320_PentaKillOlaf_thumb.jpg"
         ]
     },
     "Orianna": {
         "splashes": [
-            "img/champ_splash/Orianna_Splash_0.jpg",
-            "img/champ_splash/Orianna_Splash_1.jpg",
-            "img/champ_splash/Orianna_Splash_2.jpg",
-            "img/champ_splash/Orianna_Splash_3.jpg"
+            "img/champ_splash/321_Orianna_splash.jpg",
+            "img/champ_splash/322_GothOrianna_splash.jpg",
+            "img/champ_splash/323_SewnChaosOrianna_splash.jpg",
+            "img/champ_splash/324_BladecraftOrianna_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Orianna_0.jpg",
-            "img/champ_thumbs/Orianna_1.jpg",
-            "img/champ_thumbs/Orianna_2.jpg",
-            "img/champ_thumbs/Orianna_3.jpg"
+            "img/champ_thumbs/321_Orianna_thumb.jpg",
+            "img/champ_thumbs/322_GothOrianna_thumb.jpg",
+            "img/champ_thumbs/323_SewnChaosOrianna_thumb.jpg",
+            "img/champ_thumbs/324_BladecraftOrianna_thumb.jpg"
         ]
     },
     "Pantheon": {
         "splashes": [
-            "img/champ_splash/Pantheon_Splash_0.jpg",
-            "img/champ_splash/Pantheon_Splash_1.jpg",
-            "img/champ_splash/Pantheon_Splash_2.jpg",
-            "img/champ_splash/Pantheon_Splash_3.jpg",
-            "img/champ_splash/Pantheon_Splash_4.jpg",
-            "img/champ_splash/Pantheon_Splash_5.jpg"
+            "img/champ_splash/325_Pantheon_splash.jpg",
+            "img/champ_splash/326_MyrmidonPantheon_splash.jpg",
+            "img/champ_splash/327_RuthlessPantheon_splash.jpg",
+            "img/champ_splash/328_PerseusPantheon_splash.jpg",
+            "img/champ_splash/329_FullMetalPantheon_splash.jpg",
+            "img/champ_splash/330_GlaiveKnightPantheon_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Pantheon_0.jpg",
-            "img/champ_thumbs/Pantheon_1.jpg",
-            "img/champ_thumbs/Pantheon_2.jpg",
-            "img/champ_thumbs/Pantheon_3.jpg",
-            "img/champ_thumbs/Pantheon_4.jpg",
-            "img/champ_thumbs/Pantheon_5.jpg"
+            "img/champ_thumbs/325_Pantheon_thumb.jpg",
+            "img/champ_thumbs/326_MyrmidonPantheon_thumb.jpg",
+            "img/champ_thumbs/327_RuthlessPantheon_thumb.jpg",
+            "img/champ_thumbs/328_PerseusPantheon_thumb.jpg",
+            "img/champ_thumbs/329_FullMetalPantheon_thumb.jpg",
+            "img/champ_thumbs/330_GlaiveKnightPantheon_thumb.jpg"
         ]
     },
     "Poppy": {
         "splashes": [
-            "img/champ_splash/Poppy_Splash_0.jpg",
-            "img/champ_splash/Poppy_Splash_1.jpg",
-            "img/champ_splash/Poppy_Splash_2.jpg",
-            "img/champ_splash/Poppy_Splash_3.jpg",
-            "img/champ_splash/Poppy_Splash_4.jpg",
-            "img/champ_splash/Poppy_Splash_5.jpg",
-            "img/champ_splash/Poppy_splash_6.jpg"
+            "img/champ_splash/331_Poppy_splash.jpg",
+            "img/champ_splash/332_NoxusPoppy_splash.jpg",
+            "img/champ_splash/333_BlacksmithPoppy_splash.jpg",
+            "img/champ_splash/334_Lollipoppy_splash.jpg",
+            "img/champ_splash/335_RagdollPoppy_splash.jpg",
+            "img/champ_splash/336_BattleRegaliaPoppy_splash.jpg",
+            "img/champ_splash/337_ScarletHammerPoppy_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Poppy_0.jpg",
-            "img/champ_thumbs/Poppy_1.jpg",
-            "img/champ_thumbs/Poppy_2.jpg",
-            "img/champ_thumbs/Poppy_3.jpg",
-            "img/champ_thumbs/Poppy_4.jpg",
-            "img/champ_thumbs/Poppy_5.jpg",
-            "img/champ_thumbs/Poppy_6.jpg"
+            "img/champ_thumbs/331_Poppy_thumb.jpg",
+            "img/champ_thumbs/332_NoxusPoppy_thumb.jpg",
+            "img/champ_thumbs/333_BlacksmithPoppy_thumb.jpg",
+            "img/champ_thumbs/334_Lollipoppy_thumb.jpg",
+            "img/champ_thumbs/335_RagdollPoppy_thumb.jpg",
+            "img/champ_thumbs/336_BattleRegaliaPoppy_thumb.jpg",
+            "img/champ_thumbs/337_ScarletHammerPoppy_thumb.jpg"
         ]
     },
     "Rammus": {
         "splashes": [
-            "img/champ_splash/Rammus_Splash_0.jpg",
-            "img/champ_splash/Rammus_Splash_1.jpg",
-            "img/champ_splash/Rammus_Splash_2.jpg",
-            "img/champ_splash/Rammus_Splash_3.jpg",
-            "img/champ_splash/Rammus_Splash_4.jpg",
-            "img/champ_splash/Rammus_Splash_5.jpg",
-            "img/champ_splash/Rammus_Splash_6.jpg"
+            "img/champ_splash/338_Rammus_splash.jpg",
+            "img/champ_splash/339_KingRammus_splash.jpg",
+            "img/champ_splash/340_ChromeRammus_splash.jpg",
+            "img/champ_splash/341_MoltenRammus_splash.jpg",
+            "img/champ_splash/342_FreljordRammus_splash.jpg",
+            "img/champ_splash/343_NinjaRammus_splash.jpg",
+            "img/champ_splash/344_FullMetalRammus_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Rammus_0.jpg",
-            "img/champ_thumbs/Rammus_1.jpg",
-            "img/champ_thumbs/Rammus_2.jpg",
-            "img/champ_thumbs/Rammus_3.jpg",
-            "img/champ_thumbs/Rammus_4.jpg",
-            "img/champ_thumbs/Rammus_5.jpg",
-            "img/champ_thumbs/Rammus_6.jpg"
+            "img/champ_thumbs/338_Rammus_thumb.jpg",
+            "img/champ_thumbs/339_KingRammus_thumb.jpg",
+            "img/champ_thumbs/340_ChromeRammus_thumb.jpg",
+            "img/champ_thumbs/341_MoltenRammus_thumb.jpg",
+            "img/champ_thumbs/342_FreljordRammus_thumb.jpg",
+            "img/champ_thumbs/343_NinjaRammus_thumb.jpg",
+            "img/champ_thumbs/344_FullMetalRammus_thumb.jpg"
         ]
     },
     "Renekton": {
         "splashes": [
-            "img/champ_splash/Renekton_Splash_0.jpg",
-            "img/champ_splash/Renekton_Splash_1.jpg",
-            "img/champ_splash/Renekton_Splash_2.jpg",
-            "img/champ_splash/Renekton_Splash_3.jpg",
-            "img/champ_splash/Renekton_Splash_4.jpg"
+            "img/champ_splash/345_Renekton_splash.jpg",
+            "img/champ_splash/346_GalacticRenekton_splash.jpg",
+            "img/champ_splash/347_OutbackRenekton_splash.jpg",
+            "img/champ_splash/348_BloodfuryRenekton_splash.jpg",
+            "img/champ_splash/349_RuneWarRenekton_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Renekton_0.jpg",
-            "img/champ_thumbs/Renekton_1.jpg",
-            "img/champ_thumbs/Renekton_2.jpg",
-            "img/champ_thumbs/Renekton_3.jpg",
-            "img/champ_thumbs/Renekton_4.jpg"
+            "img/champ_thumbs/345_Renekton_thumb.jpg",
+            "img/champ_thumbs/346_GalacticRenekton_thumb.jpg",
+            "img/champ_thumbs/347_OutbackRenekton_thumb.jpg",
+            "img/champ_thumbs/348_BloodfuryRenekton_thumb.jpg",
+            "img/champ_thumbs/349_RuneWarRenekton_thumb.jpg"
         ]
     },
     "Rengar": {
         "splashes": [
-            "img/champ_splash/Rengar_Splash_0.jpg",
-            "img/champ_splash/Rengar_Splash_1.jpg"
+            "img/champ_splash/350_Rengar_splash.jpg",
+            "img/champ_splash/351_HeadhunterRengar_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Rengar_0.jpg",
-            "img/champ_thumbs/Rengar_1.jpg"
+            "img/champ_thumbs/350_Rengar_thumb.jpg",
+            "img/champ_thumbs/351_HeadhunterRengar_thumb.jpg"
         ]
     },
     "Riven": {
         "splashes": [
-            "img/champ_splash/Riven_Splash_0.jpg",
-            "img/champ_splash/Riven_Splash_1.jpg",
-            "img/champ_splash/Riven_Splash_2.jpg",
-            "img/champ_splash/Riven_Splash_3.jpg",
-            "img/champ_splash/Riven_Splash_4.jpg"
+            "img/champ_splash/352_Riven_splash.jpg",
+            "img/champ_splash/353_RedeemedRiven_splash.jpg",
+            "img/champ_splash/354_CrimsonEliteRiven_splash.jpg",
+            "img/champ_splash/355_BattleBunnyRiven_splash.jpg",
+            "img/champ_splash/356_ChampionshipRiven_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Riven_0.jpg",
-            "img/champ_thumbs/Riven_1.jpg",
-            "img/champ_thumbs/Riven_2.jpg",
-            "img/champ_thumbs/Riven_3.jpg",
-            "img/champ_thumbs/Riven_4.jpg"
+            "img/champ_thumbs/352_Riven_thumb.jpg",
+            "img/champ_thumbs/353_RedeemedRiven_thumb.jpg",
+            "img/champ_thumbs/354_CrimsonEliteRiven_thumb.jpg",
+            "img/champ_thumbs/355_BattleBunnyRiven_thumb.jpg",
+            "img/champ_thumbs/356_ChampionshipRiven_thumb.jpg"
         ]
     },
     "Rumble": {
         "splashes": [
-            "img/champ_splash/Rumble_Splash_0.jpg",
-            "img/champ_splash/Rumble_Splash_1.jpg",
-            "img/champ_splash/Rumble_Splash_2.jpg"
+            "img/champ_splash/357_Rumble_splash.jpg",
+            "img/champ_splash/358_RumbleintheJungle_splash.jpg",
+            "img/champ_splash/359_BilgeratRumble_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Rumble_0.jpg",
-            "img/champ_thumbs/Rumble_1.jpg",
-            "img/champ_thumbs/Rumble_2.jpg"
+            "img/champ_thumbs/357_Rumble_thumb.jpg",
+            "img/champ_thumbs/358_RumbleintheJungle_thumb.jpg",
+            "img/champ_thumbs/359_BilgeratRumble_thumb.jpg"
         ]
     },
     "Ryze": {
         "splashes": [
-            "img/champ_splash/Ryze_Splash_0.jpg",
-            "img/champ_splash/Ryze_Splash_1.jpg",
-            "img/champ_splash/Ryze_Splash_2.jpg",
-            "img/champ_splash/Ryze_Splash_3.jpg",
-            "img/champ_splash/Ryze_Splash_4.jpg",
-            "img/champ_splash/Ryze_Splash_5.jpg",
-            "img/champ_splash/Ryze_Splash_6.jpg",
-            "img/champ_splash/Ryze_Splash_7.jpg",
-            "img/champ_splash/Ryze_Splash_8.jpg"
+            "img/champ_splash/360_Ryze_splash.jpg",
+            "img/champ_splash/361_HumanRyze_splash.jpg",
+            "img/champ_splash/362_TribalRyze_splash.jpg",
+            "img/champ_splash/363_UncleRyze_splash.jpg",
+            "img/champ_splash/364_ChampionRyze_splash.jpg",
+            "img/champ_splash/365_ProfessorRyze_splash.jpg",
+            "img/champ_splash/366_ZombieRyze_splash.jpg",
+            "img/champ_splash/367_DarkCrystalRyze_splash.jpg",
+            "img/champ_splash/368_PirateRyze_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Ryze_0.jpg",
-            "img/champ_thumbs/Ryze_1.jpg",
-            "img/champ_thumbs/Ryze_2.jpg",
-            "img/champ_thumbs/Ryze_3.jpg",
-            "img/champ_thumbs/Ryze_4.jpg",
-            "img/champ_thumbs/Ryze_5.jpg",
-            "img/champ_thumbs/Ryze_6.jpg",
-            "img/champ_thumbs/Ryze_7.jpg",
-            "img/champ_thumbs/Ryze_8.jpg"
+            "img/champ_thumbs/360_Ryze_thumb.jpg",
+            "img/champ_thumbs/361_HumanRyze_thumb.jpg",
+            "img/champ_thumbs/362_TribalRyze_thumb.jpg",
+            "img/champ_thumbs/363_UncleRyze_thumb.jpg",
+            "img/champ_thumbs/364_ChampionRyze_thumb.jpg",
+            "img/champ_thumbs/365_ProfessorRyze_thumb.jpg",
+            "img/champ_thumbs/366_ZombieRyze_thumb.jpg",
+            "img/champ_thumbs/367_DarkCrystalRyze_thumb.jpg",
+            "img/champ_thumbs/368_PirateRyze_thumb.jpg"
         ]
     },
     "Sejuani": {
         "splashes": [
-            "img/champ_splash/Sejuani_Splash_0.jpg",
-            "img/champ_splash/Sejuani_Splash_1.jpg",
-            "img/champ_splash/Sejuani_Splash_2.jpg"
+            "img/champ_splash/369_Sejuani_splash.jpg",
+            "img/champ_splash/370_SabretuskSejuani_splash.jpg",
+            "img/champ_splash/371_DarkriderSejuani_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Sejuani_0.jpg",
-            "img/champ_thumbs/Sejuani_1.jpg",
-            "img/champ_thumbs/Sejuani_2.jpg"
+            "img/champ_thumbs/369_Sejuani_thumb.jpg",
+            "img/champ_thumbs/370_SabretuskSejuani_thumb.jpg",
+            "img/champ_thumbs/371_DarkriderSejuani_thumb.jpg"
         ]
     },
     "Shaco": {
         "splashes": [
-            "img/champ_splash/Shaco_Splash_0.jpg",
-            "img/champ_splash/Shaco_Splash_1.jpg",
-            "img/champ_splash/Shaco_Splash_2.jpg",
-            "img/champ_splash/Shaco_Splash_3.jpg",
-            "img/champ_splash/Shaco_Splash_4.jpg",
-            "img/champ_splash/Shaco_Splash_5.jpg",
-            "img/champ_splash/Shaco_Splash_6.jpg"
+            "img/champ_splash/372_Shaco_splash.jpg",
+            "img/champ_splash/373_MadHatterShaco_splash.jpg",
+            "img/champ_splash/374_RoyalShaco_splash.jpg",
+            "img/champ_splash/375_NutcrackoShaco_splash.jpg",
+            "img/champ_splash/376_WorkshopShaco_splash.jpg",
+            "img/champ_splash/377_AsylumShaco_splash.jpg",
+            "img/champ_splash/378_MaskedShaco_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Shaco_0.jpg",
-            "img/champ_thumbs/Shaco_1.jpg",
-            "img/champ_thumbs/Shaco_2.jpg",
-            "img/champ_thumbs/Shaco_3.jpg",
-            "img/champ_thumbs/Shaco_4.jpg",
-            "img/champ_thumbs/Shaco_5.jpg",
-            "img/champ_thumbs/Shaco_6.jpg"
+            "img/champ_thumbs/372_Shaco_thumb.jpg",
+            "img/champ_thumbs/373_MadHatterShaco_thumb.jpg",
+            "img/champ_thumbs/374_RoyalShaco_thumb.jpg",
+            "img/champ_thumbs/375_NutcrackoShaco_thumb.jpg",
+            "img/champ_thumbs/376_WorkshopShaco_thumb.jpg",
+            "img/champ_thumbs/377_AsylumShaco_thumb.jpg",
+            "img/champ_thumbs/378_MaskedShaco_thumb.jpg"
         ]
     },
     "Shen": {
         "splashes": [
-            "img/champ_splash/Shen_Splash_0.jpg",
-            "img/champ_splash/Shen_Splash_1.jpg",
-            "img/champ_splash/Shen_Splash_2.jpg",
-            "img/champ_splash/Shen_Splash_3.jpg",
-            "img/champ_splash/Shen_Splash_4.jpg",
-            "img/champ_splash/Shen_Splash_5.jpg"
+            "img/champ_splash/379_Shen_splash.jpg",
+            "img/champ_splash/380_FrozenShen_splash.jpg",
+            "img/champ_splash/381_YellowJacketShen_splash.jpg",
+            "img/champ_splash/382_SurgeonShen_splash.jpg",
+            "img/champ_splash/383_BloodMoonShen_splash.jpg",
+            "img/champ_splash/384_WarlordShen_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Shen_0.jpg",
-            "img/champ_thumbs/Shen_1.jpg",
-            "img/champ_thumbs/Shen_2.jpg",
-            "img/champ_thumbs/Shen_3.jpg",
-            "img/champ_thumbs/Shen_4.jpg",
-            "img/champ_thumbs/Shen_5.jpg",
-            "img/champ_thumbs/Shen_Web_0.jpg"
+            "img/champ_thumbs/379_Shen_thumb.jpg",
+            "img/champ_thumbs/380_FrozenShen_thumb.jpg",
+            "img/champ_thumbs/381_YellowJacketShen_thumb.jpg",
+            "img/champ_thumbs/382_SurgeonShen_thumb.jpg",
+            "img/champ_thumbs/383_BloodMoonShen_thumb.jpg",
+            "img/champ_thumbs/384_WarlordShen_thumb.jpg"
         ]
     },
     "Shyvana": {
         "splashes": [
-            "img/champ_splash/Shyvana_Splash_0.jpg",
-            "img/champ_splash/Shyvana_Splash_1.jpg",
-            "img/champ_splash/Shyvana_Splash_2.jpg",
-            "img/champ_splash/Shyvana_Splash_3.jpg"
+            "img/champ_splash/385_Shyvana_splash.jpg",
+            "img/champ_splash/386_IronscaleShyvana_splash.jpg",
+            "img/champ_splash/387_BoneclawShyvana_splash.jpg",
+            "img/champ_splash/388_DarkflameShyvana_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Shyvana_0.jpg",
-            "img/champ_thumbs/Shyvana_1.jpg",
-            "img/champ_thumbs/Shyvana_2.jpg",
-            "img/champ_thumbs/Shyvana_3.jpg"
+            "img/champ_thumbs/385_Shyvana_thumb.jpg",
+            "img/champ_thumbs/386_IronscaleShyvana_thumb.jpg",
+            "img/champ_thumbs/387_BoneclawShyvana_thumb.jpg",
+            "img/champ_thumbs/388_DarkflameShyvana_thumb.jpg"
         ]
     },
     "Singed": {
         "splashes": [
-            "img/champ_splash/Singed_Splash_0.jpg",
-            "img/champ_splash/Singed_Splash_1.jpg",
-            "img/champ_splash/Singed_Splash_2.jpg",
-            "img/champ_splash/Singed_Splash_3.jpg",
-            "img/champ_splash/Singed_Splash_4.jpg",
-            "img/champ_splash/Singed_Splash_5.jpg"
+            "img/champ_splash/389_Singed_splash.jpg",
+            "img/champ_splash/390_HexTechSinged_splash.jpg",
+            "img/champ_splash/391_RiotSquadSinged_splash.jpg",
+            "img/champ_splash/392_SurferSinged_splash.jpg",
+            "img/champ_splash/393_MadScientistSinged_splash.jpg",
+            "img/champ_splash/394_AugmentedSinged_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Singed_0.jpg",
-            "img/champ_thumbs/Singed_1.jpg",
-            "img/champ_thumbs/Singed_2.jpg",
-            "img/champ_thumbs/Singed_3.jpg",
-            "img/champ_thumbs/Singed_4.jpg",
-            "img/champ_thumbs/Singed_5.jpg"
+            "img/champ_thumbs/389_Singed_thumb.jpg",
+            "img/champ_thumbs/390_HexTechSinged_thumb.jpg",
+            "img/champ_thumbs/391_RiotSquadSinged_thumb.jpg",
+            "img/champ_thumbs/392_SurferSinged_thumb.jpg",
+            "img/champ_thumbs/393_MadScientistSinged_thumb.jpg",
+            "img/champ_thumbs/394_AugmentedSinged_thumb.jpg"
         ]
     },
     "Sion": {
         "splashes": [
-            "img/champ_splash/Sion_Splash_0.jpg",
-            "img/champ_splash/Sion_Splash_1.jpg",
-            "img/champ_splash/Sion_Splash_2.jpg",
-            "img/champ_splash/Sion_Splash_3.jpg",
-            "img/champ_splash/Sion_Splash_4.jpg"
+            "img/champ_splash/395_Sion_splash.jpg",
+            "img/champ_splash/396_HexTechSion_splash.jpg",
+            "img/champ_splash/397_BarbarianSion_splash.jpg",
+            "img/champ_splash/398_LumberjackSion_splash.jpg",
+            "img/champ_splash/399_WarmongerSion_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Sion_0.jpg",
-            "img/champ_thumbs/Sion_1.jpg",
-            "img/champ_thumbs/Sion_2.jpg",
-            "img/champ_thumbs/Sion_3.jpg",
-            "img/champ_thumbs/Sion_4.jpg"
+            "img/champ_thumbs/395_Sion_thumb.jpg",
+            "img/champ_thumbs/396_HexTechSion_thumb.jpg",
+            "img/champ_thumbs/397_BarbarianSion_thumb.jpg",
+            "img/champ_thumbs/398_LumberjackSion_thumb.jpg",
+            "img/champ_thumbs/399_WarmongerSion_thumb.jpg"
         ]
     },
     "Sivir": {
         "splashes": [
-            "img/champ_splash/Sivir_Splash_0.jpg",
-            "img/champ_splash/Sivir_Splash_1.jpg",
-            "img/champ_splash/Sivir_Splash_2.jpg",
-            "img/champ_splash/Sivir_Splash_3.jpg",
-            "img/champ_splash/Sivir_Splash_4.jpg",
-            "img/champ_splash/Sivir_Splash_5.jpg"
+            "img/champ_splash/400_Sivir_splash.jpg",
+            "img/champ_splash/401_WarriorPrincessSivir_splash.jpg",
+            "img/champ_splash/402_SpectacularSivir_splash.jpg",
+            "img/champ_splash/403_HuntressSivir_splash.jpg",
+            "img/champ_splash/404_BanditSivir_splash.jpg",
+            "img/champ_splash/405_PAXSivir_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Sivir_0.jpg",
-            "img/champ_thumbs/Sivir_1.jpg",
-            "img/champ_thumbs/Sivir_2.jpg",
-            "img/champ_thumbs/Sivir_3.jpg",
-            "img/champ_thumbs/Sivir_4.jpg",
-            "img/champ_thumbs/Sivir_5.jpg"
+            "img/champ_thumbs/400_Sivir_thumb.jpg",
+            "img/champ_thumbs/401_WarriorPrincessSivir_thumb.jpg",
+            "img/champ_thumbs/402_SpectacularSivir_thumb.jpg",
+            "img/champ_thumbs/403_HuntressSivir_thumb.jpg",
+            "img/champ_thumbs/404_BanditSivir_thumb.jpg",
+            "img/champ_thumbs/405_PAXSivir_thumb.jpg"
         ]
     },
     "Skarner": {
         "splashes": [
-            "img/champ_splash/Skarner_Splash_0.jpg",
-            "img/champ_splash/Skarner_Splash_1.jpg",
-            "img/champ_splash/Skarner_Splash_2.jpg"
+            "img/champ_splash/406_Skarner_splash.jpg",
+            "img/champ_splash/407_SandscourgeSkarner_splash.jpg",
+            "img/champ_splash/408_EarthruneSkarner_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Skarner_0.jpg",
-            "img/champ_thumbs/Skarner_1.jpg",
-            "img/champ_thumbs/Skarner_2.jpg"
+            "img/champ_thumbs/406_Skarner_thumb.jpg",
+            "img/champ_thumbs/407_SandscourgeSkarner_thumb.jpg",
+            "img/champ_thumbs/408_EarthruneSkarner_thumb.jpg"
         ]
     },
     "Sona": {
         "splashes": [
-            "img/champ_splash/Sona_Splash_0.jpg",
-            "img/champ_splash/Sona_Splash_1.jpg",
-            "img/champ_splash/Sona_Splash_2.jpg",
-            "img/champ_splash/Sona_Splash_3.jpg",
-            "img/champ_splash/Sona_Splash_4.jpg",
-            "img/champ_splash/Sona_Splash_5.jpg"
+            "img/champ_splash/409_Sona_splash.jpg",
+            "img/champ_splash/410_MuseSona_splash.jpg",
+            "img/champ_splash/411_PentakillSona_splash.jpg",
+            "img/champ_splash/412_SilentNightSona_splash.jpg",
+            "img/champ_splash/413_GuqinSona_splash.jpg",
+            "img/champ_splash/414_ArcadeSona_splash.jpg",
+            "img/champ_splash/5_CrimsonAkali_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Sona_0.jpg",
-            "img/champ_thumbs/Sona_1.jpg",
-            "img/champ_thumbs/Sona_2.jpg",
-            "img/champ_thumbs/Sona_3.jpg",
-            "img/champ_thumbs/Sona_4.jpg",
-            "img/champ_thumbs/Sona_5.jpg"
+            "img/champ_thumbs/409_Sona_thumb.jpg",
+            "img/champ_thumbs/410_MuseSona_thumb.jpg",
+            "img/champ_thumbs/411_PentakillSona_thumb.jpg",
+            "img/champ_thumbs/412_SilentNightSona_thumb.jpg",
+            "img/champ_thumbs/413_GuqinSona_thumb.jpg",
+            "img/champ_thumbs/414_ArcadeSona_thumb.jpg",
+            "img/champ_thumbs/5_CrimsonAkali_thumb.jpg"
         ]
     },
     "Soraka": {
         "splashes": [
-            "img/champ_splash/Soraka_Splash_0.jpg",
-            "img/champ_splash/Soraka_Splash_1.jpg",
-            "img/champ_splash/Soraka_Splash_2.jpg"
+            "img/champ_splash/415_Soraka_splash.jpg",
+            "img/champ_splash/416_DryadSoraka_splash.jpg",
+            "img/champ_splash/417_DivineSoraka_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Soraka_0.jpg",
-            "img/champ_thumbs/Soraka_1.jpg",
-            "img/champ_thumbs/Soraka_2.jpg"
+            "img/champ_thumbs/415_Soraka_thumb.jpg",
+            "img/champ_thumbs/416_DryadSoraka_thumb.jpg",
+            "img/champ_thumbs/417_DivineSoraka_thumb.jpg"
         ]
     },
     "Swain": {
         "splashes": [
-            "img/champ_splash/Swain_Splash_0.jpg",
-            "img/champ_splash/Swain_Splash_1.jpg",
-            "img/champ_splash/Swain_Splash_2.jpg",
-            "img/champ_splash/Swain_Splash_3.jpg"
+            "img/champ_splash/418_Swain_splash.jpg",
+            "img/champ_splash/419_NorthernSwain_splash.jpg",
+            "img/champ_splash/420_BilgewaterSwain_splash.jpg",
+            "img/champ_splash/421_TyrantSwain_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Swain_0.jpg",
-            "img/champ_thumbs/Swain_1.jpg",
-            "img/champ_thumbs/Swain_2.jpg",
-            "img/champ_thumbs/Swain_3.jpg"
+            "img/champ_thumbs/418_Swain_thumb.jpg",
+            "img/champ_thumbs/419_NorthernSwain_thumb.jpg",
+            "img/champ_thumbs/420_BilgewaterSwain_thumb.jpg",
+            "img/champ_thumbs/421_TyrantSwain_thumb.jpg"
         ]
     },
     "Syndra": {
         "splashes": [
-            "img/champ_splash/Syndra_Splash_0.jpg",
-            "img/champ_splash/Syndra_Splash_1.jpg"
+            "img/champ_splash/422_Syndra_splash.jpg",
+            "img/champ_splash/423_JusticarSyndra_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Syndra_0.jpg",
-            "img/champ_thumbs/Syndra_1.jpg"
+            "img/champ_thumbs/422_Syndra_thumb.jpg",
+            "img/champ_thumbs/423_JusticarSyndra_thumb.jpg"
         ]
     },
     "Talon": {
         "splashes": [
-            "img/champ_splash/Talon_Splash_0.jpg",
-            "img/champ_splash/Talon_Splash_1.jpg",
-            "img/champ_splash/Talon_Splash_2.jpg",
-            "img/champ_splash/Talon_Splash_3.jpg"
+            "img/champ_splash/424_Talon_splash.jpg",
+            "img/champ_splash/425_RenegadeTalon_splash.jpg",
+            "img/champ_splash/426_CrimsonEliteTalon_splash.jpg",
+            "img/champ_splash/427_DragonbladeTalon_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Talon_0.jpg",
-            "img/champ_thumbs/Talon_1.jpg",
-            "img/champ_thumbs/Talon_2.jpg",
-            "img/champ_thumbs/Talon_3.jpg"
+            "img/champ_thumbs/424_Talon_thumb.jpg",
+            "img/champ_thumbs/425_RenegadeTalon_thumb.jpg",
+            "img/champ_thumbs/426_CrimsonEliteTalon_thumb.jpg",
+            "img/champ_thumbs/427_DragonbladeTalon_thumb.jpg"
         ]
     },
     "Taric": {
         "splashes": [
-            "img/champ_splash/Taric_Splash_0.jpg",
-            "img/champ_splash/Taric_Splash_1.jpg",
-            "img/champ_splash/Taric_Splash_2.jpg",
-            "img/champ_splash/Taric_Splash_3.jpg"
+            "img/champ_splash/428_Taric_splash.jpg",
+            "img/champ_splash/429_EmeraldTaric_splash.jpg",
+            "img/champ_splash/430_5thAgeTaric_splash.jpg",
+            "img/champ_splash/431_BloodstoneTaric_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Taric_0.jpg",
-            "img/champ_thumbs/Taric_1.jpg",
-            "img/champ_thumbs/Taric_2.jpg",
-            "img/champ_thumbs/Taric_3.jpg"
+            "img/champ_thumbs/428_Taric_thumb.jpg",
+            "img/champ_thumbs/429_EmeraldTaric_thumb.jpg",
+            "img/champ_thumbs/430_5thAgeTaric_thumb.jpg",
+            "img/champ_thumbs/431_BloodstoneTaric_thumb.jpg"
         ]
     },
     "Teemo": {
         "splashes": [
-            "img/champ_splash/Teemo_Splash_0.jpg",
-            "img/champ_splash/Teemo_Splash_1.jpg",
-            "img/champ_splash/Teemo_Splash_2.jpg",
-            "img/champ_splash/Teemo_Splash_3.jpg",
-            "img/champ_splash/Teemo_Splash_4.jpg",
-            "img/champ_splash/Teemo_Splash_5.jpg",
-            "img/champ_splash/Teemo_Splash_6.jpg",
-            "img/champ_splash/Teemo_Splash_7.jpg"
+            "img/champ_splash/432_Teemo_splash.jpg",
+            "img/champ_splash/433_HappyElfTeemo_splash.jpg",
+            "img/champ_splash/434_ReconTeemo_splash.jpg",
+            "img/champ_splash/435_BadgerTeemo_splash.jpg",
+            "img/champ_splash/436_AstronautTeemo_splash.jpg",
+            "img/champ_splash/437_CottontailTeemo_splash.jpg",
+            "img/champ_splash/438_SuperTeemo_splash.jpg",
+            "img/champ_splash/439_PandaTeemo_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Teemo_0.jpg",
-            "img/champ_thumbs/Teemo_1.jpg",
-            "img/champ_thumbs/Teemo_2.jpg",
-            "img/champ_thumbs/Teemo_3.jpg",
-            "img/champ_thumbs/Teemo_4.jpg",
-            "img/champ_thumbs/Teemo_5.jpg",
-            "img/champ_thumbs/Teemo_6.jpg",
-            "img/champ_thumbs/Teemo_7.jpg"
+            "img/champ_thumbs/432_Teemo_thumb.jpg",
+            "img/champ_thumbs/433_HappyElfTeemo_thumb.jpg",
+            "img/champ_thumbs/434_ReconTeemo_thumb.jpg",
+            "img/champ_thumbs/435_BadgerTeemo_thumb.jpg",
+            "img/champ_thumbs/436_AstronautTeemo_thumb.jpg",
+            "img/champ_thumbs/437_CottontailTeemo_thumb.jpg",
+            "img/champ_thumbs/438_SuperTeemo_thumb.jpg",
+            "img/champ_thumbs/439_PandaTeemo_thumb.jpg"
         ]
     },
     "Tristana": {
         "splashes": [
-            "img/champ_splash/Tristana_Splash_0.jpg",
-            "img/champ_splash/Tristana_Splash_1.jpg",
-            "img/champ_splash/Tristana_Splash_2.jpg",
-            "img/champ_splash/Tristana_Splash_3.jpg",
-            "img/champ_splash/Tristana_Splash_4.jpg",
-            "img/champ_splash/Tristana_Splash_5.jpg",
-            "img/champ_splash/Tristana_Splash_6.jpg"
+            "img/champ_splash/440_Tristana_splash.jpg",
+            "img/champ_splash/441_RiotGirlTristana_splash.jpg",
+            "img/champ_splash/442_EarnestElfTristana_splash.jpg",
+            "img/champ_splash/443_FirefighterTristana_splash.jpg",
+            "img/champ_splash/444_GuerrillaTristana_splash.jpg",
+            "img/champ_splash/445_BuccaneerTristana_splash.jpg",
+            "img/champ_splash/446_RocketeerTristana_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Tristana_0.jpg",
-            "img/champ_thumbs/Tristana_1.jpg",
-            "img/champ_thumbs/Tristana_2.jpg",
-            "img/champ_thumbs/Tristana_3.jpg",
-            "img/champ_thumbs/Tristana_4.jpg",
-            "img/champ_thumbs/Tristana_5.jpg",
-            "img/champ_thumbs/Tristana_6.jpg"
+            "img/champ_thumbs/440_Tristana_thumb.jpg",
+            "img/champ_thumbs/441_RiotGirlTristana_thumb.jpg",
+            "img/champ_thumbs/442_EarnestElfTristana_thumb.jpg",
+            "img/champ_thumbs/443_FirefighterTristana_thumb.jpg",
+            "img/champ_thumbs/444_GuerrillaTristana_thumb.jpg",
+            "img/champ_thumbs/445_BuccaneerTristana_thumb.jpg",
+            "img/champ_thumbs/446_RocketeerTristana_thumb.jpg"
         ]
     },
     "Trundle": {
         "splashes": [
-            "img/champ_splash/Trundle_Splash_0.jpg",
-            "img/champ_splash/Trundle_Splash_1.jpg",
-            "img/champ_splash/Trundle_Splash_2.jpg"
+            "img/champ_splash/447_Trundle_splash.jpg",
+            "img/champ_splash/448_LilSluggerTrundle_splash.jpg",
+            "img/champ_splash/449_JunkyardTrundle_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Trundle_0.jpg",
-            "img/champ_thumbs/Trundle_1.jpg",
-            "img/champ_thumbs/Trundle_2.jpg"
+            "img/champ_thumbs/447_Trundle_thumb.jpg",
+            "img/champ_thumbs/448_LilSluggerTrundle_thumb.jpg",
+            "img/champ_thumbs/449_JunkyardTrundle_thumb.jpg"
         ]
     },
     "Tryndamere": {
         "splashes": [
-            "img/champ_splash/Tryndamere_Splash_0.jpg",
-            "img/champ_splash/Tryndamere_Splash_1.jpg",
-            "img/champ_splash/Tryndamere_Splash_2.jpg",
-            "img/champ_splash/Tryndamere_Splash_3.jpg",
-            "img/champ_splash/Tryndamere_Splash_4.jpg",
-            "img/champ_splash/Tryndamere_Splash_5.jpg"
+            "img/champ_splash/450_Tryndamere_splash.jpg",
+            "img/champ_splash/451_HighlandTryndamere_splash.jpg",
+            "img/champ_splash/452_KingTryndamere_splash.jpg",
+            "img/champ_splash/453_VikingTryndamere_splash.jpg",
+            "img/champ_splash/454_DemonBladeTryndamere_splash.jpg",
+            "img/champ_splash/455_SultanTryndamere_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Tryndamere_0.jpg",
-            "img/champ_thumbs/Tryndamere_1.jpg",
-            "img/champ_thumbs/Tryndamere_2.jpg",
-            "img/champ_thumbs/Tryndamere_3.jpg",
-            "img/champ_thumbs/Tryndamere_4.jpg",
-            "img/champ_thumbs/Tryndamere_5.jpg"
+            "img/champ_thumbs/450_Tryndamere_thumb.jpg",
+            "img/champ_thumbs/451_HighlandTryndamere_thumb.jpg",
+            "img/champ_thumbs/452_KingTryndamere_thumb.jpg",
+            "img/champ_thumbs/453_VikingTryndamere_thumb.jpg",
+            "img/champ_thumbs/454_DemonBladeTryndamere_thumb.jpg",
+            "img/champ_thumbs/455_SultanTryndamere_thumb.jpg"
         ]
     },
     "TwistedFate": {
         "splashes": [
-            "img/champ_splash/TwistedFate_Splash_0.jpg",
-            "img/champ_splash/TwistedFate_Splash_1.jpg",
-            "img/champ_splash/TwistedFate_Splash_2.jpg",
-            "img/champ_splash/TwistedFate_Splash_3.jpg",
-            "img/champ_splash/TwistedFate_Splash_4.jpg",
-            "img/champ_splash/TwistedFate_Splash_5.jpg",
-            "img/champ_splash/TwistedFate_Splash_6.jpg",
-            "img/champ_splash/TwistedFate_Splash_7.jpg"
+            "img/champ_splash/456_TwistedFate_splash.jpg",
+            "img/champ_splash/457_PAXTwistedFate_splash.jpg",
+            "img/champ_splash/459_MagnificentTwistedFate_splash.jpg",
+            "img/champ_splash/460_TangoTwistedFate_splash.jpg",
+            "img/champ_splash/461_HighNoonTwistedFate_splash.jpg",
+            "img/champ_splash/462_MusketeerTwistedFate_splash.jpg",
+            "img/champ_splash/463_UnderworldTwistedFate_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/TwistedFate_0.jpg",
-            "img/champ_thumbs/TwistedFate_1.jpg",
-            "img/champ_thumbs/TwistedFate_2.jpg",
-            "img/champ_thumbs/TwistedFate_3.jpg",
-            "img/champ_thumbs/TwistedFate_4.jpg",
-            "img/champ_thumbs/TwistedFate_5.jpg",
-            "img/champ_thumbs/TwistedFate_6.jpg",
-            "img/champ_thumbs/TwistedFate_7.jpg"
+            "img/champ_thumbs/456_TwistedFate_thumb.jpg",
+            "img/champ_thumbs/457_PAXTwistedFate_thumb.jpg",
+            "img/champ_thumbs/459_MagnificentTwistedFate_thumb.jpg",
+            "img/champ_thumbs/460_TangoTwistedFate_thumb.jpg",
+            "img/champ_thumbs/461_HighNoonTwistedFate_thumb.jpg",
+            "img/champ_thumbs/462_MusketeerTwistedFate_thumb.jpg",
+            "img/champ_thumbs/463_UnderworldTwistedFate_thumb.jpg"
         ]
     },
     "Twitch": {
         "splashes": [
-            "img/champ_splash/Twitch_Splash_0.jpg",
-            "img/champ_splash/Twitch_Splash_1.jpg",
-            "img/champ_splash/Twitch_Splash_2.jpg",
-            "img/champ_splash/Twitch_Splash_3.jpg",
-            "img/champ_splash/Twitch_Splash_4.jpg",
-            "img/champ_splash/Twitch_Splash_5.jpg"
+            "img/champ_splash/464_Twitch_splash.jpg",
+            "img/champ_splash/465_KingpinTwitch_splash.jpg",
+            "img/champ_splash/466_WhistlerVillageTwitch_splash.jpg",
+            "img/champ_splash/467_MedievalTwitch_splash.jpg",
+            "img/champ_splash/468_GangsterTwitch_splash.jpg",
+            "img/champ_splash/469_VandalTwitch_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Twitch_0.jpg",
-            "img/champ_thumbs/Twitch_1.jpg",
-            "img/champ_thumbs/Twitch_2.jpg",
-            "img/champ_thumbs/Twitch_3.jpg",
-            "img/champ_thumbs/Twitch_4.jpg",
-            "img/champ_thumbs/Twitch_5.jpg"
+            "img/champ_thumbs/464_Twitch_thumb.jpg",
+            "img/champ_thumbs/465_KingpinTwitch_thumb.jpg",
+            "img/champ_thumbs/466_WhistlerVillageTwitch_thumb.jpg",
+            "img/champ_thumbs/467_MedievalTwitch_thumb.jpg",
+            "img/champ_thumbs/468_GangsterTwitch_thumb.jpg",
+            "img/champ_thumbs/469_VandalTwitch_thumb.jpg"
         ]
     },
     "Udyr": {
         "splashes": [
-            "img/champ_splash/Udyr_Splash_0.jpg",
-            "img/champ_splash/Udyr_Splash_1.jpg",
-            "img/champ_splash/Udyr_Splash_2.jpg"
+            "img/champ_splash/470_Udyr_splash.jpg",
+            "img/champ_splash/471_BlackBeltUdyr_splash.jpg",
+            "img/champ_splash/472_PrimalUdyr_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Udyr_0.jpg",
-            "img/champ_thumbs/Udyr_1.jpg",
-            "img/champ_thumbs/Udyr_2.jpg"
+            "img/champ_thumbs/470_Udyr_thumb.jpg",
+            "img/champ_thumbs/471_BlackBeltUdyr_thumb.jpg",
+            "img/champ_thumbs/472_PrimalUdyr_thumb.jpg"
         ]
     },
     "Urgot": {
         "splashes": [
-            "img/champ_splash/Urgot_Splash_0.jpg",
-            "img/champ_splash/Urgot_Splash_1.jpg",
-            "img/champ_splash/Urgot_Splash_2.jpg",
-            "img/champ_splash/Urgot_Splash_3.jpg"
+            "img/champ_splash/473_Urgot_splash.jpg",
+            "img/champ_splash/474_ButcherUrgot_splash.jpg",
+            "img/champ_splash/475_GiantEnemyCrabgotUrgot_splash.jpg",
+            "img/champ_splash/476_BattlecastUrgot_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Urgot_0.jpg",
-            "img/champ_thumbs/Urgot_1.jpg",
-            "img/champ_thumbs/Urgot_2.jpg",
-            "img/champ_thumbs/Urgot_3.jpg",
-            "img/champ_thumbs/Urgot_Web_0.jpg"
+            "img/champ_thumbs/473_Urgot_thumb.jpg",
+            "img/champ_thumbs/474_ButcherUrgot_thumb.jpg",
+            "img/champ_thumbs/475_GiantEnemyCrabgotUrgot_thumb.jpg",
+            "img/champ_thumbs/476_BattlecastUrgot_thumb.jpg"
         ]
     },
     "Varus": {
         "splashes": [
-            "img/champ_splash/Varus_Splash_0.jpg",
-            "img/champ_splash/Varus_Splash_1.jpg",
-            "img/champ_splash/Varus_Splash_2.jpg"
+            "img/champ_splash/477_Varus_splash.jpg",
+            "img/champ_splash/478_BlightCrystalVarus_splash.jpg",
+            "img/champ_splash/479_ArclightVarus_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Varus_0.jpg",
-            "img/champ_thumbs/Varus_1.jpg",
-            "img/champ_thumbs/Varus_2.jpg"
+            "img/champ_thumbs/477_Varus_thumb.jpg",
+            "img/champ_thumbs/478_BlightCrystalVarus_thumb.jpg",
+            "img/champ_thumbs/479_ArclightVarus_thumb.jpg"
         ]
     },
     "Vayne": {
         "splashes": [
-            "img/champ_splash/Vayne_Splash_0.jpg",
-            "img/champ_splash/Vayne_Splash_1.jpg",
-            "img/champ_splash/Vayne_Splash_2.jpg",
-            "img/champ_splash/Vayne_Splash_3.jpg",
-            "img/champ_splash/Vayne_Splash_4.jpg"
+            "img/champ_splash/480_Vayne_splash.jpg",
+            "img/champ_splash/481_VindicatorVayne_splash.jpg",
+            "img/champ_splash/482_AristocratVayne_splash.jpg",
+            "img/champ_splash/483_DragonSlayerVayne_splash.jpg",
+            "img/champ_splash/484_HeartSeekerVayne_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Vayne_0.jpg",
-            "img/champ_thumbs/Vayne_1.jpg",
-            "img/champ_thumbs/Vayne_2.jpg",
-            "img/champ_thumbs/Vayne_3.jpg",
-            "img/champ_thumbs/Vayne_4.jpg"
+            "img/champ_thumbs/480_Vayne_thumb.jpg",
+            "img/champ_thumbs/481_VindicatorVayne_thumb.jpg",
+            "img/champ_thumbs/482_AristocratVayne_thumb.jpg",
+            "img/champ_thumbs/483_DragonSlayerVayne_thumb.jpg",
+            "img/champ_thumbs/484_HeartSeekerVayne_thumb.jpg"
         ]
     },
     "Veigar": {
         "splashes": [
-            "img/champ_splash/Veigar_Splash_0.jpg",
-            "img/champ_splash/Veigar_Splash_1.jpg",
-            "img/champ_splash/Veigar_Splash_2.jpg",
-            "img/champ_splash/Veigar_Splash_3.jpg",
-            "img/champ_splash/Veigar_Splash_4.jpg",
-            "img/champ_splash/Veigar_Splash_5.jpg",
-            "img/champ_splash/Veigar_Splash_6.jpg",
-            "img/champ_splash/Veigar_Splash_7.jpg"
+            "img/champ_splash/485_Veigar_splash.jpg",
+            "img/champ_splash/486_WhiteMageVeigar_splash.jpg",
+            "img/champ_splash/487_CurlingVeigar_splash.jpg",
+            "img/champ_splash/488_VeigarGreybeard_splash.jpg",
+            "img/champ_splash/489_LeprechaunVeigar_splash.jpg",
+            "img/champ_splash/490_BaronvonVeigar_splash.jpg",
+            "img/champ_splash/491_SupremeVillainVeigar_splash.jpg",
+            "img/champ_splash/492_BadSantaVeigar_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Veigar_0.jpg",
-            "img/champ_thumbs/Veigar_1.jpg",
-            "img/champ_thumbs/Veigar_2.jpg",
-            "img/champ_thumbs/Veigar_3.jpg",
-            "img/champ_thumbs/Veigar_4.jpg",
-            "img/champ_thumbs/Veigar_5.jpg",
-            "img/champ_thumbs/Veigar_6.jpg",
-            "img/champ_thumbs/Veigar_7.jpg"
+            "img/champ_thumbs/485_Veigar_thumb.jpg",
+            "img/champ_thumbs/486_WhiteMageVeigar_thumb.jpg",
+            "img/champ_thumbs/487_CurlingVeigar_thumb.jpg",
+            "img/champ_thumbs/488_VeigarGreybeard_thumb.jpg",
+            "img/champ_thumbs/489_LeprechaunVeigar_thumb.jpg",
+            "img/champ_thumbs/490_BaronvonVeigar_thumb.jpg",
+            "img/champ_thumbs/491_SupremeVillainVeigar_thumb.jpg",
+            "img/champ_thumbs/492_BadSantaVeigar_thumb.jpg"
         ]
     },
-    "Vi": {
+    "Vi ": {
         "splashes": [
-            "img/champ_splash/Vi_Splash_0.jpg",
-            "img/champ_splash/Vi_Splash_1.jpg",
-            "img/champ_splash/Viktor_Splash_0.jpg",
-            "img/champ_splash/Viktor_Splash_1.jpg",
-            "img/champ_splash/Viktor_Splash_2.jpg"
+            "img/champ_splash/493_Vi _splash.jpg",
+            "img/champ_splash/494_NeonStrikeVi _splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Vi_0.jpg",
-            "img/champ_thumbs/Vi_1.jpg",
-            "img/champ_thumbs/Viktor_0.jpg",
-            "img/champ_thumbs/Viktor_1.jpg",
-            "img/champ_thumbs/Viktor_2.jpg"
+            "img/champ_thumbs/493_Vi _thumb.jpg",
+            "img/champ_thumbs/494_NeonStrikeVi _thumb.jpg"
         ]
     },
     "Viktor": {
         "splashes": [
-            "img/champ_splash/Viktor_Splash_0.jpg",
-            "img/champ_splash/Viktor_Splash_1.jpg",
-            "img/champ_splash/Viktor_Splash_2.jpg"
+            "img/champ_splash/495_Viktor_splash.jpg",
+            "img/champ_splash/496_FullMachineViktor_splash.jpg",
+            "img/champ_splash/497_PrototypeViktor_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Viktor_0.jpg",
-            "img/champ_thumbs/Viktor_1.jpg",
-            "img/champ_thumbs/Viktor_2.jpg"
+            "img/champ_thumbs/495_Viktor_thumb.jpg",
+            "img/champ_thumbs/496_FullMachineViktor_thumb.jpg",
+            "img/champ_thumbs/497_PrototypeViktor_thumb.jpg"
         ]
     },
     "Vladimir": {
         "splashes": [
-            "img/champ_splash/Vladimir_Splash_0.jpg",
-            "img/champ_splash/Vladimir_Splash_1.jpg",
-            "img/champ_splash/Vladimir_Splash_2.jpg",
-            "img/champ_splash/Vladimir_Splash_3.jpg",
-            "img/champ_splash/Vladimir_Splash_4.jpg",
-            "img/champ_splash/Vladimir_Splash_5.jpg"
+            "img/champ_splash/498_Vladimir_splash.jpg",
+            "img/champ_splash/499_MarquisVladimir_splash.jpg",
+            "img/champ_splash/500_CountVladimir_splash.jpg",
+            "img/champ_splash/501_NosferatuVladimir_splash.jpg",
+            "img/champ_splash/502_VandalVladimir_splash.jpg",
+            "img/champ_splash/503_BloodLordVladimir_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Vladimir_0.jpg",
-            "img/champ_thumbs/Vladimir_1.jpg",
-            "img/champ_thumbs/Vladimir_2.jpg",
-            "img/champ_thumbs/Vladimir_3.jpg",
-            "img/champ_thumbs/Vladimir_4.jpg",
-            "img/champ_thumbs/Vladimir_5.jpg",
-            "img/champ_thumbs/Vladimir_Web_0.jpg"
+            "img/champ_thumbs/498_Vladimir_thumb.jpg",
+            "img/champ_thumbs/499_MarquisVladimir_thumb.jpg",
+            "img/champ_thumbs/500_CountVladimir_thumb.jpg",
+            "img/champ_thumbs/501_NosferatuVladimir_thumb.jpg",
+            "img/champ_thumbs/502_VandalVladimir_thumb.jpg",
+            "img/champ_thumbs/503_BloodLordVladimir_thumb.jpg"
         ]
     },
     "Volibear": {
         "splashes": [
-            "img/champ_splash/Volibear_Splash_0.jpg",
-            "img/champ_splash/Volibear_Splash_1.jpg",
-            "img/champ_splash/Volibear_Splash_2.jpg"
+            "img/champ_splash/504_Volibear_splash.jpg",
+            "img/champ_splash/505_ThunderLordVolibear_splash.jpg",
+            "img/champ_splash/506_NorthernStormVolibear_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Volibear_0.jpg",
-            "img/champ_thumbs/Volibear_1.jpg",
-            "img/champ_thumbs/Volibear_2.jpg"
+            "img/champ_thumbs/504_Volibear_thumb.jpg",
+            "img/champ_thumbs/505_ThunderLordVolibear_thumb.jpg",
+            "img/champ_thumbs/506_NorthernStormVolibear_thumb.jpg"
         ]
     },
     "Warwick": {
         "splashes": [
-            "img/champ_splash/Warwick_Splash_0.jpg",
-            "img/champ_splash/Warwick_Splash_1.jpg",
-            "img/champ_splash/Warwick_Splash_2.jpg",
-            "img/champ_splash/Warwick_Splash_3.jpg",
-            "img/champ_splash/Warwick_Splash_4.jpg",
-            "img/champ_splash/Warwick_Splash_5.jpg",
-            "img/champ_splash/Warwick_Splash_6.jpg",
-            "img/champ_splash/Warwick_Splash_7.jpg"
+            "img/champ_splash/507_Warwick_splash.jpg",
+            "img/champ_splash/508_GreyWarwick_splash.jpg",
+            "img/champ_splash/509_UrftheManateeWarwick_splash.jpg",
+            "img/champ_splash/510_BigBadWarwick_splash.jpg",
+            "img/champ_splash/511_TundraHunterWarwick_splash.jpg",
+            "img/champ_splash/512_FeralWarwick_splash.jpg",
+            "img/champ_splash/513_FirefangWarwick_splash.jpg",
+            "img/champ_splash/514_HyenaWarwick_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Warwick_0.jpg",
-            "img/champ_thumbs/Warwick_1.jpg",
-            "img/champ_thumbs/Warwick_2.jpg",
-            "img/champ_thumbs/Warwick_3.jpg",
-            "img/champ_thumbs/Warwick_4.jpg",
-            "img/champ_thumbs/Warwick_5.jpg",
-            "img/champ_thumbs/Warwick_6.jpg",
-            "img/champ_thumbs/Warwick_7.jpg"
+            "img/champ_thumbs/507_Warwick_thumb.jpg",
+            "img/champ_thumbs/508_GreyWarwick_thumb.jpg",
+            "img/champ_thumbs/509_UrftheManateeWarwick_thumb.jpg",
+            "img/champ_thumbs/510_BigBadWarwick_thumb.jpg",
+            "img/champ_thumbs/511_TundraHunterWarwick_thumb.jpg",
+            "img/champ_thumbs/512_FeralWarwick_thumb.jpg",
+            "img/champ_thumbs/513_FirefangWarwick_thumb.jpg",
+            "img/champ_thumbs/514_HyenaWarwick_thumb.jpg"
         ]
     },
     "Wukong": {
         "splashes": [
-            "img/champ_splash/Wukong_Splash_0.jpg",
-            "img/champ_splash/Wukong_Splash_1.jpg",
-            "img/champ_splash/Wukong_Splash_2.jpg",
-            "img/champ_splash/Wukong_Splash_3.jpg"
+            "img/champ_splash/515_Wukong_splash.jpg",
+            "img/champ_splash/516_VolcanicWukong_splash.jpg",
+            "img/champ_splash/517_GeneralWukong_splash.jpg",
+            "img/champ_splash/518_JadeDragonWukong_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Wukong_0.jpg",
-            "img/champ_thumbs/Wukong_1.jpg",
-            "img/champ_thumbs/Wukong_2.jpg",
-            "img/champ_thumbs/Wukong_3.jpg"
+            "img/champ_thumbs/515_Wukong_thumb.jpg",
+            "img/champ_thumbs/516_VolcanicWukong_thumb.jpg",
+            "img/champ_thumbs/517_GeneralWukong_thumb.jpg",
+            "img/champ_thumbs/518_JadeDragonWukong_thumb.jpg"
         ]
     },
     "Xerath": {
         "splashes": [
-            "img/champ_splash/Xerath_Splash_0.jpg",
-            "img/champ_splash/Xerath_Splash_1.jpg",
-            "img/champ_splash/Xerath_Splash_2.jpg",
-            "img/champ_splash/Xerath_Splash_3.jpg"
+            "img/champ_splash/519_Xerath_splash.jpg",
+            "img/champ_splash/520_RunebornXerath_splash.jpg",
+            "img/champ_splash/521_BattlecastXerath_splash.jpg",
+            "img/champ_splash/522_ScorchedEarthXerath_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Xerath_0.jpg",
-            "img/champ_thumbs/Xerath_1.jpg",
-            "img/champ_thumbs/Xerath_2.jpg",
-            "img/champ_thumbs/Xerath_3.jpg"
+            "img/champ_thumbs/519_Xerath_thumb.jpg",
+            "img/champ_thumbs/520_RunebornXerath_thumb.jpg",
+            "img/champ_thumbs/521_BattlecastXerath_thumb.jpg",
+            "img/champ_thumbs/522_ScorchedEarthXerath_thumb.jpg"
         ]
     },
     "XinZhao": {
         "splashes": [
-            "img/champ_splash/XinZhao_Splash_0.jpg",
-            "img/champ_splash/XinZhao_Splash_1.jpg",
-            "img/champ_splash/XinZhao_Splash_2.jpg",
-            "img/champ_splash/XinZhao_Splash_3.jpg",
-            "img/champ_splash/XinZhao_Splash_4.jpg"
+            "img/champ_splash/523_XinZhao_splash.jpg",
+            "img/champ_splash/524_CommandoXinZhao_splash.jpg",
+            "img/champ_splash/525_ImperialXinZhao_splash.jpg",
+            "img/champ_splash/526_VisceroXinZhao_splash.jpg",
+            "img/champ_splash/527_WingedHussarXinZhao_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/XinZhao_0.jpg",
-            "img/champ_thumbs/XinZhao_1.jpg",
-            "img/champ_thumbs/XinZhao_2.jpg",
-            "img/champ_thumbs/XinZhao_3.jpg",
-            "img/champ_thumbs/XinZhao_4.jpg"
+            "img/champ_thumbs/523_XinZhao_thumb.jpg",
+            "img/champ_thumbs/524_CommandoXinZhao_thumb.jpg",
+            "img/champ_thumbs/525_ImperialXinZhao_thumb.jpg",
+            "img/champ_thumbs/526_VisceroXinZhao_thumb.jpg",
+            "img/champ_thumbs/527_WingedHussarXinZhao_thumb.jpg"
         ]
     },
     "Yorick": {
         "splashes": [
-            "img/champ_splash/Yorick_Splash_0.jpg",
-            "img/champ_splash/Yorick_Splash_1.jpg",
-            "img/champ_splash/Yorick_Splash_2.jpg"
+            "img/champ_splash/528_Yorick_splash.jpg",
+            "img/champ_splash/529_UndertakerYorick_splash.jpg",
+            "img/champ_splash/530_PentakillYorick_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Yorick_0.jpg",
-            "img/champ_thumbs/Yorick_1.jpg",
-            "img/champ_thumbs/Yorick_2.jpg"
+            "img/champ_thumbs/528_Yorick_thumb.jpg",
+            "img/champ_thumbs/529_UndertakerYorick_thumb.jpg",
+            "img/champ_thumbs/530_PentakillYorick_thumb.jpg"
         ]
     },
     "Zed": {
         "splashes": [
-            "img/champ_splash/Zed_Splash_0.jpg",
-            "img/champ_splash/Zed_Splash_1.jpg"
+            "img/champ_splash/531_Zed_splash.jpg",
+            "img/champ_splash/532_ShockbladeZed_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Zed_0.jpg",
-            "img/champ_thumbs/Zed_1.jpg"
+            "img/champ_thumbs/531_Zed_thumb.jpg",
+            "img/champ_thumbs/532_ShockbladeZed_thumb.jpg"
         ]
     },
     "Ziggs": {
         "splashes": [
-            "img/champ_splash/Ziggs_Splash_0.jpg",
-            "img/champ_splash/Ziggs_Splash_1.jpg",
-            "img/champ_splash/Ziggs_Splash_2.jpg",
-            "img/champ_splash/Ziggs_Splash_3.jpg",
-            "img/champ_splash/Ziggs_Splash_4.jpg"
+            "img/champ_splash/533_Ziggs_splash.jpg",
+            "img/champ_splash/534_MajorZiggs_splash.jpg",
+            "img/champ_splash/535_MadScientistZiggs_splash.jpg",
+            "img/champ_splash/536_PoolPartyZiggs_splash.jpg",
+            "img/champ_splash/537_SnowDayZiggs_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Ziggs_0.jpg",
-            "img/champ_thumbs/Ziggs_1.jpg",
-            "img/champ_thumbs/Ziggs_2.jpg",
-            "img/champ_thumbs/Ziggs_3.jpg",
-            "img/champ_thumbs/Ziggs_4.jpg"
+            "img/champ_thumbs/533_Ziggs_thumb.jpg",
+            "img/champ_thumbs/534_MajorZiggs_thumb.jpg",
+            "img/champ_thumbs/535_MadScientistZiggs_thumb.jpg",
+            "img/champ_thumbs/536_PoolPartyZiggs_thumb.jpg",
+            "img/champ_thumbs/537_SnowDayZiggs_thumb.jpg"
         ]
     },
     "Zilean": {
         "splashes": [
-            "img/champ_splash/Zilean_Splash_0.jpg",
-            "img/champ_splash/Zilean_Splash_1.jpg",
-            "img/champ_splash/Zilean_Splash_2.jpg",
-            "img/champ_splash/Zilean_Splash_3.jpg",
-            "img/champ_splash/Zilean_Splash_4.jpg"
+            "img/champ_splash/538_Zilean_splash.jpg",
+            "img/champ_splash/539_OldStZilean_splash.jpg",
+            "img/champ_splash/540_GroovyZilean_splash.jpg",
+            "img/champ_splash/541_ShurimaDesertZilean_splash.jpg",
+            "img/champ_splash/542_TimeMachineZilean_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Zilean_0.jpg",
-            "img/champ_thumbs/Zilean_1.jpg",
-            "img/champ_thumbs/Zilean_2.jpg",
-            "img/champ_thumbs/Zilean_3.jpg",
-            "img/champ_thumbs/Zilean_4.jpg"
+            "img/champ_thumbs/538_Zilean_thumb.jpg",
+            "img/champ_thumbs/539_OldStZilean_thumb.jpg",
+            "img/champ_thumbs/540_GroovyZilean_thumb.jpg",
+            "img/champ_thumbs/541_ShurimaDesertZilean_thumb.jpg",
+            "img/champ_thumbs/542_TimeMachineZilean_thumb.jpg"
         ]
     },
     "Zyra": {
         "splashes": [
-            "img/champ_splash/Zyra_Splash_0.jpg",
-            "img/champ_splash/Zyra_Splash_1.jpg"
+            "img/champ_splash/543_Zyra_splash.jpg",
+            "img/champ_splash/544_WildfireZyra_splash.jpg"
         ],
         "thumbs": [
-            "img/champ_thumbs/Zyra_0.jpg",
-            "img/champ_thumbs/Zyra_1.jpg"
+            "img/champ_thumbs/543_Zyra_thumb.jpg",
+            "img/champ_thumbs/544_WildfireZyra_thumb.jpg"
         ]
     }
 }
