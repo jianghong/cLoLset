@@ -1,10 +1,14 @@
-<p>Search for a champ</p>
-<form ng-submit="submit()">
-	<input ng-model='query.name' autofocus='autofocus'>
-</form>
-{{d}}
-{{query.name}}
-<ul id="main-grid">
+
+	<div class="infobox">
+		<div class="inner-search">
+			<h1>BLLLLLARGZ</h1>
+			<form class="form-search" ng-submit="submit()">
+				<input type="text" class="input-medium search-query" ng-model='query.name' autofocus='autofocus' placeholder='Find your champ'>
+			</form>
+		</div>
+	</div>
+
+<ul class="container">
 	<li class="grid" ng-repeat="champ in squares | filter:query">
 		<a href="#/{{champ.name}}"><img alt="{{champ.name}}" ng-src="{{champ.squareUrl}}"></a>
 	</li>

@@ -1,3 +1,52 @@
+$gentium: "Gentium Basic", Sans-Serif;
+@import "compass/typography/links/link-colors";
+@import "compass/css3/border-radius";
+@import "compass/layout/stretching";
+
+// background image, with repeat option
+@mixin bgimage($url) {
+    background-image: url($url);
+}
+
+body {
+    @include bgimage("../img/diagonal-noise.gif");
+}
+header {
+    font-family: $gentium;
+    background:black;
+}
+
+header .container {
+    width:1215px;
+}
+
+.infobox {
+    background-image:url("../img/champ_blurs/neonstrikeVI_blur.jpg");
+    margin-right:auto;
+    margin-left:auto;
+    height: 357px;
+    text-align:center;
+    width:1215px;
+}
+
+.infobox h1 {
+    color:#ccc;
+}
+
+.inner-search {
+    padding-top: 100px;
+}
+
+.form-search {
+    margin-top:20px;
+}
+a {
+    @include link-colors(#00c, #0cc, #c0c, #ccc, #cc0);
+}
+
+.champ-detail {
+    margin-top: 10px;
+}
 .grid, .skillscreens li {
 	display:inline-block;
 	margin:5px;
@@ -30,3 +79,4 @@
     background:black;
     color:white;
 }
+

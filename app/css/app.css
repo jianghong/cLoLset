@@ -1,22 +1,89 @@
-/* line 1, ../../compass/sass/app.scss */
+/* line 11, ../../compass/sass/app.scss */
+body {
+  background-image: url("../img/diagonal-noise.gif");
+}
+
+/* line 14, ../../compass/sass/app.scss */
+header {
+  font-family: "Gentium Basic", Sans-Serif;
+  background: black;
+}
+
+/* line 19, ../../compass/sass/app.scss */
+header .container {
+  width: 1215px;
+}
+
+/* line 23, ../../compass/sass/app.scss */
+.infobox {
+  background-image: url("../img/champ_blurs/neonstrikeVI_blur.jpg");
+  margin-right: auto;
+  margin-left: auto;
+  height: 357px;
+  text-align: center;
+  width: 1215px;
+}
+
+/* line 32, ../../compass/sass/app.scss */
+.infobox h1 {
+  color: #ccc;
+}
+
+/* line 36, ../../compass/sass/app.scss */
+.inner-search {
+  padding-top: 100px;
+}
+
+/* line 40, ../../compass/sass/app.scss */
+.form-search {
+  margin-top: 20px;
+}
+
+/* line 43, ../../compass/sass/app.scss */
+a {
+  color: #0000cc;
+}
+/* line 18, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
+a:visited {
+  color: #cccccc;
+}
+/* line 21, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
+a:focus {
+  color: #cccc00;
+}
+/* line 24, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
+a:hover {
+  color: #00cccc;
+}
+/* line 27, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
+a:active {
+  color: #cc00cc;
+}
+
+/* line 47, ../../compass/sass/app.scss */
+.champ-detail {
+  margin-top: 10px;
+}
+
+/* line 50, ../../compass/sass/app.scss */
 .grid, .skillscreens li {
   display: inline-block;
   margin: 5px;
 }
 
-/* line 6, ../../compass/sass/app.scss */
+/* line 55, ../../compass/sass/app.scss */
 .info {
   position: absolute;
   background-color: blue;
   color: white;
 }
 
-/* line 12, ../../compass/sass/app.scss */
+/* line 61, ../../compass/sass/app.scss */
 .preload {
   display: none;
 }
 
-/* line 16, ../../compass/sass/app.scss */
+/* line 65, ../../compass/sass/app.scss */
 .ui-autocomplete {
   max-height: 200px;
   overflow-y: auto;
