@@ -1,16 +1,26 @@
+<header>
+	<div class="container">
+		<h1><a href="#">cLoLset</a></h1>
+	</div>
+</header>
+<section class="grid-wrapper container">
+	<div class="container infobox">
 
-	<div class="infobox">
+		<a href="#/Shaco"><img class="blurred-image animated bounce" src="/app/img/champ_blurs/maskedshaco_blur.jpg" alt="masked shaco blur"></a>
 		<div class="inner-search">
-			<h1>BLLLLLARGZ</h1>
 			<form class="form-search" ng-submit="submit()">
 				<input type="text" class="input-medium search-query" ng-model='query.name' autofocus='autofocus' placeholder='Find your champ'>
 			</form>
 		</div>
+
 	</div>
 
-<ul class="container">
-	<li class="grid" ng-repeat="champ in squares | filter:query">
-		<a href="#/{{champ.name}}"><img alt="{{champ.name}}" ng-src="{{champ.squareUrl}}"></a>
-	</li>
-</ul>
 
+	<div class="mainGrid container">
+		<ul>
+			<li class="grid" ng-repeat="champ in squares | filter:query">
+				<a href="#/{{champ.name}}"><img class="champ-squares" alt="{{champ.name}}" ng-src="{{champ.squareUrl}}"></a>
+			</li>
+		</ul>
+	</div>
+</section>

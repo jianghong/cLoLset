@@ -19,13 +19,12 @@ function ChampGridCtrl($scope, Square, autoCompleteDataService, $location) {
 
 function ChampDetailCtrl($scope, Champ, $routeParams, autoCompleteDataService, $location) {
 	$scope.champName = $routeParams.champName;
-
 	$scope.availableTags = autoCompleteDataService.getSource();
 	$scope.submitted = false;
-	$scope.name = "";
+	$scope.typeaheadValue = "";
 	$scope.submitChoice = function() {
-		if ($scope.name !== ""){
-			$location.path("/"+$scope.name);
+		if ($scope.typeaheadValue !== ""){
+			$location.path("/"+$scope.typeaheadValue);
 		}
 	}
 
@@ -36,6 +35,7 @@ function ChampDetailCtrl($scope, Champ, $routeParams, autoCompleteDataService, $
 	$scope.hideInfo = function() {
 		$scope.hideValue = true;
 	}
+
 	$scope.champs = Champ.get({}, function(champs){
 		$scope.mainImg = champs[$routeParams.champName].splashes[0];
 		$scope.mainSkin = $scope.mainImg.substring(17, ($scope.mainImg.length-11));

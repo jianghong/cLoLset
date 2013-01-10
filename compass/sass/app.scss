@@ -2,81 +2,113 @@ $gentium: "Gentium Basic", Sans-Serif;
 @import "compass/typography/links/link-colors";
 @import "compass/css3/border-radius";
 @import "compass/layout/stretching";
+@import "compass/css3/box-shadow";
 
-// background image, with repeat option
+// MIXINS
 @mixin bgimage($url) {
     background-image: url($url);
 }
 
+@mixin tac {
+    text-align: center;
+}
+
+@mixin transparent($value) {
+    background-color: rgba(0,0,0,$value);
+}
+
+// VARIABLES
+$bgcolor: #162840;
+$bgcomplement: #667EA0;
+$maintextcolor: #ccc;
+
 body {
     @include bgimage("../img/diagonal-noise.gif");
 }
+
 header {
-    font-family: $gentium;
     background:black;
+    height:40px;
 }
 
-header .container {
-    width:1215px;
+header h1 {
+    float:left;
 }
 
-.infobox {
-    background-image:url("../img/champ_blurs/neonstrikeVI_blur.jpg");
-    margin-right:auto;
-    margin-left:auto;
-    height: 357px;
-    text-align:center;
-    width:1215px;
+.grid-wrapper, .detail-wrapper {
+    @include bgimage("../img/debut_dark.png");
+    @include box-shadow;
 }
 
-.infobox h1 {
-    color:#ccc;
+.detail-wrapper {
+    @include border-top-radius(10px);
+    margin-top:1px;
+    padding:15px;
+}
+
+.blurred-image {
+    @include border-bottom-radius(10px);
+    @include box-shadow;
+}
+
+.ACsearch {
+    float:right;
+    margin-top:5px;
 }
 
 .inner-search {
-    padding-top: 100px;
+    @include tac;
+    color:$maintextcolor;
 }
 
 .form-search {
     margin-top:20px;
 }
+
 a {
     @include link-colors(#00c, #0cc, #c0c, #ccc, #cc0);
 }
-
-.champ-detail {
-    margin-top: 10px;
-}
-.grid, .skillscreens li {
+.grid {
 	display:inline-block;
-	margin:5px;
 }
 
-.info {
-	position:absolute;
-	background-color: blue;
+.skillscreens {
+    margin: auto;
+    margin-top: 25px;
+}
+
+.skillscreens li {
+    display:inline;
+}
+
+.hover-info {
+    font-family: $gentium;
+	background-color: black;
 	color: white;
+    @include transparent(0.8);
+    @include tac;
+    position:absolute;
 }
 
 .preload {
 	display:none;
+    position:absolute;
 }
 
-.ui-autocomplete {
-    max-height: 200px;
-    overflow-y: auto;
-    /* prevent horizontal scrollbar */
-    overflow-x: hidden;
-    /* add padding to account for vertical scrollbar */
-    /*padding-right: 20px; */
-    font-family:Arial,Helvetica,sans-serif;
-    padding: 0px 0px 0px 0px; /* top, right ,bottom, left */
-    /*padding-top:0px;*/
-    /*padding-bottom: 0px;*/
-    /*background-color: yellow;*/
-    border-bottom: 1px;
-    width: 100px;
-    background:black;
-    color:white;
+.thumbnails li {
+    margin-top:10px;
+}
+
+.screenshot:hover {
+    width:250px;
+}
+
+.mainImage {
+    @include box-shadow($maintextcolor 0px 0px 10px);
+}
+
+.infoAndSplash {
+    color: $maintextcolor;
+    font-family: $gentium;
 }
 
