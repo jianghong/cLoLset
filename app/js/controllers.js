@@ -3,14 +3,10 @@
 /* Controllers */
 function ChampGridCtrl($scope, Square, autoCompleteDataService, $location) {
 	$scope.squares = Square.query();
-	$scope.champArray = autoCompleteDataService.getSourcelc();
+	$scope.availableTags = autoCompleteDataService.getSource();
 	$scope.submit = function () {
 		if ($scope.query.name !== ""){
-			$scope.convertCap = angular.uppercase($scope.query.name[0])+
-				$scope.query.name.substring(1);
-			if ($scope.champArray.indexOf($scope.query.name) !== -1) {
-				$location.path("/"+$scope.convertCap);
-			}
+			$location.path("/"+$scope.query.name);
 		}
 	}
 }
@@ -20,6 +16,9 @@ function ChampGridCtrl($scope, Square, autoCompleteDataService, $location) {
 function ChampDetailCtrl($scope, Champ, $routeParams, autoCompleteDataService, $location) {
 	$scope.champName = $routeParams.champName;
 	$scope.availableTags = autoCompleteDataService.getSource();
+	$scope.neighbors = autoCompleteDataService.getNeighbors($scope.champName);
+	$scope.previousChamp = $scope.availableTags[$scope.neighbors[0]];
+	$scope.nextChamp = $scope.availableTags[$scope.neighbors[1]];
 	$scope.submitted = false;
 	$scope.typeaheadValue = "";
 	$scope.submitChoice = function() {

@@ -10,7 +10,7 @@ header {
 }
 
 /* line 34, ../../compass/sass/app.scss */
-header h1 {
+header h1, .previous-champ {
   float: left;
 }
 
@@ -31,7 +31,7 @@ header h1 {
   -webkit-border-top-right-radius: 10px;
   border-top-right-radius: 10px;
   margin-top: 1px;
-  padding: 15px;
+  padding: 0px 15px 15px 15px;
 }
 
 /* line 49, ../../compass/sass/app.scss */
@@ -66,7 +66,7 @@ header h1 {
 
 /* line 68, ../../compass/sass/app.scss */
 a {
-  color: #0000cc;
+  color: #cccccc;
 }
 /* line 18, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
 a:visited {
@@ -74,34 +74,34 @@ a:visited {
 }
 /* line 21, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
 a:focus {
-  color: #cccc00;
+  color: #cccccc;
 }
 /* line 24, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
 a:hover {
-  color: #00cccc;
+  color: #0000cc;
 }
 /* line 27, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
 a:active {
-  color: #cc00cc;
+  color: #cccccc;
 }
 
-/* line 71, ../../compass/sass/app.scss */
+/* line 72, ../../compass/sass/app.scss */
 .grid {
   display: inline-block;
 }
 
-/* line 75, ../../compass/sass/app.scss */
+/* line 76, ../../compass/sass/app.scss */
 .skillscreens {
   margin: auto;
   margin-top: 25px;
 }
 
-/* line 80, ../../compass/sass/app.scss */
+/* line 81, ../../compass/sass/app.scss */
 .skillscreens li {
   display: inline;
 }
 
-/* line 84, ../../compass/sass/app.scss */
+/* line 85, ../../compass/sass/app.scss */
 .hover-info {
   font-family: "Gentium Basic", Sans-Serif;
   background-color: black;
@@ -111,31 +111,37 @@ a:active {
   position: absolute;
 }
 
-/* line 93, ../../compass/sass/app.scss */
+/* line 94, ../../compass/sass/app.scss */
 .preload {
   display: none;
   position: absolute;
 }
 
-/* line 98, ../../compass/sass/app.scss */
+/* line 100, ../../compass/sass/app.scss */
 .thumbnails li {
   margin-top: 10px;
 }
 
-/* line 102, ../../compass/sass/app.scss */
+/* line 104, ../../compass/sass/app.scss */
 .screenshot:hover {
   width: 250px;
 }
 
-/* line 106, ../../compass/sass/app.scss */
+/* line 108, ../../compass/sass/app.scss */
 .mainImage {
   -webkit-box-shadow: #cccccc 0px 0px 10px;
   -moz-box-shadow: #cccccc 0px 0px 10px;
   box-shadow: #cccccc 0px 0px 10px;
 }
 
-/* line 110, ../../compass/sass/app.scss */
+/* line 112, ../../compass/sass/app.scss */
 .infoAndSplash {
   color: #cccccc;
   font-family: "Gentium Basic", Sans-Serif;
+  text-align: center;
+}
+
+/* line 118, ../../compass/sass/app.scss */
+.next-champ {
+  float: right;
 }

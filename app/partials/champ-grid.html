@@ -9,7 +9,7 @@
 		<a href="#/Shaco"><img class="blurred-image animated bounce" src="/app/img/champ_blurs/maskedshaco_blur.jpg" alt="masked shaco blur"></a>
 		<div class="inner-search">
 			<form class="form-search" ng-submit="submit()">
-				<input type="text" class="input-medium search-query" ng-model='query.name' autofocus='autofocus' placeholder='Find your champ'>
+				<input type="text" class="input-medium search-query" bs-typeahead="availableTags" data-items="1" ng-model='query.name' autofocus='autofocus' placeholder='Find your champ'>
 			</form>
 		</div>
 

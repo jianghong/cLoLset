@@ -31,7 +31,7 @@ header {
     height:40px;
 }
 
-header h1 {
+header h1, .previous-champ {
     float:left;
 }
 
@@ -43,7 +43,7 @@ header h1 {
 .detail-wrapper {
     @include border-top-radius(10px);
     margin-top:1px;
-    padding:15px;
+    padding: 0px 15px 15px 15px;
 }
 
 .blurred-image {
@@ -66,8 +66,9 @@ header h1 {
 }
 
 a {
-    @include link-colors(#00c, #0cc, #c0c, #ccc, #cc0);
+    @include link-colors(#ccc, #00c, #ccc, #ccc, #ccc);
 }
+
 .grid {
 	display:inline-block;
 }
@@ -95,6 +96,7 @@ a {
     position:absolute;
 }
 
+
 .thumbnails li {
     margin-top:10px;
 }
@@ -110,5 +112,10 @@ a {
 .infoAndSplash {
     color: $maintextcolor;
     font-family: $gentium;
+    @include tac;
+}
+
+.next-champ {
+    float:  right;
 }
 
