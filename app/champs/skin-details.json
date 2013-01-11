@@ -1,0 +1,28 @@
+{
+		"0_Ahri":{
+			"screenshots":[],
+			"rp": 975,
+			"ip": 6300
+		},
+		"1_DynastyAhri":{
+			"screenshots":[],
+			"rp": 975,
+			"ip": 0
+		},
+		"2_MidnightAhri": {
+			"screenshots": [
+				"img/champ_screns/midnightahri/E.jpg",
+				"img/champ_screns/midnightahri/idle.jpg",
+				"img/champ_screns/midnightahri/Q.jpg",
+				"img/champ_screns/midnightahri/R.jpg",
+				"img/champ_screns/midnightahri/W.jpg"
+			],
+			"rp": 975,
+			"ip": 0
+		},
+		"3_FoxfireAhri":{
+			"screenshots":[],
+			"rp": 975,
+			"ip": 0
+		}
+}

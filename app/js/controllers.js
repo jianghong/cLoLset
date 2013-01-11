@@ -13,7 +13,7 @@ function ChampGridCtrl($scope, Square, autoCompleteDataService, $location) {
 //ChampGridCtrl.$inject = ['$scope', 'Square', "autoCompleteDataService", '$location'];
 
 
-function ChampDetailCtrl($scope, Champ, $routeParams, autoCompleteDataService, $location) {
+function ChampDetailCtrl($scope, Champ, Skin, $routeParams, autoCompleteDataService, $location) {
 	$scope.champName = $routeParams.champName;
 	$scope.availableTags = autoCompleteDataService.getSource();
 	$scope.neighbors = autoCompleteDataService.getNeighbors($scope.champName);
@@ -34,10 +34,17 @@ function ChampDetailCtrl($scope, Champ, $routeParams, autoCompleteDataService, $
 	$scope.hideInfo = function() {
 		$scope.hideValue = true;
 	}
-
+	
 	$scope.champs = Champ.get({}, function(champs){
-		$scope.mainImg = champs[$routeParams.champName].splashes[0];
+		$scope.mainImg = champs[$scope.champName].splashes[0];
 		$scope.mainSkin = $scope.mainImg.substring(17, ($scope.mainImg.length-11));
+
+		$scope.skinDetails = Skin.get({}, function(skins){
+			$scope.mainRP = $scope.skinDetails[$scope.mainSkin].rp;
+			$scope.mainIP = $scope.skinDetails[$scope.mainSkin].ip;
+			$scope.hideIPValue = false;
+		})
+
 		$scope.imageList = champs[$scope.champName].splashes;
 		$scope.setImage = function(imageUrl){
 			var indexLen = imageUrl.length - 10; 
@@ -49,10 +56,18 @@ function ChampDetailCtrl($scope, Champ, $routeParams, autoCompleteDataService, $
 				if (splashArray[i].indexOf(index) !== -1) {
 					$scope.mainImg = splashArray[i];
 					$scope.mainSkin = $scope.mainImg.substring(17, ($scope.mainImg.length-11));
+					$scope.mainRP = $scope.skinDetails[$scope.mainSkin].rp;
+					if ($scope.skinDetails[$scope.mainSkin].ip === 0){
+						$scope.hideIPValue = true;
+					}
+					else {
+						$scope.mainIP = $scope.skinDetails[$scope.mainSkin].ip;
+						$scope.hideIPValue = false;
+					}
 					break;
 				}
 			}
 		}
 	});
 }
-//ChampDetailCtrl.$inject = ['$scope', 'Champ', '$routeParams', 'autoCompleteDataService', '$location']; 
+//ChampDetailCtrl.$inject = ['$scope', 'Champ', 'Skin', $routeParams', 'autoCompleteDataService', '$location']; 

@@ -66,20 +66,11 @@ header h1, .previous-champ {
 }
 
 a {
-    @include link-colors(#ccc, #00c, #ccc, #ccc, #ccc);
+    @include link-colors(#ccc, #ccc, #ccc, #ccc, #ccc);
 }
 
 .grid {
 	display:inline-block;
-}
-
-.skillscreens {
-    margin: auto;
-    margin-top: 25px;
-}
-
-.skillscreens li {
-    display:inline;
 }
 
 .hover-info {
@@ -119,3 +110,6 @@ a {
     float:  right;
 }
 
+.champNav {
+    margin-top:5px;
+}

@@ -78,7 +78,7 @@ a:focus {
 }
 /* line 24, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
 a:hover {
-  color: #0000cc;
+  color: #cccccc;
 }
 /* line 27, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
 a:active {
@@ -91,17 +91,6 @@ a:active {
 }
 
 /* line 76, ../../compass/sass/app.scss */
-.skillscreens {
-  margin: auto;
-  margin-top: 25px;
-}
-
-/* line 81, ../../compass/sass/app.scss */
-.skillscreens li {
-  display: inline;
-}
-
-/* line 85, ../../compass/sass/app.scss */
 .hover-info {
   font-family: "Gentium Basic", Sans-Serif;
   background-color: black;
@@ -111,37 +100,42 @@ a:active {
   position: absolute;
 }
 
-/* line 94, ../../compass/sass/app.scss */
+/* line 85, ../../compass/sass/app.scss */
 .preload {
   display: none;
   position: absolute;
 }
 
-/* line 100, ../../compass/sass/app.scss */
+/* line 91, ../../compass/sass/app.scss */
 .thumbnails li {
   margin-top: 10px;
 }
 
-/* line 104, ../../compass/sass/app.scss */
+/* line 95, ../../compass/sass/app.scss */
 .screenshot:hover {
   width: 250px;
 }
 
-/* line 108, ../../compass/sass/app.scss */
+/* line 99, ../../compass/sass/app.scss */
 .mainImage {
   -webkit-box-shadow: #cccccc 0px 0px 10px;
   -moz-box-shadow: #cccccc 0px 0px 10px;
   box-shadow: #cccccc 0px 0px 10px;
 }
 
-/* line 112, ../../compass/sass/app.scss */
+/* line 103, ../../compass/sass/app.scss */
 .infoAndSplash {
   color: #cccccc;
   font-family: "Gentium Basic", Sans-Serif;
   text-align: center;
 }
 
-/* line 118, ../../compass/sass/app.scss */
+/* line 109, ../../compass/sass/app.scss */
 .next-champ {
   float: right;
+}
+
+/* line 113, ../../compass/sass/app.scss */
+.champNav {
+  margin-top: 5px;
 }

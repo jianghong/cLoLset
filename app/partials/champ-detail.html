@@ -6,47 +6,33 @@
   		</form>
   	</div>
   </header>
-
   <div class="detail-wrapper container"> 
   	<div class="container champ-detail">
   		<div class="infoAndSplash">
   			<p>
           <h1 ng-bind-template="{{mainSkin | cleanName | spaceName}}"></h1>
-          <h3>800
+          <h3>{{mainRP}}
             <img src="/app/img/misc icons/rp_icon.png" alt="rp icon">
-            | 4800 
-            <img src="/app/img/misc icons/ip_icon.png" alt="ip icon"></h3>
-          </p>
-
-
-  			<!--<div ng-mouseenter="showInfo()" ng-mouseleave="hideInfo()" ng-hide="hideValue" class="hover-info container">
-  				<ul class="skillscreens">
-  					<li><img class="screenshot" src="/app/img/champ_screens/ahri/midnightahri/idle.jpg" alt=""></li>
-  					<li><img class="screenshot" src="/app/img/champ_screens/ahri/midnightahri/Q.jpg" alt=""></li>
-  					<li><img class="screenshot" src="/app/img/champ_screens/ahri/midnightahri/W.jpg" alt=""></li>
-  					<li><img class="screenshot" src="/app/img/champ_screens/ahri/midnightahri/E.jpg" alt=""></li>
-  					<li><img class="screenshot" src="/app/img/champ_screens/ahri/midnightahri/R.jpg" alt=""></li>
-  					<li><img class="screenshot" src="/app/img/champ_screens/ahri/midnightahri/Q.jpg" alt=""></li>
-  					<li><img class="screenshot" src="/app/img/champ_screens/ahri/midnightahri/W.jpg" alt=""></li>
-  					<li><img class="screenshot" src="/app/img/champ_screens/ahri/midnightahri/R.jpg" alt=""></li>
-  				</ul>
-  			</div>-->
-  			<img ng-mouseleave="hideInfo()" ng-mouseenter="showInfo()" class="mainImage" ng-src="{{mainImg}}">
-                    <a class="previous-champ" ng-href="#/{{previousChamp}}"><i class="icon-arrow-left icon-white"></i> {{previousChamp}}</a>
-            <a class="next-champ" ng-href="#/{{nextChamp}}">{{nextChamp}} <i class="icon-arrow-right icon-white"></i></a>
-  		</div>
-  	</div>
-  	<div class="container selectors">
-  		<ul>
-  			<li class="grid span1" ng-repeat="thumb in champs[champName].thumbs">
-  				<img class="animated bounceInLeft" ng-src="{{thumb}}" ng-mouseenter="setImage(thumb)">
-  			</li>
-  		</ul>
-  	</div>
-  </div>
-  <ul>
-  	<li class="grid" ng-repeat="splash in champs[champName].splashes">
-  		<img class="preload" ng-src="{{splash}}" width="1" height="1" border="0">
-  	</li>
-  </ul>
+            <span ng-hide="hideIPValue">| {{mainIP}}
+              <img src="/app/img/misc icons/ip_icon.png" alt="ip icon"></span></h3>
+            </p>
+            <img ng-mouseleave="hideInfo()" ng-mouseenter="showInfo()" class="mainImage" ng-src="{{mainImg}}">
+            <div class="champNav"><a class="previous-champ" ng-href="#/{{previousChamp}}"><i class="icon-arrow-left icon-white"></i> {{previousChamp}}</a>
+              <a class="next-champ" ng-href="#/{{nextChamp}}">{{nextChamp}} <i class="icon-arrow-right icon-white"></i></a>
+            </div>
+            </div>
+          </div>
+          <div class="container">
+            <ul class="thumbnails">
+             <li class="grid span1" ng-repeat="thumb in champs[champName].thumbs">
+              <img class="animated bounceInLeft" ng-src="{{thumb}}" ng-mouseenter="setImage(thumb)">
+            </li>
+          </ul>
+        </div>
+      </div>
+      <ul>
+       <li class="grid" ng-repeat="splash in champs[champName].splashes">
+        <img class="preload" ng-src="{{splash}}" width="1" height="1" border="0">
+      </li>
+    </ul>
 

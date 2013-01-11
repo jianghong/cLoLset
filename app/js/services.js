@@ -9,11 +9,13 @@ servicesModule.
   	return $resource('champs/champs.json')
   }).
 
-
   factory('Square', function($resource){
   	return $resource('champs/squares.json')
   }).
 
+  factory('Skin', function($resource){
+    return $resource('champs/skin-details.json')
+  }).
 
   factory('autoCompleteDataService', function() {
     return {
