@@ -24,11 +24,12 @@ $maintextcolor: #ccc;
 
 body {
     @include bgimage("../img/diagonal-noise.gif");
+    padding:40px;
 }
 
 header {
     background:black;
-    height:40px;
+    height:60px;
 }
 
 header h1, .previous-champ {
@@ -49,11 +50,6 @@ header h1, .previous-champ {
 .blurred-image {
     @include border-bottom-radius(10px);
     @include box-shadow;
-}
-
-.ACsearch {
-    float:right;
-    margin-top:5px;
 }
 
 .inner-search {
@@ -106,10 +102,14 @@ a {
     @include tac;
 }
 
-.next-champ {
+.next-champ, .thumbnails {
     float:  right;
 }
 
 .champNav {
     margin-top:5px;
+}
+
+.tab-content {
+    margin-top:-20px;
 }

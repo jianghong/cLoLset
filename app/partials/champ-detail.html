@@ -1,38 +1,96 @@
-  <header>
-  	<div class="container">
-  		<h1><a href="#">cLoLset</a></h1>
-  		<form ng-submit="submitChoice()">
-  			<input class="ACsearch" placeholder="Search for a champ" bs-typeahead="availableTags" data-items="4" ng-model="typeaheadValue">
-  		</form>
-  	</div>
-  </header>
-  <div class="detail-wrapper container"> 
-  	<div class="container champ-detail">
-  		<div class="infoAndSplash">
-  			<p>
-          <h1 ng-bind-template="{{mainSkin | cleanName | spaceName}}"></h1>
-          <h3>{{mainRP}}
-            <img src="/app/img/misc icons/rp_icon.png" alt="rp icon">
-            <span ng-hide="hideIPValue">| {{mainIP}}
-              <img src="/app/img/misc icons/ip_icon.png" alt="ip icon"></span></h3>
-            </p>
-            <img ng-mouseleave="hideInfo()" ng-mouseenter="showInfo()" class="mainImage" ng-src="{{mainImg}}">
-            <div class="champNav"><a class="previous-champ" ng-href="#/{{previousChamp}}"><i class="icon-arrow-left icon-white"></i> {{previousChamp}}</a>
-              <a class="next-champ" ng-href="#/{{nextChamp}}">{{nextChamp}} <i class="icon-arrow-right icon-white"></i></a>
-            </div>
-            </div>
-          </div>
-          <div class="container">
-            <ul class="thumbnails">
-             <li class="grid span1" ng-repeat="thumb in champs[champName].thumbs">
-              <img class="animated bounceInLeft" ng-src="{{thumb}}" ng-mouseenter="setImage(thumb)">
+ <div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="brand" href="#">cLoLset</a>
+      <div class="nav-collapse collapse">
+        <ul class="nav">
+          <li class="divider-vertical"></li>
+          <li>
+            <button type="button" class="btn btn-success" bs-modal="'partials/contact.html'">Feedback</button>
+          </li>
+        </ul>
+        <ul class="nav pull-right">
+          <li class="">
+            <li class="divider-vertical"></li>
+          </li>
+          <li>
+            <button type="button" class="btn btn-inverse" bs-modal="'partials/signin.html'">Sign In</button>
+          </li>
+          <li>
+            <button type="button" class="btn btn-inverse" bs-modal="'partials/register.html'">Register</button>
+          </li>
+          <li class="divider-vertical"></li>
+          <li>
+            <form class="navbar-search pull-right" ng-submit="submitChoice()">
+              <input type="text" class="search-query span2" placeholder="Search for a champ" bs-typeahead="availableTags" data-items="4" ng-model="typeaheadValue">
+            </form>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="detail-wrapper container"> 
+  <div class="container champ-detail">
+    <div class="infoAndSplash">
+     <p>
+      <div class="nameAndPrice">        
+        <h1 ng-bind-template="{{mainSkin | cleanName | spaceName}}"></h1>
+        <h3>{{mainRP}}
+          <img src="/app/img/misc icons/rp_icon.png" alt="rp icon">
+          <span ng-hide="hideIPValue">| {{mainIP}}
+            <img src="/app/img/misc icons/ip_icon.png" alt="ip icon"></span></h3>
+          </p>
+        </div>          
+        <div class="tabbable">
+          <ul class="nav nav-tabs">
+            <li class="active">
+              <a href="#tab1" data-toggle="tab">Splash</a>
+            </li>
+            <li>
+              <a href="#tab2" data-toggle="tab">Screenshots</a>
+            </li>
+            <li>
+              <a href="#tab3" data-toggle="tab">Sound</a>
+            </li>
+            <li>
+              <a href="#tab4" data-toggle="tab">Lore</a>
             </li>
           </ul>
+          <div class="tab-content">
+            <div class="tab-pane active" id="tab1">
+              <img ng-mouseleave="hideInfo()" ng-mouseenter="showInfo()" class="mainImage container" ng-src="{{mainImg}}">
+            </div>
+            <div class="tab-pane" id="tab2"><h1>Screenshots go here</h1></div>
+            <div class="tab-pane" id="tab3">
+              <h1>Sound bytes go here</h1>
+            </div>
+            <div class="tab-pane" id="tab4">
+              <h1>Lore goes here</h1>
+            </div>
+          </div>
+        </div>
+        <div class="champNav"><a class="previous-champ" ng-href="#/{{previousChamp}}"><i class="icon-arrow-left icon-white"></i> {{previousChamp}}</a>
+          <a class="next-champ" ng-href="#/{{nextChamp}}">{{nextChamp}} <i class="icon-arrow-right icon-white"></i></a>
         </div>
       </div>
-      <ul>
-       <li class="grid" ng-repeat="splash in champs[champName].splashes">
-        <img class="preload" ng-src="{{splash}}" width="1" height="1" border="0">
+    </div>
+    <div class="container">
+      <ul class="thumbnails">
+       <li class="grid" ng-repeat="thumb in champs[champName].thumbs">
+        <img class="animated bounceInRight" ng-src="{{thumb}}" ng-mouseenter="setImage(thumb)">
       </li>
     </ul>
+  </div>
+</div>
+<ul>
+  <li class="grid" ng-repeat="splash in champs[champName].splashes">
+    <img class="preload" ng-src="{{splash}}" width="1" height="1" border="0">
+  </li>
+</ul>
 
