@@ -24,7 +24,6 @@ $maintextcolor: #ccc;
 
 body {
     @include bgimage("../img/diagonal-noise.gif");
-    padding:40px;
 }
 
 header {
@@ -32,7 +31,7 @@ header {
     height:60px;
 }
 
-header h1, .previous-champ {
+header h1, .previous-champ, .thumbnails {
     float:left;
 }
 
@@ -65,17 +64,8 @@ a {
     @include link-colors(#ccc, #ccc, #ccc, #ccc, #ccc);
 }
 
-.grid {
+.grid, .thumb-grid{
 	display:inline-block;
-}
-
-.hover-info {
-    font-family: $gentium;
-	background-color: black;
-	color: white;
-    @include transparent(0.8);
-    @include tac;
-    position:absolute;
 }
 
 .preload {
@@ -102,7 +92,7 @@ a {
     @include tac;
 }
 
-.next-champ, .thumbnails {
+.next-champ {
     float:  right;
 }
 
@@ -110,6 +100,23 @@ a {
     margin-top:5px;
 }
 
-.tab-content {
-    margin-top:-20px;
+.thumbnav {
+
+}
+
+#response {
+    @include tac;
+}
+
+@media (min-width: 1200px) { 
+    body {
+        padding:40px;
+    }
+    .thumbnav {
+        margin-top: 40px;
+    }
+
+    .detail-wrapper {
+        margin-top:280px;
+    }
 }
