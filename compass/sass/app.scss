@@ -1,0 +1,122 @@
+$gentium: "Gentium Basic", Sans-Serif;
+@import "compass/typography/links/link-colors";
+@import "compass/css3/border-radius";
+@import "compass/layout/stretching";
+@import "compass/css3/box-shadow";
+
+// MIXINS
+@mixin bgimage($url) {
+    background-image: url($url);
+}
+
+@mixin tac {
+    text-align: center;
+}
+
+@mixin transparent($value) {
+    background-color: rgba(0,0,0,$value);
+}
+
+// VARIABLES
+$bgcolor: #162840;
+$bgcomplement: #667EA0;
+$maintextcolor: #ccc;
+
+body {
+    @include bgimage("../img/diagonal-noise.gif");
+}
+
+header {
+    background:black;
+    height:60px;
+}
+
+header h1, .previous-champ, .thumbnails {
+    float:left;
+}
+
+.grid-wrapper, .detail-wrapper {
+    @include bgimage("../img/debut_dark.png");
+    @include box-shadow;
+}
+
+.detail-wrapper {
+    @include border-top-radius(10px);
+    margin-top:1px;
+    padding: 0px 15px 15px 15px;
+}
+
+.blurred-image {
+    @include border-bottom-radius(10px);
+    @include box-shadow;
+}
+
+.inner-search {
+    @include tac;
+    color:$maintextcolor;
+}
+
+.form-search {
+    margin-top:20px;
+}
+
+a {
+    @include link-colors(#ccc, #ccc, #ccc, #ccc, #ccc);
+}
+
+.grid, .thumb-grid{
+	display:inline-block;
+}
+
+.preload {
+	display:none;
+    position:absolute;
+}
+
+
+.thumbnails li {
+    margin-top:10px;
+}
+
+.screenshot:hover {
+    width:250px;
+}
+
+.mainImage {
+    @include box-shadow($maintextcolor 0px 0px 10px);
+}
+
+.infoAndSplash {
+    color: $maintextcolor;
+    font-family: $gentium;
+    @include tac;
+}
+
+.next-champ {
+    float:  right;
+}
+
+.champNav {
+    margin-top:5px;
+}
+
+.thumbnav {
+
+}
+
+#response {
+    @include tac;
+}
+
+@media (min-width: 1200px) { 
+    body {
+        padding:40px;
+    }
+    .thumbnav {
+        margin-top: 40px;
+    }
+
+    .detail-wrapper {
+        margin-top:280px;
+    }
+}

@@ -1,0 +1,72 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="brand" href="#">cLoLset</a>
+      <div class="nav-collapse collapse">
+        <ul class="nav">
+          <li class="divider-vertical"></li>
+          <li>
+            <button type="button" class="btn btn-success" bs-modal="'partials/contact.html'">Feedback</button>
+          </li>
+        </ul>
+        <ul class="nav pull-right">
+          <li class="">
+            <li class="divider-vertical"></li>
+          </li>
+          <li>
+            <button type="button" class="btn btn-inverse" bs-modal="'partials/signin.html'">Sign In</button>
+          </li>
+          <li>
+            <button type="button" class="btn btn-inverse" bs-modal="'partials/register.html'">Register</button>
+          </li>
+          <li class="divider-vertical"></li>
+          <li>
+            <form class="navbar-search pull-right" ng-submit="submitChoice()">
+              <input type="text" class="search-query span2" placeholder="Search for a champ" bs-typeahead="availableTags" data-items="4" ng-model="typeaheadValue">
+            </form>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="navbar-fixed-top thumbnav"><div class="container">
+  <div class="nameAndPrice">   
+    <h1 ng-bind-template="{{mainSkin}}"></h1>
+    <h3>
+      <img src="/app/img/misc icons/rp_icon.png" alt="rp icon">
+      <span ng-hide="hideIPValue">| 
+        <img src="/app/img/misc icons/ip_icon.png" alt="ip icon"></span></h3>
+      </div> 
+      <ul class="thumbnails">
+       <li class="thumb-grid" ng-repeat="thumb in champs[champName].thumbs">
+        <img class="animated bounceInLeft" ng-src="{{thumb}}" ng-click="setImage(thumb)">
+      </li>
+    </ul>
+  </div></div>
+  <div class="detail-wrapper container"> 
+    <div class="container champ-detail">
+      <div class="infoAndSplash">    
+        <img ng-mouseleave="hideInfo()" ng-mouseenter="showInfo()" class="mainImage container" ng-src="{{mainImg}}">
+      </div>
+    </div>
+    <div id="response">
+      <h1>Videos</h1>
+      <iframe width="560" height="315" ng-src={{response}} frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" ng-src={{response2}} frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="champNav"><a class="previous-champ" ng-href="#/{{previousChamp}}"><i class="icon-arrow-left icon-white"></i> {{previousChamp}}</a>
+      <a class="next-champ" ng-href="#/{{nextChamp}}">{{nextChamp}} <i class="icon-arrow-right icon-white"></i></a>
+    </div>
+  </div>
+  <ul>
+    <li class="grid" ng-repeat="splash in champs[champName].splashes">
+      <img class="preload" ng-src="{{splash}}" width="1" height="1" border="0">
+    </li>
+  </ul>
+

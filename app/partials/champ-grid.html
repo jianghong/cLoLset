@@ -1,0 +1,49 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container">
+			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="brand" href="#">cLoLset</a>
+			<div class="nav-collapse collapse">
+				<ul class="nav">
+					<li class="divider-vertical"></li>
+					<li>
+						<button type="button" class="btn btn-success" bs-modal="'partials/contact.html'">Feedback</button>
+					</li>
+				</ul>
+				<ul class="nav pull-right">
+					<li class="">
+						<li class="divider-vertical"></li>
+					</li>
+					<li>
+						<button type="button" class="btn btn-inverse" bs-modal="'partials/signin.html'">Sign In</button>
+					</li>
+					<li>
+						<button type="button" class="btn btn-inverse" bs-modal="'partials/register.html'">Register</button>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<section class="grid-wrapper container">
+	<div class="container infobox">
+		<a href="#/Shaco"><img class="blurred-image animated bounce" src="/app/img/champ_blurs/maskedshaco_blur.jpg" alt="masked shaco blur"></a>
+		<div class="inner-search">
+			<form class="form-search" ng-submit="submit()">
+				<input type="text" class="input-medium search-query" bs-typeahead="availableTags" data-items="1" ng-model='query.name' autofocus='autofocus' placeholder='Find your champ'>
+			</form>
+		</div>
+
+	</div>
+	<div class="mainGrid container">
+		<ul>
+			<li class="grid" ng-repeat="champ in squares | filter:query">
+				<a href="#/{{champ.name}}"><img class="champ-squares" alt="{{champ.name}}" ng-src="{{champ.squareUrl}}"></a>
+			</li>
+		</ul>
+	</div>
+</section>

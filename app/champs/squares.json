@@ -1,0 +1,438 @@
+[
+    {
+        "name": "Ahri",
+        "squareUrl": "img/champ_squares/Ahri_Square_0.png"
+    },
+    {
+        "name": "Akali",
+        "squareUrl": "img/champ_squares/Akali_Square_0.png"
+    },
+    {
+        "name": "Alistar",
+        "squareUrl": "img/champ_squares/Alistar_Square_0.png"
+    },
+    {
+        "name": "Amumu",
+        "squareUrl": "img/champ_squares/Amumu_Square_0.png"
+    },
+    {
+        "name": "Anivia",
+        "squareUrl": "img/champ_squares/Anivia_Square_0.png"
+    },
+    {
+        "name": "Annie",
+        "squareUrl": "img/champ_squares/Annie_Square_0.png"
+    },
+    {
+        "name": "Ashe",
+        "squareUrl": "img/champ_squares/Ashe_Square_0.png"
+    },
+    {
+        "name": "Blitzcrank",
+        "squareUrl": "img/champ_squares/Blitzcrank_Square_0.png"
+    },
+    {
+        "name": "Brand",
+        "squareUrl": "img/champ_squares/Brand_Square_0.png"
+    },
+    {
+        "name": "Caitlyn",
+        "squareUrl": "img/champ_squares/Caitlyn_Square_0.png"
+    },
+    {
+        "name": "Cassiopeia",
+        "squareUrl": "img/champ_squares/Cassiopeia_Square_0.png"
+    },
+    {
+        "name": "Chogath",
+        "squareUrl": "img/champ_squares/Chogath_Square_0.png"
+    },
+    {
+        "name": "Corki",
+        "squareUrl": "img/champ_squares/Corki_Square_0.png"
+    },
+    {
+        "name": "Darius",
+        "squareUrl": "img/champ_squares/Darius_Square_0.png"
+    },
+    {
+        "name": "Diana",
+        "squareUrl": "img/champ_squares/Diana_Square_0.png"
+    },
+    {
+        "name": "Draven",
+        "squareUrl": "img/champ_squares/Draven_Square_0.png"
+    },
+    {
+        "name": "Elise",
+        "squareUrl": "img/champ_squares/Elise_Square_0.png"
+    },
+    {
+        "name": "Evelynn",
+        "squareUrl": "img/champ_squares/Evelynn_Square_0.png"
+    },
+    {
+        "name": "Ezreal",
+        "squareUrl": "img/champ_squares/Ezreal_Square_0.png"
+    },
+    {
+        "name": "Fiddlesticks",
+        "squareUrl": "img/champ_squares/Fiddlesticks_Square_0.png"
+    },
+    {
+        "name": "Fiora",
+        "squareUrl": "img/champ_squares/Fiora_Square_0.png"
+    },
+    {
+        "name": "Fizz",
+        "squareUrl": "img/champ_squares/Fizz_square_0.png"
+    },
+    {
+        "name": "Galio",
+        "squareUrl": "img/champ_squares/Galio_Square_0.png"
+    },
+    {
+        "name": "Gangplank",
+        "squareUrl": "img/champ_squares/Gangplank_Square_0.png"
+    },
+    {
+        "name": "Garen",
+        "squareUrl": "img/champ_squares/Garen_Square_0.png"
+    },
+    {
+        "name": "Gragas",
+        "squareUrl": "img/champ_squares/Gragas_Square_0.png"
+    },
+    {
+        "name": "Graves",
+        "squareUrl": "img/champ_squares/Graves_Square_0.png"
+    },
+    {
+        "name": "Hecarim",
+        "squareUrl": "img/champ_squares/Hecarim_Square_0.png"
+    },
+    {
+        "name": "Heimerdinger",
+        "squareUrl": "img/champ_squares/Heimerdinger_Square_0.png"
+    },
+    {
+        "name": "Irelia",
+        "squareUrl": "img/champ_squares/Irelia_Square_0.png"
+    },
+    {
+        "name": "Janna",
+        "squareUrl": "img/champ_squares/Janna_Square_0.png"
+    },
+    {
+        "name": "Jarvan",
+        "squareUrl": "img/champ_squares/Jarvan_Square_0.png"
+    },
+    {
+        "name": "Jax",
+        "squareUrl": "img/champ_squares/Jax_Square_0.png"
+    },
+    {
+        "name": "Jayce",
+        "squareUrl": "img/champ_squares/Jayce_Square_0.png"
+    },
+    {
+        "name": "Karma",
+        "squareUrl": "img/champ_squares/Karma_Square_0.png"
+    },
+    {
+        "name": "Karthus",
+        "squareUrl": "img/champ_squares/Karthus_Square_0.png"
+    },
+    {
+        "name": "Kassadin",
+        "squareUrl": "img/champ_squares/Kassadin_Square_0.png"
+    },
+    {
+        "name": "Katarina",
+        "squareUrl": "img/champ_squares/Katarina_Square_0.png"
+    },
+    {
+        "name": "Kayle",
+        "squareUrl": "img/champ_squares/Kayle_Square_0.png"
+    },
+    {
+        "name": "Kennen",
+        "squareUrl": "img/champ_squares/Kennen_Square_0.png"
+    },
+    {
+        "name": "Khazix",
+        "squareUrl": "img/champ_squares/Khazix_Square_0.png"
+    },
+    {
+        "name": "Kogmaw",
+        "squareUrl": "img/champ_squares/Kogmaw_Square_0.png"
+    },
+    {
+        "name": "Leblanc",
+        "squareUrl": "img/champ_squares/Leblanc_Square_0.png"
+    },
+    {
+        "name": "LeeSin",
+        "squareUrl": "img/champ_squares/LeeSin_Square_0.png"
+    },
+    {
+        "name": "Leona",
+        "squareUrl": "img/champ_squares/Leona_Square_0.png"
+    },
+    {
+        "name": "Lulu",
+        "squareUrl": "img/champ_squares/Lulu_Square_0.png"
+    },
+    {
+        "name": "Lux",
+        "squareUrl": "img/champ_squares/Lux_Square_0.png"
+    },
+    {
+        "name": "Malphite",
+        "squareUrl": "img/champ_squares/Malphite_Square_0.png"
+    },
+    {
+        "name": "Malzahar",
+        "squareUrl": "img/champ_squares/Malzahar_Square_0.png"
+    },
+    {
+        "name": "Maokai",
+        "squareUrl": "img/champ_squares/Maokai_Square_0.png"
+    },
+    {
+        "name": "MasterYi",
+        "squareUrl": "img/champ_squares/MasterYi_Square_0.png"
+    },
+    {
+        "name": "MissFortune",
+        "squareUrl": "img/champ_squares/MissFortune_Square_0.png"
+    },
+    {
+        "name": "Mordekaiser",
+        "squareUrl": "img/champ_squares/Mordekaiser_Square_0.png"
+    },
+    {
+        "name": "Morgana",
+        "squareUrl": "img/champ_squares/Morgana_Square_0.png"
+    },
+    {
+        "name": "Mundo",
+        "squareUrl": "img/champ_squares/Mundo_Square_0.png"
+    },
+    {
+        "name": "Nami",
+        "squareUrl": "img/champ_squares/Nami_Square_0.png"
+    },
+    {
+        "name": "Nasus",
+        "squareUrl": "img/champ_squares/Nasus_Square_0.png"
+    },
+    {
+        "name": "Nautilus",
+        "squareUrl": "img/champ_squares/Nautilus_Square_0.png"
+    },
+    {
+        "name": "Nidalee",
+        "squareUrl": "img/champ_squares/Nidalee_Square_0.png"
+    },
+    {
+        "name": "Nocturne",
+        "squareUrl": "img/champ_squares/Nocturne_Square_0.png"
+    },
+    {
+        "name": "Nunu",
+        "squareUrl": "img/champ_squares/Nunu_Square_0.png"
+    },
+    {
+        "name": "Olaf",
+        "squareUrl": "img/champ_squares/Olaf_Square_0.png"
+    },
+    {
+        "name": "Orianna",
+        "squareUrl": "img/champ_squares/Orianna_Square_0.png"
+    },
+    {
+        "name": "Pantheon",
+        "squareUrl": "img/champ_squares/Pantheon_Square_0.png"
+    },
+    {
+        "name": "Poppy",
+        "squareUrl": "img/champ_squares/Poppy_Square_0.png"
+    },
+    {
+        "name": "Rammus",
+        "squareUrl": "img/champ_squares/Rammus_Square_0.png"
+    },
+    {
+        "name": "Renekton",
+        "squareUrl": "img/champ_squares/Renekton_Square_0.png"
+    },
+    {
+        "name": "Rengar",
+        "squareUrl": "img/champ_squares/Rengar_Square_0.png"
+    },
+    {
+        "name": "Riven",
+        "squareUrl": "img/champ_squares/Riven_Square_0.png"
+    },
+    {
+        "name": "Rumble",
+        "squareUrl": "img/champ_squares/Rumble_Square_0.png"
+    },
+    {
+        "name": "Ryze",
+        "squareUrl": "img/champ_squares/Ryze_Square_0.png"
+    },
+    {
+        "name": "Sejuani",
+        "squareUrl": "img/champ_squares/Sejuani_Square_0.png"
+    },
+    {
+        "name": "Shaco",
+        "squareUrl": "img/champ_squares/Shaco_Square_0.png"
+    },
+    {
+        "name": "Shen",
+        "squareUrl": "img/champ_squares/Shen_Square_0.png"
+    },
+    {
+        "name": "Shyvana",
+        "squareUrl": "img/champ_squares/Shyvana_Square_0.png"
+    },
+    {
+        "name": "Singed",
+        "squareUrl": "img/champ_squares/Singed_Square_0.png"
+    },
+    {
+        "name": "Sion",
+        "squareUrl": "img/champ_squares/Sion_Square_0.png"
+    },
+    {
+        "name": "Sivir",
+        "squareUrl": "img/champ_squares/Sivir_Square_0.png"
+    },
+    {
+        "name": "Skarner",
+        "squareUrl": "img/champ_squares/Skarner_Square_0.png"
+    },
+    {
+        "name": "Sona",
+        "squareUrl": "img/champ_squares/Sona_Square_0.png"
+    },
+    {
+        "name": "Soraka",
+        "squareUrl": "img/champ_squares/Soraka_Square_0.png"
+    },
+    {
+        "name": "Swain",
+        "squareUrl": "img/champ_squares/Swain_Square_0.png"
+    },
+    {
+        "name": "Syndra",
+        "squareUrl": "img/champ_squares/Syndra_Square_0.png"
+    },
+    {
+        "name": "Talon",
+        "squareUrl": "img/champ_squares/Talon_Square_0.png"
+    },
+    {
+        "name": "Taric",
+        "squareUrl": "img/champ_squares/Taric_Square_0.png"
+    },
+    {
+        "name": "Teemo",
+        "squareUrl": "img/champ_squares/Teemo_Square_0.png"
+    },
+    {
+        "name": "Tristana",
+        "squareUrl": "img/champ_squares/Tristana_Square_0.png"
+    },
+    {
+        "name": "Trundle",
+        "squareUrl": "img/champ_squares/Trundle_Square_0.png"
+    },
+    {
+        "name": "Tryndamere",
+        "squareUrl": "img/champ_squares/Tryndamere_Square_0.png"
+    },
+    {
+        "name": "TwistedFate",
+        "squareUrl": "img/champ_squares/TwistedFate_Square_0.png"
+    },
+    {
+        "name": "Twitch",
+        "squareUrl": "img/champ_squares/Twitch_Square_0.png"
+    },
+    {
+        "name": "Udyr",
+        "squareUrl": "img/champ_squares/Udyr_Square_0.png"
+    },
+    {
+        "name": "Urgot",
+        "squareUrl": "img/champ_squares/Urgot_Square_0.png"
+    },
+    {
+        "name": "Varus",
+        "squareUrl": "img/champ_squares/Varus_Square_0.png"
+    },
+    {
+        "name": "Vayne",
+        "squareUrl": "img/champ_squares/Vayne_Square_0.png"
+    },
+    {
+        "name": "Veigar",
+        "squareUrl": "img/champ_squares/Veigar_Square_0.png"
+    },
+    {
+        "name": "Vi",
+        "squareUrl": "img/champ_squares/Vi _Square_0.png"
+    },
+    {
+        "name": "Viktor",
+        "squareUrl": "img/champ_squares/Viktor_Square_0.png"
+    },
+    {
+        "name": "Vladimir",
+        "squareUrl": "img/champ_squares/Vladimir_Square_0.png"
+    },
+    {
+        "name": "Volibear",
+        "squareUrl": "img/champ_squares/Volibear_Square_0.png"
+    },
+    {
+        "name": "Warwick",
+        "squareUrl": "img/champ_squares/Warwick_Square_0.png"
+    },
+    {
+        "name": "Wukong",
+        "squareUrl": "img/champ_squares/Wukong_Square_0.png"
+    },
+    {
+        "name": "Xerath",
+        "squareUrl": "img/champ_squares/Xerath_Square_0.png"
+    },
+    {
+        "name": "XinZhao",
+        "squareUrl": "img/champ_squares/XinZhao_Square_0.png"
+    },
+    {
+        "name": "Yorick",
+        "squareUrl": "img/champ_squares/Yorick_Square_0.png"
+    },
+    {
+        "name": "Zed",
+        "squareUrl": "img/champ_squares/Zed_Square_0.png"
+    },
+    {
+        "name": "Ziggs",
+        "squareUrl": "img/champ_squares/Ziggs_Square_0.png"
+    },
+    {
+        "name": "Zilean",
+        "squareUrl": "img/champ_squares/Zilean_Square_0.png"
+    },
+    {
+        "name": "Zyra",
+        "squareUrl": "img/champ_squares/Zyra_Square_0.png"
+    }
+]
